@@ -32,7 +32,8 @@ function loadEnvFile() {
     ) {
       v = v.slice(1, -1);
     }
-    if (!(k in process.env)) process.env[k] = v;
+    // Local .env always wins so password changes apply on restart.
+    process.env[k] = v;
   }
 }
 

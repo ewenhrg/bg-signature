@@ -30,6 +30,11 @@ async function api<T>(
     setAdminToken(null);
     throw new Error("Non autorisé");
   }
+  if (res.status === 405 || res.status === 404) {
+    throw new Error(
+      "API admin indisponible. Lancez le site en local avec npm run dev:all (l’admin ne fonctionne pas sur Vercel)."
+    );
+  }
   const data = await res.json().catch(() => ({}));
   if (!res.ok) {
     throw new Error(
