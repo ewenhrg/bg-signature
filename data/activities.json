@@ -1,7 +1,7 @@
 {
-  "importedAt": "2026-09-13T10:56:29.450Z",
+  "importedAt": "2026-09-17T15:04:42.045Z",
   "source": "admin",
-  "count": 81,
+  "count": 80,
   "activities": [
     {
       "id": "4881b145-14bf-4e87-8180-f168244904f9",
@@ -2366,42 +2366,6 @@
         "/images/activities/motocross-a16550ae/02.jpg",
         "/images/activities/motocross-a16550ae/03.jpeg"
       ]
-    },
-    {
-      "id": "2f6ab510-5e29-44e0-8078-eb75180da51c",
-      "slug": "nouvelle-activite-2f6ab510",
-      "category": "desert",
-      "name": {
-        "fr": "Nouvelle activité",
-        "bg": ""
-      },
-      "description": {
-        "fr": "",
-        "bg": ""
-      },
-      "notes": {
-        "fr": "",
-        "bg": ""
-      },
-      "priceAdult": 0,
-      "priceChild": 0,
-      "priceBaby": 0,
-      "ageChild": "",
-      "ageBaby": "",
-      "babiesForbidden": false,
-      "currency": "EUR",
-      "availableDays": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true
-      ],
-      "popular": false,
-      "catalogPaused": false,
-      "images": []
     },
     {
       "id": "d78b32e7-c21b-43f2-a984-6a2750691813",
