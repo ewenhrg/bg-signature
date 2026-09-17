@@ -29,7 +29,12 @@ export function fromPrice(activity: {
   priceChild: number;
   currency: string;
 }) {
-  const candidates = [activity.priceAdult, activity.priceChild].filter((n) => n > 0);
-  if (!candidates.length) return null;
-  return { amount: Math.min(...candidates), currency: activity.currency || "EUR" };
+  // Always prefer the adult tariff for the public "from" price.
+  if (activity.priceAdult > 0) {
+    return { amount: activity.priceAdult, currency: activity.currency || "EUR" };
+  }
+  if (activity.priceChild > 0) {
+    return { amount: activity.priceChild, currency: activity.currency || "EUR" };
+  }
+  return null;
 }
