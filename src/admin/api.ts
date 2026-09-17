@@ -26,7 +26,6 @@ async function api<T>(
   }
 
   const res = await fetch(path, { ...options, headers });
-  const res = await fetch(path, { ...options, headers });
   const data = await res.json().catch(() => ({}));
   if (res.status === 401) {
     setAdminToken(null);
