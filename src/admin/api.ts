@@ -26,16 +26,14 @@ async function api<T>(
   }
 
   const res = await fetch(path, { ...options, headers });
+  const res = await fetch(path, { ...options, headers });
+  const data = await res.json().catch(() => ({}));
   if (res.status === 401) {
     setAdminToken(null);
-    throw new Error("Non autorisé");
-  }
-  if (res.status === 405 || res.status === 404) {
     throw new Error(
-      "API admin indisponible. Lancez le site en local avec npm run dev:all (l’admin ne fonctionne pas sur Vercel)."
+      typeof data?.error === "string" ? data.error : "Non autorisé"
     );
   }
-  const data = await res.json().catch(() => ({}));
   if (!res.ok) {
     throw new Error(
       typeof data?.error === "string" ? data.error : `Erreur ${res.status}`

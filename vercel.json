@@ -1,8 +1,14 @@
 {
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
   "rewrites": [
-    {
-      "source": "/((?!api/).*)",
-      "destination": "/index.html"
+    { "source": "/api/(.*)", "destination": "/api" },
+    { "source": "/((?!api/).*)", "destination": "/index.html" }
+  ],
+  "functions": {
+    "api/index.mjs": {
+      "includeFiles": "{data/**,public/images/**,server/**}",
+      "maxDuration": 60
     }
-  ]
+  }
 }
