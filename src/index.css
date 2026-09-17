@@ -1,0 +1,695 @@
+@import "tailwindcss";
+
+/* ============================================================
+   BG Signature — design system
+   Deep Red Sea teal + warm ivory/sand + gold & coral accents
+
+   Cascade note: everything below sits inside @layer base / components /
+   utilities. Unlayered rules would outrank Tailwind utilities and silently
+   break classes such as h-full, underline or text-white.
+   ============================================================ */
+
+@theme {
+  --font-display: "Outfit", "Segoe UI", sans-serif;
+  --font-body: "Plus Jakarta Sans", "Segoe UI", sans-serif;
+
+  /* Deep teal-navy (text + dark surfaces) */
+  --color-ink-950: #04141a;
+  --color-ink-900: #08222c;
+  --color-ink-800: #0e3341;
+  --color-ink-700: #234b5c;
+  --color-ink-600: #3d6577;
+  --color-ink-500: #5e7f8d;
+  --color-ink-400: #8aa3ad;
+
+  /* Lagoon (primary) */
+  --color-lagoon-800: #023845;
+  --color-lagoon-700: #03505f;
+  --color-lagoon-600: #056e7f;
+  --color-lagoon-500: #0a8f9f;
+  --color-lagoon-400: #18b2c2;
+  --color-lagoon-300: #5ed0dc;
+  --color-lagoon-200: #a8e6ed;
+
+  /* Gold (accent) */
+  --color-sun-600: #b8860d;
+  --color-sun-500: #d9a520;
+  --color-sun-400: #efc95a;
+  --color-sun-300: #f7dd94;
+
+  /* Coral (call to action) */
+  --color-reef-700: #a8341a;
+  --color-reef-600: #cf4526;
+  --color-reef-500: #ef6039;
+  --color-reef-400: #f8825f;
+
+  /* Warm neutrals (surfaces, borders) */
+  --color-mist-50: #faf8f4;
+  --color-mist-100: #f3efe8;
+  --color-mist-200: #e5dfd4;
+  --color-mist-300: #d3cabb;
+
+  /* Legacy aliases (admin screens) */
+  --color-sand-50: #faf8f4;
+  --color-sand-100: #f3efe8;
+  --color-sand-200: #e5dfd4;
+  --color-sea-600: #056e7f;
+  --color-sea-500: #0a8f9f;
+  --color-sea-400: #18b2c2;
+  --color-coral-500: #ef6039;
+  --color-coral-600: #cf4526;
+}
+
+/* ============================================================
+   Base
+   ============================================================ */
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+  }
+
+  body {
+    margin: 0;
+    min-width: 320px;
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.65;
+    color: var(--color-ink-900);
+    background-color: #faf8f4;
+    background-image:
+      radial-gradient(760px 420px at 6% -6%, rgba(10, 143, 159, 0.13), transparent 60%),
+      radial-gradient(620px 380px at 96% 2%, rgba(217, 165, 32, 0.11), transparent 58%),
+      radial-gradient(900px 500px at 50% 108%, rgba(10, 143, 159, 0.08), transparent 60%);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Fixed backgrounds are expensive / broken on many phones (esp. iOS). */
+  @media (hover: hover) and (pointer: fine) {
+    body {
+      background-attachment: fixed;
+    }
+  }
+
+  #root {
+    min-height: 100vh;
+    min-height: 100dvh;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  img {
+    max-width: 100%;
+    display: block;
+  }
+
+  button,
+  a,
+  input,
+  select,
+  textarea {
+    touch-action: manipulation;
+  }
+
+  ::selection {
+    background: var(--color-lagoon-500);
+    color: #fff;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-lagoon-500);
+    outline-offset: 3px;
+  }
+
+  :root {
+    --header-offset: calc(4.25rem + env(safe-area-inset-top, 0px));
+  }
+}
+
+/* ============================================================
+   Components
+   ============================================================ */
+
+@layer components {
+  /* ---------- Typography ---------- */
+
+  .font-display {
+    font-family: var(--font-display);
+    letter-spacing: -0.02em;
+  }
+
+  .text-display-xl {
+    font-family: var(--font-display);
+    font-size: clamp(2.6rem, 7.6vw, 5.75rem);
+    font-weight: 700;
+    line-height: 0.96;
+    letter-spacing: -0.035em;
+  }
+
+  .text-display-lg {
+    font-family: var(--font-display);
+    font-size: clamp(1.95rem, 5vw, 3.5rem);
+    font-weight: 700;
+    line-height: 1.05;
+    letter-spacing: -0.028em;
+  }
+
+  .text-display-md {
+    font-family: var(--font-display);
+    font-size: clamp(1.6rem, 3.6vw, 2.4rem);
+    font-weight: 600;
+    line-height: 1.14;
+    letter-spacing: -0.022em;
+  }
+
+  .text-display-sm {
+    font-family: var(--font-display);
+    font-size: clamp(1.15rem, 2.2vw, 1.4rem);
+    font-weight: 600;
+    line-height: 1.25;
+    letter-spacing: -0.015em;
+  }
+
+  .text-body-lg {
+    font-size: clamp(1rem, 2.1vw, 1.14rem);
+    line-height: 1.7;
+  }
+
+  .eyebrow {
+    font-size: 0.6875rem;
+    font-weight: 700;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+  }
+
+  @media (min-width: 640px) {
+    .eyebrow {
+      font-size: 0.75rem;
+      letter-spacing: 0.26em;
+    }
+  }
+
+  .text-gradient-gold {
+    background: linear-gradient(100deg, #f7dd94 0%, #d9a520 55%, #b8860d 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+
+  .prose-activity {
+    white-space: pre-line;
+    font-size: 0.9688rem;
+    line-height: 1.85;
+    color: var(--color-ink-700);
+  }
+
+  @media (min-width: 640px) {
+    .prose-activity {
+      font-size: 1.02rem;
+    }
+  }
+
+  /* ---------- Surfaces ---------- */
+
+  .surface-deep {
+    background-color: var(--color-ink-950);
+    background-image:
+      radial-gradient(900px 420px at 12% 0%, rgba(10, 143, 159, 0.34), transparent 62%),
+      radial-gradient(700px 380px at 88% 8%, rgba(217, 165, 32, 0.16), transparent 58%);
+  }
+
+  .card {
+    position: relative;
+    background: #fff;
+    border: 1px solid rgba(229, 223, 212, 0.9);
+    border-radius: 1.5rem;
+    box-shadow:
+      0 1px 2px rgba(4, 20, 26, 0.04),
+      0 10px 30px -12px rgba(4, 20, 26, 0.12);
+    transition:
+      transform 0.45s cubic-bezier(0.22, 1, 0.36, 1),
+      box-shadow 0.45s cubic-bezier(0.22, 1, 0.36, 1),
+      border-color 0.45s ease;
+  }
+
+  @media (hover: hover) and (pointer: fine) {
+    .card-interactive:hover {
+      transform: translateY(-6px);
+      border-color: rgba(24, 178, 194, 0.45);
+      box-shadow:
+        0 2px 4px rgba(4, 20, 26, 0.05),
+        0 28px 55px -20px rgba(4, 20, 26, 0.3);
+    }
+  }
+
+  .glass {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+  }
+
+  .hairline-gold {
+    height: 2px;
+    width: 3.25rem;
+    border-radius: 999px;
+    background: linear-gradient(90deg, #d9a520, rgba(217, 165, 32, 0));
+  }
+
+  /* ---------- Buttons ---------- */
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    min-height: 3rem;
+    padding: 0 1.6rem;
+    border-radius: 999px;
+    font-family: var(--font-body);
+    font-size: 0.9375rem;
+    font-weight: 700;
+    letter-spacing: 0.01em;
+    cursor: pointer;
+    border: 1px solid transparent;
+    transition:
+      transform 0.25s cubic-bezier(0.22, 1, 0.36, 1),
+      box-shadow 0.25s ease,
+      background-color 0.25s ease,
+      border-color 0.25s ease,
+      color 0.25s ease;
+  }
+
+  .btn:active {
+    transform: translateY(1px);
+  }
+
+  /* Colour is forced: these buttons must never inherit a dark text colour. */
+  .btn-primary {
+    color: #fff !important;
+    background-image: linear-gradient(135deg, #f8825f 0%, #ef6039 45%, #cf4526 100%);
+    box-shadow: 0 14px 34px -14px rgba(207, 69, 38, 0.7);
+  }
+
+  .btn-lagoon {
+    color: #fff !important;
+    background-image: linear-gradient(135deg, #18b2c2 0%, #0a8f9f 48%, #056e7f 100%);
+    box-shadow: 0 14px 34px -14px rgba(5, 110, 127, 0.65);
+  }
+
+  .btn-ink {
+    color: #fff !important;
+    background-color: var(--color-ink-900);
+  }
+
+  .btn-outline-light {
+    color: #fff !important;
+    border-color: rgba(255, 255, 255, 0.4);
+    background: rgba(255, 255, 255, 0.07);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+  }
+
+  .btn-outline-dark {
+    color: var(--color-ink-900) !important;
+    border-color: var(--color-mist-300);
+    background: #fff;
+  }
+
+  @media (hover: hover) and (pointer: fine) {
+    .btn-primary:hover {
+      box-shadow: 0 20px 44px -14px rgba(207, 69, 38, 0.8);
+      transform: translateY(-2px);
+    }
+
+    .btn-lagoon:hover {
+      box-shadow: 0 20px 44px -14px rgba(5, 110, 127, 0.75);
+      transform: translateY(-2px);
+    }
+
+    .btn-ink:hover {
+      background-color: var(--color-lagoon-700);
+      transform: translateY(-2px);
+    }
+
+    .btn-outline-light:hover {
+      border-color: rgba(255, 255, 255, 0.75);
+      background: rgba(255, 255, 255, 0.15);
+      transform: translateY(-2px);
+    }
+
+    .btn-outline-dark:hover {
+      border-color: var(--color-lagoon-500);
+      color: var(--color-lagoon-600) !important;
+      transform: translateY(-2px);
+    }
+  }
+
+  .btn-sm {
+    min-height: 2.5rem;
+    padding: 0 1.1rem;
+    font-size: 0.8125rem;
+  }
+
+  /* ---------- Pills / badges ---------- */
+
+  .pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    min-height: 2.5rem;
+    padding: 0 0.95rem;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    white-space: nowrap;
+    cursor: pointer;
+    border: 1px solid var(--color-mist-200);
+    background: #fff;
+    color: var(--color-ink-500);
+    transition:
+      background-color 0.25s ease,
+      color 0.25s ease,
+      border-color 0.25s ease,
+      box-shadow 0.25s ease,
+      transform 0.25s ease;
+  }
+
+  @media (hover: hover) and (pointer: fine) {
+    .pill:hover {
+      border-color: var(--color-lagoon-400);
+      color: var(--color-lagoon-600);
+    }
+  }
+
+  .pill-active,
+  .pill-active:hover {
+    color: #fff;
+    border-color: transparent;
+    background-image: linear-gradient(135deg, #0a8f9f, #045f6d);
+    box-shadow: 0 10px 24px -12px rgba(5, 110, 127, 0.75);
+  }
+
+  .badge-gold {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 0.3rem 0.7rem;
+    border-radius: 999px;
+    font-size: 0.65rem;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #3a2a03;
+    background-image: linear-gradient(135deg, #f7dd94, #d9a520);
+    box-shadow: 0 8px 20px -10px rgba(184, 134, 13, 0.9);
+  }
+
+  /* ---------- Image frames ----------
+     Photos come from many sources with unknown ratios, so every frame pins its
+     own ratio and crops with object-fit. Banners additionally use min-height so
+     an overlaid title always has room, and max-height so a tall photo can never
+     swallow the viewport. */
+
+  .frame {
+    position: relative;
+    /* Explicit width so aspect-ratio never derives width from a min-height. */
+    width: 100%;
+    overflow: hidden;
+    background: linear-gradient(135deg, #e5dfd4, #f3efe8);
+  }
+
+  .frame > img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center 42%;
+  }
+
+  .frame-card {
+    aspect-ratio: 4 / 3;
+  }
+
+  .frame-banner {
+    aspect-ratio: 4 / 3;
+    min-height: 18rem;
+    max-height: 70svh;
+  }
+
+  @media (min-width: 640px) {
+    .frame-banner {
+      aspect-ratio: 16 / 10;
+      min-height: 26rem;
+      max-height: 74svh;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .frame-banner {
+      aspect-ratio: 21 / 9;
+      min-height: 30rem;
+      max-height: 68svh;
+    }
+  }
+
+  .frame-square {
+    aspect-ratio: 1 / 1;
+  }
+
+  .frame-portrait {
+    aspect-ratio: 3 / 4;
+  }
+
+  .img-zoom > img {
+    transition: transform 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  @media (hover: hover) and (pointer: fine) {
+    .group:hover .img-zoom > img {
+      transform: scale(1.06);
+    }
+  }
+
+  /* ---------- Scrims (text legibility over photos) ---------- */
+
+  .scrim-bottom {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to top,
+      rgba(4, 20, 26, 0.92) 0%,
+      rgba(4, 20, 26, 0.62) 26%,
+      rgba(4, 20, 26, 0.12) 58%,
+      rgba(4, 20, 26, 0.04) 100%
+    );
+  }
+
+  .scrim-card {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to top,
+      rgba(4, 20, 26, 0.88) 0%,
+      rgba(4, 20, 26, 0.38) 45%,
+      rgba(4, 20, 26, 0) 78%
+    );
+  }
+
+  /* Mobile: bottom-heavy scrim for portrait crops. Desktop: left-biased for
+     text sitting over the open water side of the hero photo. */
+  .scrim-hero {
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(
+        to top,
+        rgba(4, 20, 26, 0.94) 0%,
+        rgba(4, 20, 26, 0.72) 32%,
+        rgba(4, 20, 26, 0.28) 62%,
+        rgba(4, 20, 26, 0.12) 100%
+      );
+  }
+
+  @media (min-width: 768px) {
+    .scrim-hero {
+      background:
+        linear-gradient(
+          100deg,
+          rgba(4, 20, 26, 0.9) 0%,
+          rgba(4, 20, 26, 0.66) 38%,
+          rgba(4, 20, 26, 0.28) 72%,
+          rgba(4, 20, 26, 0.12) 100%
+        ),
+        linear-gradient(to top, rgba(4, 20, 26, 0.72), rgba(4, 20, 26, 0) 48%);
+    }
+  }
+
+  /* ---------- Layout ---------- */
+
+  .shell {
+    width: 100%;
+    max-width: 76rem;
+    margin-inline: auto;
+    padding-left: max(1.15rem, env(safe-area-inset-left));
+    padding-right: max(1.15rem, env(safe-area-inset-right));
+  }
+
+  @media (min-width: 768px) {
+    .shell {
+      padding-left: 2rem;
+      padding-right: 2rem;
+    }
+  }
+}
+
+/* ============================================================
+   Utilities
+   ============================================================ */
+
+@keyframes bg-fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes bg-ken {
+  from {
+    transform: scale(1.08) translateY(1%);
+  }
+  to {
+    transform: scale(1) translateY(0);
+  }
+}
+
+@keyframes bg-float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+@layer utilities {
+  .animate-fade-up {
+    animation: bg-fade-up 0.8s cubic-bezier(0.22, 1, 0.36, 1) both;
+  }
+
+  .animate-fade-up-delay-1 {
+    animation: bg-fade-up 0.85s cubic-bezier(0.22, 1, 0.36, 1) 0.12s both;
+  }
+
+  .animate-fade-up-delay-2 {
+    animation: bg-fade-up 0.9s cubic-bezier(0.22, 1, 0.36, 1) 0.24s both;
+  }
+
+  .animate-fade-up-delay-3 {
+    animation: bg-fade-up 0.95s cubic-bezier(0.22, 1, 0.36, 1) 0.36s both;
+  }
+
+  .animate-ken {
+    animation: bg-ken 16s ease-out both;
+  }
+
+  .animate-float {
+    animation: bg-float 4.5s ease-in-out infinite;
+  }
+
+  /* Scroll reveal, driven by the Reveal component. */
+  .reveal {
+    opacity: 0;
+    transform: translateY(26px);
+    transition:
+      opacity 0.8s cubic-bezier(0.22, 1, 0.36, 1),
+      transform 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+    will-change: opacity, transform;
+  }
+
+  .reveal-in {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .balance {
+    text-wrap: balance;
+  }
+
+  .bg-noise {
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.05'/%3E%3C/svg%3E");
+  }
+
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  .safe-px {
+    padding-left: max(1rem, env(safe-area-inset-left));
+    padding-right: max(1rem, env(safe-area-inset-right));
+  }
+
+  .safe-pt {
+    padding-top: env(safe-area-inset-top, 0px);
+  }
+
+  .safe-pb {
+    padding-bottom: max(1rem, env(safe-area-inset-bottom));
+  }
+
+  .sticky-under-header {
+    top: var(--header-offset);
+  }
+
+  .scroll-under-filters {
+    scroll-margin-top: calc(var(--header-offset) + 8.5rem);
+  }
+}
+
+/* ============================================================
+   Reduced motion
+   ============================================================ */
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-fade-up,
+  .animate-fade-up-delay-1,
+  .animate-fade-up-delay-2,
+  .animate-fade-up-delay-3,
+  .animate-ken,
+  .animate-float {
+    animation: none !important;
+  }
+
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+
+  .card,
+  .btn,
+  .img-zoom > img {
+    transition: none;
+  }
+
+  html {
+    scroll-behavior: auto;
+  }
+}

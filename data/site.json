@@ -1,0 +1,15 @@
+{
+  "brand": "BG Signature",
+  "tagline": {
+    "fr": "Excursions et expériences à Hurghada",
+    "bg": "Екскурзии и преживявания в Хургада"
+  },
+  "whatsappNumber": "",
+  "email": "",
+  "address": "",
+  "instagram": "",
+  "facebook": "",
+  "heroImage": "/images/activities/orange-bay-white-island-6751a190/01.jpg",
+  "defaultLocale": "fr",
+  "locales": ["fr", "bg"]
+}

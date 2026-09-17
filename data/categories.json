@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "key": "desert",
+      "label": {
+        "fr": "Désert",
+        "bg": "Пустиня"
+      }
+    },
+    {
+      "key": "aquatique",
+      "label": {
+        "fr": "Aquatique",
+        "bg": "Водни"
+      }
+    },
+    {
+      "key": "exploration_bien_etre",
+      "label": {
+        "fr": "Exploration / Bien-être",
+        "bg": "Разходки / Уелнес"
+      }
+    },
+    {
+      "key": "luxor_caire",
+      "label": {
+        "fr": "Louxor & Le Caire",
+        "bg": "Луксор и Кайро"
+      }
+    },
+    {
+      "key": "marsa_alam",
+      "label": {
+        "fr": "Marsa Alam",
+        "bg": "Марса Алам"
+      }
+    },
+    {
+      "key": "transfert",
+      "label": {
+        "fr": "Transfert",
+        "bg": "Трансфер"
+      }
+    }
+  ]
+}

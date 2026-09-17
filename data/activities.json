@@ -1,0 +1,3380 @@
+{
+  "importedAt": "2026-09-13T10:56:29.450Z",
+  "source": "admin",
+  "count": 81,
+  "activities": [
+    {
+      "id": "4881b145-14bf-4e87-8180-f168244904f9",
+      "slug": "aquarium-4881b145",
+      "category": "aquatique",
+      "name": {
+        "fr": "AQUARIUM",
+        "bg": "Аквариум"
+      },
+      "description": {
+        "fr": "🐠 AQUARIUM HURGHADA – 40€\n\n🌊 Une immersion fascinante au cœur du monde marin\n\n• Départ : vers 10h00  \n• Retour : vers 12h00  \n• Durée : environ 2h  \n\n🚐 Inclus dans l’offre :  \n• Transfert hôtel aller-retour  \n• Entrée à l’aquarium  \n• Temps libre de visite  \n\n✨ Description :  \nDécouvrez la richesse de la mer Rouge à travers un aquarium moderne et impressionnant. Entre requins, raies, tortues et poissons exotiques, vivez une expérience immersive idéale pour petits et grands.  \n\n⭐ Points forts :  \n• Plus de 1200 espèces à observer  \n• Requins, raies et tortues  \n• Mini-zoo avec animaux terrestres  \n• Activité idéale en famille  \n\nℹ️ Infos :  \n• Spectacle de requins en option  \n• Taxes incluses",
+        "bg": "🐠 АКВАРИУМ ХУРГАДА – 40€\n\n🌊 Завладяващо потапяне в сърцето на морския свят\n\n• Отпътуване: около 10:00ч.\n• Връщане: около 12:00ч.\n• Продължителност: приблизително 2 часа\n\n🚐 Включени в офертата:\n• Двупосочен трансфер до хотела\n• Вход за аквариума\n• Свободно време за посещение\n\n✨ Описание:\nОткрийте богатството на Червено море чрез модерен и впечатляващ аквариум. Между акули, скатове, костенурки и екзотични риби, насладете се на завладяващо изживяване, идеално за малки и големи. \n\n⭐ Акценти:\n• Повече от 1200 вида за наблюдение\n• Акули, скатове и костенурки\n• Мини-зоопарк със сухоземни животни\n• Идеална семейна дейност\n\ni️ Информация:\n• Шоу с акули по желание\n• Включени данъци"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 40,
+      "priceChild": 20,
+      "priceBaby": 0,
+      "ageChild": "5-10ans",
+      "ageBaby": "0-5ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/aquarium-4881b145/01.jpg",
+        "/images/activities/aquarium-4881b145/02.jpg",
+        "/images/activities/aquarium-4881b145/03.jpg",
+        "/images/activities/aquarium-4881b145/04.jpg",
+        "/images/activities/aquarium-4881b145/05.jpeg"
+      ]
+    },
+    {
+      "id": "b7977674-f7fd-4b8e-b58f-ac80b05e09ef",
+      "slug": "buggy-show-b7977674",
+      "category": "desert",
+      "name": {
+        "fr": "BUGGY + SHOW",
+        "bg": "Бъги + шоу"
+      },
+      "description": {
+        "fr": "Safari Buggy\n\nDécouvrez le désert d'Hurghada lors d'une randonnée en buggy de 1h30. Seul ou à plusieurs, explorez les dunes et admirez de magnifiques paysages. Pour les départs de l'après-midi, profitez également d'un dîner oriental accompagné d'un spectacle traditionnel.\n\n✅ Inclus\nLocation d'un buggy 2 ou 4 personnes\nTransfert aller-retour depuis votre hôtel\nÉquipement de sécurité\nDîner oriental et spectacle\n\n\n🕒 Horaires\nDépart après-midi : vers 14h00\n\n\nℹ️ Informations importantes\nConducteur à partir de 16 ans\nAccompagnateur à partir de 6 ans\nActivité interdite aux femmes enceintes\nFoulard et masque en supplément",
+        "bg": "Сафари бъги\n\nОткрийте пустинята Хургада по време на 1,5-часов преход с бъги. Сам или с други, изследвайте дюните и се любувайте на великолепни пейзажи. За следобедните заминавания се насладете и на ориенталска вечеря, придружена от традиционно шоу. \n\n✅ Включени\nНаем на количка за 2 или 4 човека\nДвупосочен трансфер от вашия хотел\nПредпазно оборудване\nОриенталска вечеря и шоу\n\n\n🕒 Графици\nСледобед отпътуване: около 14:00ч.\n\n\nℹ️ Важна информация\nШофьор от 16г\nКорепетитор от 6г\nЗабранена дейност за бременни жени\nШал и маска допълнително"
+      },
+      "notes": {
+        "fr": "conduite a partir de 16ans",
+        "bg": "шофиране от 16г"
+      },
+      "priceAdult": 0,
+      "priceChild": 0,
+      "priceBaby": 0,
+      "ageChild": "Interdit -6ans",
+      "ageBaby": "",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/buggy-show-b7977674/01.jpg",
+        "/images/activities/buggy-show-b7977674/02.jpg",
+        "/images/activities/buggy-show-b7977674/03.jpg",
+        "/images/activities/buggy-show-b7977674/04.jpg",
+        "/images/activities/buggy-show-b7977674/05.jpg",
+        "/images/activities/buggy-show-b7977674/06.jpg",
+        "/images/activities/buggy-show-b7977674/07.jpg",
+        "/images/activities/buggy-show-b7977674/08.jpeg"
+      ]
+    },
+    {
+      "id": "4517ada9-224c-4c81-a5da-3efb8215497e",
+      "slug": "buggy-safari-matin-4517ada9",
+      "category": "desert",
+      "name": {
+        "fr": "BUGGY SAFARI MATIN",
+        "bg": "Бъги сафари сутрин"
+      },
+      "description": {
+        "fr": "Safari Buggy\n\nDécouvrez le désert d'Hurghada lors d'une randonnée en buggy de 1h30. Seul ou à plusieurs, explorez les dunes et admirez de magnifiques paysages. Pour les départs de l'après-midi, profitez également d'un dîner oriental accompagné d'un spectacle traditionnel.\n\n\n✅ Inclus\nLocation d'un buggy 2 ou 4 personnes\nTransfert aller-retour depuis votre hôtel\nÉquipement de sécurité\n\n\n🕒 Horaires\nDépart matin : vers 8h30\n\n\nℹ️ Informations importantes\nConducteur à partir de 16 ans\nAccompagnateur à partir de 6 ans\nActivité interdite aux femmes enceintes\nFoulard et masque en supplément",
+        "bg": "Сафари бъги\n\nОткрийте пустинята Хургада по време на 1,5-часов преход с бъги. Сам или с други, изследвайте дюните и се любувайте на великолепни пейзажи. За следобедните заминавания се насладете и на ориенталска вечеря, придружена от традиционно шоу. \n\n\n✅ Включени\nНаем на количка за 2 или 4 човека\nДвупосочен трансфер от вашия хотел\nПредпазно оборудване\n\n\n🕒 Графици\nСутрешно отпътуване: около 8:30 ч.\n\n\nℹ️ Важна информация\nШофьор от 16г\nКорепетитор от 6г\nЗабранена дейност за бременни жени\nШал и маска допълнително"
+      },
+      "notes": {
+        "fr": "110€ Buggy simple 150€ buggy family",
+        "bg": "110€ Единична количка 150€ Семейна количка"
+      },
+      "priceAdult": 110,
+      "priceChild": 0,
+      "priceBaby": 0,
+      "ageChild": "6-16ans",
+      "ageBaby": "Interdit -6ans",
+      "babiesForbidden": true,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/buggy-safari-matin-4517ada9/01.jpg",
+        "/images/activities/buggy-safari-matin-4517ada9/02.jpg",
+        "/images/activities/buggy-safari-matin-4517ada9/03.jpg",
+        "/images/activities/buggy-safari-matin-4517ada9/04.jpeg"
+      ]
+    },
+    {
+      "id": "344f3d9c-4711-44a8-8d9f-003cc57f139c",
+      "slug": "caire-ancien-musee-344f3d9c",
+      "category": "luxor_caire",
+      "name": {
+        "fr": "CAIRE ANCIEN MUSEE",
+        "bg": "Кайро — Стар музей"
+      },
+      "description": {
+        "fr": "🏜️ **Le Caire – Formule VAN (1 journée)**\n\nPartez à la découverte du Caire et plongez dans l’histoire fascinante de l’une des plus grandes civilisations du monde ✨\n\n🏛️ **Les incontournables de l’Égypte**\nExplorez les sites mythiques :\n• Pyramides de Khéops\n• Sphinx de Gizeh\n• Ancien Musée du Caire (musée égyptien historique)\n\n\n🛍️ **Temps libre & souvenirs**\nFlânez dans les boutiques locales et découvrez l’ambiance authentique du Caire.\n\n⏰ **Programme**\n• Départ : vers 1h (approximatif)\n• Retour : vers 23h (approximatif)\n\n✅ **Inclus dans l’offre**\n• Transport en minivan climatisé\n• Guide égyptologue francophone\n• Frais d’entrée aux sites & à l’ancien musée\n• Déjeuner dans un restaurant\n\n⚠️ **Options**\n• Entrée à l’intérieur des pyramides\n• Balade à dos de chameau\n\n💰 **Prix : 85€**\n\n📞 Réservation & infos : +201062002850",
+        "bg": "🏜️ **Кайро – VAN Formula (1 ден)**\n\nОткрийте Кайро и се потопете в завладяващата история на една от най-великите цивилизации в света ✨\n\n🏛️ **Задължителните места в Египет**\nРазгледайте митичните сайтове:\n• Пирамидите на Хеопс\n• Сфинкс от Гиза\n• Старият музей на Кайро (исторически египетски музей)\n\n\n🛍️ **Свободно време и спомени**\nРазходете се из местните магазини и се насладете на автентичната атмосфера на Кайро. \n\n⏰ **Програма**\n• Тръгване: около 1 ч. (приблизително)\n• Връщане: около 23ч. (приблизително)\n\n✅ **Включено в офертата**\n• Транспорт с климатизиран миниван\n• Френскоговорящ гид египтолог\n• Входни такси за обектите и стария музей\n• Обяд в ресторант\n\n⚠️ **Опции**\n• Вход вътре в пирамидите\n• Яздене на камила\n\n💰 **Цена: €85**\n\n📞 Резервации и информация: +201062002850"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 85,
+      "priceChild": 45,
+      "priceBaby": 25,
+      "ageChild": "6-11ans",
+      "ageBaby": "0-6ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/caire-ancien-musee-344f3d9c/01.jpg",
+        "/images/activities/caire-ancien-musee-344f3d9c/02.jpg",
+        "/images/activities/caire-ancien-musee-344f3d9c/03.jpg",
+        "/images/activities/caire-ancien-musee-344f3d9c/04.jpg",
+        "/images/activities/caire-ancien-musee-344f3d9c/05.jpg",
+        "/images/activities/caire-ancien-musee-344f3d9c/06.jpg"
+      ]
+    },
+    {
+      "id": "d0c47b8a-1a74-42bf-8f36-b89022aef4ea",
+      "slug": "caire-avion-ancien-musee-d0c47b8a",
+      "category": "luxor_caire",
+      "name": {
+        "fr": "CAIRE AVION ANCIEN MUSEE",
+        "bg": "Кайро със самолет — Стар музей"
+      },
+      "description": {
+        "fr": "🏛️ Le Caire – Formule Avion\n\nDécouvrez les incontournables du Caire lors d'une excursion en avion au départ d'Hurghada. Visitez les pyramides de Gizeh, le Sphinx, le Musée du Caire, profitez d'une balade sur le Nil et découvrez le célèbre marché de Khan El Khalili.\n\n✅ Inclus\nBillets d'avion\nFrais d'entrée aux sites et au musée\nGuide égyptologue francophone\nCollation matinale\nDéjeuner au restaurant\n\n\n🕒 Horaires\nDépart : vers 5h00 (approximatif)\nRetour : vers 23h00 (approximatif)\n\n\n📍 Programme\nVisite des pyramides de Gizeh et du Sphinx\nVisite du Musée du Caire\nTemps libre dans les boutiques de souvenirs\nVisite du marché de Khan El Khalili\n\n\nℹ️ Informations importantes\nEntrée à l'intérieur des pyramides en supplément\nBalade à dos de chameau en supplément\nLes tarifs peuvent varier selon la saison\nTaxes incluses",
+        "bg": "🏛️ Кайро – самолетен пакет\n\nОткрийте задължителните атракции на Кайро по време на обиколка със самолет от Хургада. Посетете пирамидите в Гиза, Сфинкса, музея в Кайро, насладете се на разходка по Нил и открийте известния пазар Хан Ел Халили. \n\n✅ Включени\nСамолетни билети\nВходни такси за обекти и музей\nРъководство на френски египтолог\nСутрешна закуска\nОбяд в ресторанта\n\n\n🕒 Графици\nТръгване: около 5:00 ч. (приблизително)\nВръщане: около 23:00ч. (приблизително)\n\n\n📍 Програма\nПосещение на пирамидите в Гиза и Сфинкса\nПосещение на музея в Кайро\nСвободно време в магазините за сувенири\nПосещение на пазара Хан Ел Халили\n\n\nℹ️ Важна информация\nВход в пирамидите срещу допълнително заплащане\nЯздене на камила срещу допълнително заплащане\nЦените могат да варират в зависимост от сезона\nВключени данъци"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 275,
+      "priceChild": 225,
+      "priceBaby": 75,
+      "ageChild": "+ 2 ans",
+      "ageBaby": "- 2 ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/caire-avion-ancien-musee-d0c47b8a/01.png",
+        "/images/activities/caire-avion-ancien-musee-d0c47b8a/02.jpg",
+        "/images/activities/caire-avion-ancien-musee-d0c47b8a/03.jpg",
+        "/images/activities/caire-avion-ancien-musee-d0c47b8a/04.jpg",
+        "/images/activities/caire-avion-ancien-musee-d0c47b8a/05.jpg",
+        "/images/activities/caire-avion-ancien-musee-d0c47b8a/06.jpg",
+        "/images/activities/caire-avion-ancien-musee-d0c47b8a/07.jpeg"
+      ]
+    },
+    {
+      "id": "da1a9dd6-9d70-4772-bc24-874251752fc2",
+      "slug": "caire-avion-nouveau-musee-da1a9dd6",
+      "category": "luxor_caire",
+      "name": {
+        "fr": "CAIRE AVION NOUVEAU MUSEE",
+        "bg": "Кайро със самолет — Нов музей"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 305,
+      "priceChild": 255,
+      "priceBaby": 105,
+      "ageChild": "+ 2ans",
+      "ageBaby": "- 2ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/caire-avion-nouveau-musee-da1a9dd6/01.png",
+        "/images/activities/caire-avion-nouveau-musee-da1a9dd6/02.jpg",
+        "/images/activities/caire-avion-nouveau-musee-da1a9dd6/03.jpg",
+        "/images/activities/caire-avion-nouveau-musee-da1a9dd6/04.jpg",
+        "/images/activities/caire-avion-nouveau-musee-da1a9dd6/05.jpg",
+        "/images/activities/caire-avion-nouveau-musee-da1a9dd6/06.jpg",
+        "/images/activities/caire-avion-nouveau-musee-da1a9dd6/07.jpeg"
+      ]
+    },
+    {
+      "id": "1e5f1b09-e604-4ff0-a12b-00bf0c046d5f",
+      "slug": "caire-bus-1e5f1b09",
+      "category": "luxor_caire",
+      "name": {
+        "fr": "CAIRE BUS",
+        "bg": "Кайро с автобус"
+      },
+      "description": {
+        "fr": "🏛️ Le Caire – Formule Éco\n\nPartez à la découverte des trésors du Caire en bus au départ d'Hurghada. Visitez les pyramides de Gizeh, le Sphinx et le Musée du Caire, puis profitez d'un arrêt dans une boutique de souvenirs avant le retour.\n\n✅ Inclus\nTransport en bus de voyage\nFrais d'entrée aux sites et au musée\nDéjeuner (hors boissons)\n\n\n🕒 Horaires\nDépart : vers 1h00 (approximatif)\nRetour : vers 00h00 (approximatif)\n\n\n📍 Programme\nVisite des pyramides de Khéops\nVisite du Sphinx de Gizeh\nVisite du Musée du Caire\nArrêt dans une boutique de souvenirs\n\n\nℹ️ Informations importantes\nEntrée à l'intérieur des pyramides en supplément\nBalade à dos de chameau en supplément\nLes tarifs peuvent varier selon la saison\nTaxes incluses",
+        "bg": "🏛️ Кайро – Еко пакет\n\nОткрийте съкровищата на Кайро с автобус от Хургада. Посетете пирамидите в Гиза, Сфинкса и музея в Кайро, след което се отбийте в магазин за сувенири, преди да се върнете. \n\n✅ Включени\nТранспорт с туристически автобус\nВходни такси за обекти и музей\nОбяд (без напитки)\n\n\n🕒 Графици\nТръгване: около 1:00 ч. (приблизително)\nВръщане: около 00:00 ч. (приблизително)\n\n\n📍 Програма\nПосещение на Хеопсовите пирамиди\nПосетете Сфинкса в Гиза\nПосещение на музея в Кайро\nСпрете в магазин за сувенири\n\n\nℹ️ Важна информация\nВход в пирамидите срещу допълнително заплащане\nЯздене на камила срещу допълнително заплащане\nЦените могат да варират в зависимост от сезона\nВключени данъци"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 65,
+      "priceChild": 35,
+      "priceBaby": 25,
+      "ageChild": "6-11ans",
+      "ageBaby": "0-6ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/caire-bus-1e5f1b09/01.png",
+        "/images/activities/caire-bus-1e5f1b09/02.jpg",
+        "/images/activities/caire-bus-1e5f1b09/03.jpg",
+        "/images/activities/caire-bus-1e5f1b09/04.jpg",
+        "/images/activities/caire-bus-1e5f1b09/05.jpg",
+        "/images/activities/caire-bus-1e5f1b09/06.jpg",
+        "/images/activities/caire-bus-1e5f1b09/07.jpeg"
+      ]
+    },
+    {
+      "id": "7622a562-ce30-492a-bb7e-91180be58e0b",
+      "slug": "caire-nouveau-musee-7622a562",
+      "category": "luxor_caire",
+      "name": {
+        "fr": "CAIRE NOUVEAU MUSEE",
+        "bg": "Кайро — Нов музей"
+      },
+      "description": {
+        "fr": "🏜️ **Le Caire – Formule VAN 2 (Nouveau Musée)**\n\nDécouvrez le Caire autrement avec une excursion complète incluant le **NOUVEAU Grand Egyptian Museum**, une expérience unique et moderne ✨\n\n🏛️ **Les incontournables de l’Égypte**\n• Pyramides de Khéops\n• Sphinx de Gizeh\n• Nouveau Grand Egyptian Museum (GEM)\n\n🏺 **Une immersion exceptionnelle**\nPlongez au cœur de l’Égypte antique dans l’un des plus grands musées au monde, regroupant des trésors pharaoniques uniques.\n\n🛍️ **Souvenirs & ambiance locale**\nTemps libre dans les boutiques pour découvrir l’artisanat local.\n\n⏰ **Programme**\n• Départ : vers 1h (approximatif)\n• Retour : vers 23h (approximatif)\n\n✅ **Inclus dans l’offre**\n• Transport en minivan climatisé\n• Guide égyptologue francophone\n• Frais d’entrée aux sites & au nouveau musée\n• Déjeuner dans un restaurant\n\n⚠️ **Options**\n• Entrée à l’intérieur des pyramides\n• Balade à dos de chameau\n\n💰 **Prix : 95€**\n\n📞 Réservation & infos : +201062002850",
+        "bg": "🏜️ **Кайро – Формула VAN 2 (Нов музей)**\n\nОткрийте Кайро по различен начин с пълна екскурзия, включваща **НОВИЯ Голям египетски музей**, уникално и модерно изживяване ✨\n\n🏛️ **Задължителните места в Египет**\n• Пирамидите на Хеопс\n• Сфинкс от Гиза\n• Нов голям египетски музей (GEM)\n\n🏺 **Изключително потапяне**\nПотопете се в сърцето на древен Египет в един от най-големите музеи в света, събиращ уникални фараонски съкровища. \n\n🛍️ **Сувенири и местна атмосфера**\nСвободно време в магазините за откриване на местни занаяти. \n\n⏰ **Програма**\n• Тръгване: около 1 ч. (приблизително)\n• Връщане: около 23ч. (приблизително)\n\n✅ **Включено в офертата**\n• Транспорт с климатизиран миниван\n• Френскоговорящ гид египтолог\n• Входни такси за обектите и новия музей\n• Обяд в ресторант\n\n⚠️ **Опции**\n• Вход вътре в пирамидите\n• Яздене на камила\n\n💰 **Цена: €95**\n\n📞 Резервации и информация: +201062002850"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 95,
+      "priceChild": 60,
+      "priceBaby": 30,
+      "ageChild": "6-11ans",
+      "ageBaby": "0-6ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
+      "popular": true,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/caire-nouveau-musee-7622a562/01.png",
+        "/images/activities/caire-nouveau-musee-7622a562/02.jpg",
+        "/images/activities/caire-nouveau-musee-7622a562/03.jpg",
+        "/images/activities/caire-nouveau-musee-7622a562/04.jpg",
+        "/images/activities/caire-nouveau-musee-7622a562/05.jpg",
+        "/images/activities/caire-nouveau-musee-7622a562/06.jpg",
+        "/images/activities/caire-nouveau-musee-7622a562/07.jpg",
+        "/images/activities/caire-nouveau-musee-7622a562/08.jpg"
+      ]
+    },
+    {
+      "id": "de74ddcc-b095-49b2-a983-ec0b395800b7",
+      "slug": "caire-overnight-de74ddcc",
+      "category": "luxor_caire",
+      "name": {
+        "fr": "CAIRE OVERNIGHT",
+        "bg": "Кайро с нощувка"
+      },
+      "description": {
+        "fr": "🏛️ Le Caire – Formule Overnight\n\nDécouvrez Le Caire sur deux jours au départ d'Hurghada. Visitez les pyramides de Gizeh, le Sphinx, le Musée du Caire, profitez d'une balade sur le Nil, explorez le quartier de Khan El Khalili et passez une nuit à l'hôtel avant de visiter la Citadelle de Saladin.\n\n✅ Inclus\nBillets d'entrée aux sites et au musée\nGuide égyptologue francophone\nCollation matinale\nDéjeuner\nDîner\nNuit à l'hôtel avec petit-déjeuner\n\n\n🕒 Horaires\nDépart : vers 1h00 (approximatif)\nRetour : le lendemain dans l'après-midi\n\n\n📍 Programme\n\nJour 1\n\nVisite des pyramides de Gizeh et du Sphinx\nVisite du Musée du Caire\nDîner et visite du quartier de Khan El Khalili\n\nJour 2\n\nPetit-déjeuner à l'hôtel\nVisite de la Citadelle de Saladin\nRetour vers Hurghada\n\n\nℹ️ Informations importantes\nEntrée à l'intérieur des pyramides en supplément\nBalade à dos de chameau en supplément\nLes tarifs peuvent varier selon la saison\nTaxes incluses",
+        "bg": "🏛️ Кайро – Нощувка\n\nОткрийте Кайро за два дни от Хургада. Посетете пирамидите в Гиза, Сфинкса, музея в Кайро, насладете се на разходка по Нил, разгледайте квартал Хан Ел Халили и прекарайте една нощ в хотела, преди да посетите Цитаделата на Саладин. \n\n✅ Включени\nВходни билети за обектите и музея\nРъководство на френски египтолог\nСутрешна закуска\nОбяд\nВечеря\nНощувка в хотела със закуска\n\n\n🕒 Графици\nТръгване: около 1:00 ч. (приблизително)\nВръщане: на следващия ден следобед\n\n\n📍 Програма\n\nДен 1\n\nПосещение на пирамидите в Гиза и Сфинкса\nПосещение на музея в Кайро\nВечеря и посещение на квартал Хан Ел Халили\n\nДен 2\n\nЗакуска в хотела\nПосещение на Цитаделата на Саладин\nВръщане в Хургада\n\n\nℹ️ Важна информация\nВход в пирамидите срещу допълнително заплащане\nЯздене на камила срещу допълнително заплащане\nЦените могат да варират в зависимост от сезона\nВключени данъци"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 265,
+      "priceChild": 125,
+      "priceBaby": 25,
+      "ageChild": "6-11ans",
+      "ageBaby": "0-6ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/caire-overnight-de74ddcc/01.png",
+        "/images/activities/caire-overnight-de74ddcc/02.jpg",
+        "/images/activities/caire-overnight-de74ddcc/03.jpg",
+        "/images/activities/caire-overnight-de74ddcc/04.jpg",
+        "/images/activities/caire-overnight-de74ddcc/05.jpg",
+        "/images/activities/caire-overnight-de74ddcc/06.jpg",
+        "/images/activities/caire-overnight-de74ddcc/07.jpg",
+        "/images/activities/caire-overnight-de74ddcc/08.jpg",
+        "/images/activities/caire-overnight-de74ddcc/09.jpeg"
+      ]
+    },
+    {
+      "id": "d514ada5-0e96-4cc3-8a02-445467db16cb",
+      "slug": "caleche-show-d514ada5",
+      "category": "desert",
+      "name": {
+        "fr": "CALECHE + SHOW",
+        "bg": "Каляска + шоу"
+      },
+      "description": {
+        "fr": "🐎 **CALÈCHE – DÎNER & SHOW ORIENTAL** 🌅\n\nProfitez d’une balade paisible suivie d’une soirée typique au cœur du désert ✨\n\n🕐 **Horaires :**\n• Départ vers 14h00\n• Retour vers 20h00\n\n🌴 **Au programme :**\n• Balade en calèche entre désert et mer\n• Paysages naturels et moment de détente\n• Dîner oriental\n• Spectacle traditionnel\n\n✅ **Inclus :**\n• Balade en calèche\n• Dîner + show\n• Transfert aller / retour hôtel\n\n💰 **Tarif :** 45€ (taxes incluses)\n\n⚠️ 1 adulte + 2 enfants max par calèche\n⚠️ Poids maximum : 90 kg\n⚠️ Activité interdite aux femmes enceintes\n\n✨ Une expérience authentique et relaxante, idéale en famille\n\n📞 Contact : +20 106 200 2850\n📍 Esplanada Mall, Avenue Al Mamsha",
+        "bg": "🐎 **КАРЕТА – ВЕЧЕРЯ И ОРИЕНТАЛСКО ШОУ** 🌅\n\nНасладете се на спокойна разходка, последвана от типична вечер в сърцето на пустинята ✨\n\n🕐 **Время:**\n• Тръгване около 14:00ч.\n• Връщане около 20:00ч.\n\n🌴 **По програмата:**\n• Разходка с карета между пустиня и море\n• Природни пейзажи и моменти за почивка\n• Ориенталска вечеря\n• Традиционен спектакъл\n\n✅ **Включено:**\n• Разходка с файтон\n• Вечеря + шоу\n• Трансфер от/до хотела\n\n💰 **Цена:** €45 (с включени данъци)\n\n⚠️ 1 възрастен + 2 деца максимум на вагон\n⚠️ Максимално тегло: 90 кг\n⚠️ Дейности, забранени за бременни жени\n\n✨ Автентично и релаксиращо изживяване, идеално за семейства\n\n📞 Контакт: +20 106 200 2850\n📍 Esplanada Mall, Al Mamsha Avenue"
+      },
+      "notes": {
+        "fr": "1 Adulte + 2 Enfants max",
+        "bg": "1 възрастен + 2 деца макс"
+      },
+      "priceAdult": 45,
+      "priceChild": 45,
+      "priceBaby": 0,
+      "ageChild": "6-16ans",
+      "ageBaby": "0-6ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/caleche-show-d514ada5/01.jpg",
+        "/images/activities/caleche-show-d514ada5/02.jpg",
+        "/images/activities/caleche-show-d514ada5/03.jpeg"
+      ]
+    },
+    {
+      "id": "ec13193a-7586-40c1-a3f1-18ee58f89c0c",
+      "slug": "cheval-show-ec13193a",
+      "category": "desert",
+      "name": {
+        "fr": "CHEVAL SHOW",
+        "bg": "Конно шоу"
+      },
+      "description": {
+        "fr": "🐎 Balade à cheval + Dîner & Show\n\nProfitez d'une balade à cheval entre le désert et le bord de mer dans un cadre naturel unique. En fin de journée, partagez un dîner oriental accompagné d'un spectacle traditionnel au cœur d'un centre équestre réputé d'Hurghada.\n\n✅ Inclus\nBalade à cheval dans le désert et en bord de mer\nDîner oriental\nSpectacle traditionnel\nCheval à disposition\nTransfert aller-retour depuis votre hôtel\n🕒 Horaires\nDépart : vers 14h00 (approximatif)\nRetour : vers 20h00 (approximatif)\nℹ️ Informations importantes\nActivité accessible à partir de 6 ans\nPoids maximum autorisé : 90 kg\nActivité interdite aux femmes enceintes\nLes tarifs peuvent varier selon la saison\nTaxes incluses",
+        "bg": "🐎 Конна езда + вечеря и шоу\n\nНасладете се на конна езда между пустинята и морския бряг в уникална природна среда. В края на деня споделете ориенталска вечеря, придружена от традиционно шоу в сърцето на известна конна база в Хургада. \n\n✅ Включени\nКонна езда в пустинята и край морето\nОриенталска вечеря\nТрадиционно шоу\nНаличен кон\nДвупосочен трансфер от вашия хотел\n🕒 Графици\nТръгване: около 14:00ч. (приблизително)\nВръщане: около 20:00ч. (приблизително)\nℹ️ Важна информация\nДейността е достъпна от 6 години\nМаксимално допустимо тегло: 90 кг\nЗабранена дейност за бременни жени\nЦените могат да варират в зависимост от сезона\nВключени данъци"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 35,
+      "priceChild": 35,
+      "priceBaby": 0,
+      "ageChild": "6-11ans",
+      "ageBaby": "",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "popular": true,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/cheval-show-ec13193a/01.jpg",
+        "/images/activities/cheval-show-ec13193a/02.jpg",
+        "/images/activities/cheval-show-ec13193a/03.jpg",
+        "/images/activities/cheval-show-ec13193a/04.jpg",
+        "/images/activities/cheval-show-ec13193a/05.jpg",
+        "/images/activities/cheval-show-ec13193a/06.jpg",
+        "/images/activities/cheval-show-ec13193a/07.jpeg"
+      ]
+    },
+    {
+      "id": "7447a538-5366-472e-983a-6e6719f97193",
+      "slug": "combo-aquatique-7447a538",
+      "category": "desert",
+      "name": {
+        "fr": "COMBO AQUATIQUE",
+        "bg": "Воден комбо пакет"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 30,
+      "priceChild": 30,
+      "priceBaby": 0,
+      "ageChild": "Interdit -6ans",
+      "ageBaby": "",
+      "babiesForbidden": true,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/combo-aquatique-7447a538/01.jpg",
+        "/images/activities/combo-aquatique-7447a538/02.jpg",
+        "/images/activities/combo-aquatique-7447a538/03.jpg"
+      ]
+    },
+    {
+      "id": "4339bec9-d1cb-4304-88d4-bb13c0ec9137",
+      "slug": "dolphin-house-4339bec9",
+      "category": "aquatique",
+      "name": {
+        "fr": "DOLPHIN HOUSE",
+        "bg": "Dolphin House"
+      },
+      "description": {
+        "fr": "🐬 Dolphin House\n\nPartez en mer à la rencontre des dauphins dans leur habitat naturel. Cette excursion comprend plusieurs arrêts snorkeling pour découvrir les récifs coralliens, ainsi qu'un déjeuner servi à bord avec boissons incluses.\n\n✅ Inclus\nObservation des dauphins en liberté\n2 à 3 arrêts snorkeling\nÉquipement de snorkeling\nDéjeuner à bord\nBoissons incluses\n\n\n🕒 Horaires\nDépart : vers 8h30 (approximatif)\nRetour : vers 15h30 (approximatif)\n\nℹ️ Informations importantes\nTaxe maritime non incluse : 5 € par personne\nLe snorkeling avec les dauphins est interdit aux femmes enceintes\nLes tarifs peuvent varier selon la saison",
+        "bg": "🐬Къщата на делфините\n\nИзлезте в морето, за да се срещнете с делфини в естествената им среда. Тази екскурзия включва няколко спирки за гмуркане с шнорхел, за да откриете кораловите рифове, както и обяд, сервиран на борда с включени напитки. \n\n✅ Включени\nНаблюдение на делфини в природата\n2 до 3 спирки за гмуркане с шнорхел\nОборудване за гмуркане с шнорхел\nОбяд на борда\nВключени напитки\n\n\n🕒 Графици\nТръгване: около 8:30 ч. (приблизително)\nВръщане: около 15:30ч. (приблизително)\n\nℹ️ Важна информация\nБез включена морска такса: 5 евро на човек\nГмуркането с шнорхел с делфини е забранено за бременни жени\nЦените могат да варират в зависимост от сезона"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 30,
+      "priceChild": 20,
+      "priceBaby": 0,
+      "ageChild": "6-10ans",
+      "ageBaby": "0-6ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        true,
+        false
+      ],
+      "popular": true,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/dolphin-house-4339bec9/01.jpeg",
+        "/images/activities/dolphin-house-4339bec9/02.jpg",
+        "/images/activities/dolphin-house-4339bec9/03.jpg",
+        "/images/activities/dolphin-house-4339bec9/04.jpg",
+        "/images/activities/dolphin-house-4339bec9/05.jpg",
+        "/images/activities/dolphin-house-4339bec9/06.jpg",
+        "/images/activities/dolphin-house-4339bec9/07.jpg",
+        "/images/activities/dolphin-house-4339bec9/08.jpeg"
+      ]
+    },
+    {
+      "id": "6eb61617-d0fd-4888-a143-ecd56ef30d13",
+      "slug": "dolphin-nage-6eb61617",
+      "category": "aquatique",
+      "name": {
+        "fr": "DOLPHIN NAGE",
+        "bg": "Плуване с делфини"
+      },
+      "description": {
+        "fr": "🐬 NAGE AVEC LES DAUPHINS – 55€\n\n💙 Une expérience magique au plus près des dauphins\n\n• Départ : vers 15h00  \n• Retour : vers 18h30  \n• Durée : environ 3h30  \n\n🚐 Inclus dans l’offre :  \n• Transfert hôtel aller-retour  \n• Session nage avec les dauphins (environ 5 min)  \n• Encadrement sécurisé  \n\n✨ Description :  \nVivez un moment unique et intense en nageant avec les dauphins dans un cadre sécurisé. Entre émotions, complicité et souvenirs inoubliables, cette activité est idéale pour petits et grands.  \n\n⭐ Points forts :  \n• Contact direct avec les dauphins  \n• Activité encadrée et sécurisée  \n• Expérience rare et inoubliable  \n\nℹ️ Infos :  \n• Photos disponibles sur place (en supplément)  \n• Temps d’attente possible selon l’affluence  \n• Activité interdite aux femmes enceintes  \n• Taxes incluses",
+        "bg": "🐬 ПЛУВАНЕ С ДЕЛФИНИ – 55 €\n\n💙 Вълшебно изживяване отблизо с делфини\n\n• Тръгване: около 15:00ч.\n• Връщане: около 18:30ч.\n• Продължителност: приблизително 3ч.30ч\n\n🚐 Включени в офертата:\n• Двупосочен трансфер до хотела\n• Плуване с делфини (приблизително 5 мин.)\n• Сигурен надзор\n\n✨ Описание:\nИзживейте уникален и интензивен момент на плуване с делфини в сигурна обстановка. Между емоции, съпричастност и незабравими спомени, тази дейност е идеална за малки и големи. \n\n⭐ Акценти:\n• Директен контакт с делфини\n• Наблюдавана и сигурна дейност\n• Рядко и незабравимо изживяване\n\ni️ Информация:\n• Налични снимки на място (срещу допълнително заплащане)\n• Възможно време за чакане в зависимост от тълпите\n• Забранена дейност за бременни жени\n• Включени данъци"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 55,
+      "priceChild": 55,
+      "priceBaby": 0,
+      "ageChild": "5-11ans",
+      "ageBaby": "Interdit",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/dolphin-nage-6eb61617/01.jpg",
+        "/images/activities/dolphin-nage-6eb61617/02.jpg",
+        "/images/activities/dolphin-nage-6eb61617/03.jpg",
+        "/images/activities/dolphin-nage-6eb61617/04.jpeg"
+      ]
+    },
+    {
+      "id": "f629cbeb-3050-448c-8532-87be48bcb2d0",
+      "slug": "dolphin-photo-f629cbeb",
+      "category": "aquatique",
+      "name": {
+        "fr": "DOLPHIN PHOTO",
+        "bg": "Снимка с делфин"
+      },
+      "description": {
+        "fr": "📸 SHOOTING AVEC LES DAUPHINS – 45€\n\n🐬 Immortalisez un moment magique avec les dauphins\n\n• Départ : vers 15h00  \n• Retour : vers 18h30  \n• Durée : environ 3h30  \n\n🚐 Inclus dans l’offre :  \n• Transfert hôtel aller-retour  \n• Séance photo avec les dauphins  \n• 10 photos numériques incluses  \n• Envoi des photos sur téléphone  \n\n✨ Description :  \nVivez une expérience unique et repartez avec des souvenirs inoubliables grâce à une séance photo exceptionnelle avec les dauphins dans un cadre sécurisé.  \n\n⭐ Points forts :  \n• Photos de qualité professionnelle  \n• Moments uniques avec les dauphins  \n• Souvenirs instantanés  \n\nℹ️ Infos :  \n• Photos supplémentaires disponibles en option  \n• Temps d’attente possible selon l’affluence  \n• Enfants -5 ans : photos uniquement hors bassin  \n• Taxes incluses",
+        "bg": "📸 СНИМАНЕ С ДЕЛФИНИ – 45€\n\n🐬 Увековечете вълшебен момент с делфините\n\n• Тръгване: около 15:00ч.\n• Връщане: около 18:30ч.\n• Продължителност: приблизително 3ч.30ч\n\n🚐 Включени в офертата:\n• Двупосочен трансфер до хотела\n• Фотосесия с делфини\n• Включени 10 цифрови снимки\n• Изпращане на снимки към телефона\n\n✨ Описание:\nИзживейте уникално изживяване и си тръгнете с незабравими спомени благодарение на изключителна фотосесия с делфините в защитена обстановка. \n\n⭐ Акценти:\n• Снимки с професионално качество\n• Уникални моменти с делфини\n• Незабавни спомени\n\ni️ Информация:\n• Предлагат се допълнителни снимки като опция\n• Възможно време за чакане в зависимост от тълпите\n• Деца до 5 години: снимки само извън басейна\n• Включени данъци"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 45,
+      "priceChild": 45,
+      "priceBaby": 45,
+      "ageChild": "5-11ans",
+      "ageBaby": "-5ans hors bassin",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/dolphin-photo-f629cbeb/01.jpg",
+        "/images/activities/dolphin-photo-f629cbeb/02.jpg",
+        "/images/activities/dolphin-photo-f629cbeb/03.jpg",
+        "/images/activities/dolphin-photo-f629cbeb/04.jpg",
+        "/images/activities/dolphin-photo-f629cbeb/05.jpg",
+        "/images/activities/dolphin-photo-f629cbeb/06.jpg",
+        "/images/activities/dolphin-photo-f629cbeb/07.jpeg"
+      ]
+    },
+    {
+      "id": "905bcc17-6020-456c-adb5-fec29d63ea28",
+      "slug": "dolphin-show-905bcc17",
+      "category": "aquatique",
+      "name": {
+        "fr": "DOLPHIN SHOW",
+        "bg": "Шоу с делфини"
+      },
+      "description": {
+        "fr": "🐬 SPECTACLE DE DAUPHINS – 15€\n\n🎭 Un show fun et magique pour toute la famille\n\n• Départ : vers 9h00  \n• Durée : environ 1h30  \n\n🚐 Inclus dans l’offre :  \n• Transfert hôtel aller-retour  \n• Entrée au Dolphins World  \n• Spectacle complet  \n\n✨ Description :  \nAssistez à un spectacle impressionnant avec dauphins, phoques et otaries. Entre acrobaties, jeux et moments amusants, profitez d’un show divertissant pour petits et grands.  \n\n⭐ Points forts :  \n• Show interactif et dynamique  \n• Animaux impressionnants  \n• Activité idéale en famille  \n\nℹ️ Infos :  \n• Photos possibles sur place (en supplément)  \n• Pas de guide francophone  \n• Taxes incluses",
+        "bg": "🐬 ШОУ С ДЕЛФИНИ – 15 €\n\n🎭 Забавно и вълшебно шоу за цялото семейство\n\n• Тръгване: около 09:00ч.\n• Продължителност: приблизително 1ч.30ч\n\n🚐 Включени в офертата:\n• Двупосочен трансфер до хотела\n• Вход за Света на делфините\n• Пълно шоу\n\n✨ Описание:\nСтанете свидетел на впечатляващ спектакъл с делфини, тюлени и морски лъвове. Между акробатика, игри и забавни моменти, насладете се на забавно шоу за малки и големи. \n\n⭐ Акценти:\n• Интерактивно и динамично шоу\n• Впечатляващи животни\n• Идеална семейна дейност\n\ni️ Информация:\n• Възможност за снимки на място (срещу допълнително заплащане)\n• Без френскоговорящ гид\n• Включени данъци"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 15,
+      "priceChild": 10,
+      "priceBaby": 0,
+      "ageChild": "5-11ans",
+      "ageBaby": "0-5ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/dolphin-show-905bcc17/01.jpg",
+        "/images/activities/dolphin-show-905bcc17/02.jpg",
+        "/images/activities/dolphin-show-905bcc17/03.jpg",
+        "/images/activities/dolphin-show-905bcc17/04.jpg",
+        "/images/activities/dolphin-show-905bcc17/05.jpg",
+        "/images/activities/dolphin-show-905bcc17/06.jpeg"
+      ]
+    },
+    {
+      "id": "e9f2945a-4293-44a1-a9af-91734df984ad",
+      "slug": "eden-island-e9f2945a",
+      "category": "aquatique",
+      "name": {
+        "fr": "EDEN ISLAND",
+        "bg": "Остров Eden"
+      },
+      "description": {
+        "fr": "🏝️ Eden Island\n\nProfitez d'une journée de détente à Eden Island, une île de la mer Rouge aux eaux cristallines. Découvrez les fonds marins lors d'une session de snorkeling, détendez-vous sur la plage et savourez un buffet avec boissons incluses.\n\n✅ Inclus\nTransfert aller-retour depuis votre hôtel\nFrais d'entrée sur l'île\nMatériel de snorkeling\nSnack matinal\nBuffet à volonté pendant 2 heures\nBoissons à volonté\n\n\n🕒 Horaires\nDépart : vers 8h30 (approximatif)\nRetour : vers 15h30 (approximatif)\n\n\nℹ️ Informations importantes\nTaxe maritime non incluse : 5 € par personne\nLes tarifs peuvent varier selon la saison",
+        "bg": "🏝️Eden Island\n\nНасладете се на релаксиращ ден на Eden Island, остров в Червено море с кристално чисти води. Открийте морското дъно по време на гмуркане с шнорхел, отпуснете се на плажа и се насладете на шведска маса с включени напитки. \n\n✅ Включени\nДвупосочен трансфер от вашия хотел\nВходни такси за о\nОборудване за гмуркане с шнорхел\nСутрешна закуска\nВсичко, което можете да ядете на шведска маса за 2 часа\nНеограничени напитки\n\n\n🕒 Графици\nТръгване: около 8:30 ч. (приблизително)\nВръщане: около 15:30ч. (приблизително)\n\n\nℹ️ Важна информация\nБез включена морска такса: 5 евро на човек\nЦените могат да варират в зависимост от сезона"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 65,
+      "priceChild": 35,
+      "priceBaby": 0,
+      "ageChild": "6-11ans",
+      "ageBaby": "0-6ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/eden-island-e9f2945a/01.jpg",
+        "/images/activities/eden-island-e9f2945a/02.jpeg"
+      ]
+    },
+    {
+      "id": "d430fe51-0db6-4c1c-bbc2-a4fab32b220d",
+      "slug": "el-gouna-d430fe51",
+      "category": "exploration_bien_etre",
+      "name": {
+        "fr": "EL GOUNA",
+        "bg": "Ел Гуна"
+      },
+      "description": {
+        "fr": "🌅 Visite Guidée d'El Gouna\n\nDécouvrez El Gouna lors d'une visite guidée à travers ses principaux sites. Au programme : une vue panoramique depuis la tour d'El Gouna, une croisière sur le lagon, la découverte du centre-ville et une heure de temps libre pour profiter des boutiques et cafés.\n\n✅ Inclus\nTransfert aller-retour depuis votre hôtel\nTickets d'entrée (tour et croisière)\nGuide touristique francophone\n\n\n🕒 Horaires\nDépart : vers 9h00\nRetour : vers 13h00 (approximatif)\n\n\nℹ️ Informations importantes\nLes tarifs peuvent varier selon la saison\nTaxes incluses",
+        "bg": "🌅 Обиколка с екскурзовод на Ел Гуна\n\nОткрийте Ел Гуна на обиколка с екскурзовод през основните му места. По програма: панорамна гледка от кулата Ел Гуна, круиз по лагуната, опознаване на центъра на града и един час свободно време, за да се насладите на магазините и кафенетата. \n\n✅ Включени\nДвупосочен трансфер от вашия хотел\nВходни билети (обиколка и круиз)\nФренскоговорящ туристически водач\n\n\n🕒 Графици\nТръгване: около 9:00ч.\nВръщане: около 13:00ч. (приблизително)\n\n\nℹ️ Важна информация\nЦените могат да варират в зависимост от сезона\nВключени данъци"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 35,
+      "priceChild": 15,
+      "priceBaby": 0,
+      "ageChild": "6-11ans",
+      "ageBaby": "0-6ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/el-gouna-d430fe51/01.jpg",
+        "/images/activities/el-gouna-d430fe51/02.jpg",
+        "/images/activities/el-gouna-d430fe51/03.jpg",
+        "/images/activities/el-gouna-d430fe51/04.jpg",
+        "/images/activities/el-gouna-d430fe51/05.jpeg"
+      ]
+    },
+    {
+      "id": "25c4fed2-19ed-4e7c-9a06-559813e80c78",
+      "slug": "evasion-spa-25c4fed2",
+      "category": "luxor_caire",
+      "name": {
+        "fr": "EVASION SPA",
+        "bg": "СПА Evasion"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 35,
+      "priceChild": 35,
+      "priceBaby": 0,
+      "ageChild": "INTERDIT -9ans",
+      "ageBaby": "",
+      "babiesForbidden": true,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        false,
+        false,
+        false,
+        true,
+        true,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/evasion-spa-25c4fed2/01.jpg"
+      ]
+    },
+    {
+      "id": "0fbfbdaf-b09d-49b9-a97e-8c8f336cd4e2",
+      "slug": "family-day-out-0fbfbdaf",
+      "category": "exploration_bien_etre",
+      "name": {
+        "fr": "Family Day Out",
+        "bg": "Семеен ден"
+      },
+      "description": {
+        "fr": "🐬 DAUPHINS & DÉSERT – 35€\n\n🌞 Une journée magique entre mer et désert !\n\n• Départ vers 9h00  \n• Retour vers 16h00  \n• Journée complète  \n\n🚐 Inclus :  \n• Transfert hôtel aller-retour  \n• Entrée au Dolphins World  \n• Spectacle de dauphins, phoques & otaries  \n• Déjeuner typique égyptien  \n• Découverte d’un village bédouin  \n• Tour de chameau  \n• Excursion en seascope + snorkeling  \n\n✨ Une expérience unique mêlant détente et aventure  \n\n⭐ Points forts :  \n• Activité idéale en famille  \n• Spectacle interactif  \n• Accessible à tous",
+        "bg": "🐬 ДЕЛФИНИ И ПУСТИНЯ – 35€\n\n🌞 Вълшебен ден между море и пустиня! \n\n• Отпътуване около 09:00ч.\n• Връщане около 16:00ч.\n• Цял ден\n\n🚐 Включено:\n• Двупосочен трансфер до хотела\n• Вход за Света на делфините\n• Шоу с делфини, тюлени и морски лъвове\n• Типичен египетски обяд\n• Откриване на бедуинско село\n• Яздене на камила\n• Екскурзия с морски скоп + гмуркане с шнорхел\n\n✨ Уникално изживяване, съчетаващо релакс и приключение\n\n⭐ Акценти:\n• Идеална семейна дейност\n• Интерактивно шоу\n• Достъпен за всички"
+      },
+      "notes": {
+        "fr": "Dolphin + Desert",
+        "bg": "Делфин + пустиня"
+      },
+      "priceAdult": 35,
+      "priceChild": 20,
+      "priceBaby": 0,
+      "ageChild": "3-11ans",
+      "ageBaby": "0-3ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/family-day-out-0fbfbdaf/01.jpeg"
+      ]
+    },
+    {
+      "id": "6750e0e2-519d-4658-8616-31215543c8f8",
+      "slug": "fantastique-sahara-6750e0e2",
+      "category": "desert",
+      "name": {
+        "fr": "FANTASTIQUE SAHARA",
+        "bg": "Фантастична Сахара"
+      },
+      "description": {
+        "fr": "🌅 Fantastique Sahara\n\nDécouvrez une excursion complète au cœur du désert avec une balade en quad, une promenade à dos de chameau et une balade à cheval. La journée se poursuit avec un dîner oriental, un spectacle traditionnel et une observation des étoiles au télescope.\n\n✅ Inclus\nBalade en quad dans le désert\nTour à dos de chameau\nPromenade à cheval\nDîner oriental\nSpectacle traditionnel\nObservation des étoiles au télescope\nTransfert aller-retour depuis votre hôtel\n\n\n🕒 Horaires\nDépart : vers 14h30 (approximatif)\nRetour : vers 21h00 (approximatif)\n\n\nℹ️ Informations importantes\nAccompagnateur à partir de 6 ans\nConduite du quad autorisée à partir de 16 ans\nPoids maximum autorisé : 90 kg\nActivité interdite aux femmes enceintes\nLes tarifs peuvent varier selon la saison",
+        "bg": "🌅 Фантастична Сахара\n\nОткрийте пълна екскурзия до сърцето на пустинята с каране на четириколки, яздене на камила и конна езда. Денят продължава с ориенталска вечеря, традиционно шоу и гледане на звезди през телескоп. \n\n✅ Включени\nКаране на четириколки в пустинята\nЕзда на камила\nКонна езда\nОриенталска вечеря\nТрадиционно шоу\nГледане на звезди с телескоп\nДвупосочен трансфер от вашия хотел\n\n\n🕒 Графици\nТръгване: около 14:30ч. (приблизително)\nВръщане: около 21:00ч. (приблизително)\n\n\nℹ️ Важна информация\nКорепетитор от 6г\nРазрешено шофиране на квадроциклет от 16 години\nМаксимално допустимо тегло: 90 кг\nЗабранена дейност за бременни жени\nЦените могат да варират в зависимост от сезона"
+      },
+      "notes": {
+        "fr": "Conduite des 16ans",
+        "bg": "Шофиране за 16 годишни"
+      },
+      "priceAdult": 50,
+      "priceChild": 45,
+      "priceBaby": 0,
+      "ageChild": "6-16ans",
+      "ageBaby": "",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/fantastique-sahara-6750e0e2/01.jpg",
+        "/images/activities/fantastique-sahara-6750e0e2/02.jpg",
+        "/images/activities/fantastique-sahara-6750e0e2/03.jpg",
+        "/images/activities/fantastique-sahara-6750e0e2/04.jpg",
+        "/images/activities/fantastique-sahara-6750e0e2/05.jpeg"
+      ]
+    },
+    {
+      "id": "8a06659d-9b8d-4cf9-ac83-371785997537",
+      "slug": "free-quad-8a06659d",
+      "category": "desert",
+      "name": {
+        "fr": "Free quad",
+        "bg": "Безплатно атв"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "Minimum 3 pax",
+        "bg": "Минимум 3 човека"
+      },
+      "priceAdult": 55,
+      "priceChild": 55,
+      "priceBaby": 0,
+      "ageChild": "Interdit - 16 ans",
+      "ageBaby": "",
+      "babiesForbidden": true,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/free-quad-8a06659d/01.jpg",
+        "/images/activities/free-quad-8a06659d/02.jpg"
+      ]
+    },
+    {
+      "id": "970ec782-eee0-412b-bf39-58abfa367a31",
+      "slug": "hamman-marocain-970ec782",
+      "category": "exploration_bien_etre",
+      "name": {
+        "fr": "Hamman marocain",
+        "bg": "Марокански хамам"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 75,
+      "priceChild": 75,
+      "priceBaby": 0,
+      "ageChild": "Interdit -9ans",
+      "ageBaby": "Interdit -9ans",
+      "babiesForbidden": true,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/hamman-marocain-970ec782/01.jpeg"
+      ]
+    },
+    {
+      "id": "0ceeec1d-1bee-4323-bbcc-bacf20e342dc",
+      "slug": "hors-zone-aerport-7-pax-0ceeec1d",
+      "category": "transfert",
+      "name": {
+        "fr": "HORS ZONE - AERPORT 7 pax",
+        "bg": "Извън зона — летище 7 души"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 0,
+      "priceChild": 0,
+      "priceBaby": 0,
+      "ageChild": "",
+      "ageBaby": "",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/hors-zone-aerport-7-pax-0ceeec1d/01.png"
+      ]
+    },
+    {
+      "id": "debd457c-c937-4468-87f9-8b4cb61ac25d",
+      "slug": "hula-hula-debd457c",
+      "category": "aquatique",
+      "name": {
+        "fr": "HULA HULA",
+        "bg": "Hula Hula"
+      },
+      "description": {
+        "fr": "🏝️ **HULA HULA ISLAND – JOURNÉE DÉTENTE & FUN** 🌊\n\nProfitez d’une escapade parfaite entre snorkeling, détente et ambiance tropicale sur Hula Hula Island ✨\n\n🕐 **Horaires :**\n• Départ vers 8h30\n• Retour vers 16h30\n\n🌴 **Au programme :**\n• Snorkeling dans des eaux cristallines\n• Découverte des fonds marins\n• Temps libre sur l’île (environ 1h30)\n• Baignade et détente\n\n✅ **Inclus :**\n• Transfert aller / retour\n• Frais d’entrée sur l’île\n• Équipement de snorkeling\n• Déjeuner à bord\n• Boissons à volonté\n\n💰 **Tarif :** 30€\n\n⚠️ Taxe maritime non incluse : 5€ / personne\n\n✨ Une sortie idéale entre amis, en couple ou en famille\n\n📞 Contact : +20 106 200 2850\n📍 Esplanada Mall, Avenue Al Mamsha",
+        "bg": "🏝️ **ОСТРОВ ХУЛА ХУЛА – ДЕН ЗА РЕЛАКСАЦИЯ И ЗАБАВЛЕНИЕ** 🌊\n\nНасладете се на перфектно бягство между гмуркане с шнорхел, релакс и тропическа атмосфера на остров Хула Хула ✨\n\n🕐 **Время:**\n• Отпътуване около 08:30ч.\n• Връщане около 16:30ч.\n\n🌴 **По програмата:**\n• Гмуркане с шнорхел в кристално чисти води\n• Откриване на морското дъно\n• Свободно време на острова (приблизително 1:30ч.)\n• Плуване и релаксация\n\n✅ **Включено:**\n• Двупосочен трансфер\n• Входни такси на о\n• Оборудване за гмуркане с шнорхел\n• Обяд на борда\n• Неограничени напитки\n\n💰 **Цена:** €30\n\n⚠️ Без включена морска такса: €5/човек\n\n✨ Идеален излет с приятели, като двойка или със семейството\n\n📞 Контакт: +20 106 200 2850\n📍 Esplanada Mall, Al Mamsha Avenue"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 35,
+      "priceChild": 20,
+      "priceBaby": 0,
+      "ageChild": "6-9ans",
+      "ageBaby": "0-6ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        true,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/hula-hula-debd457c/01.jpg",
+        "/images/activities/hula-hula-debd457c/02.jpg",
+        "/images/activities/hula-hula-debd457c/03.jpeg"
+      ]
+    },
+    {
+      "id": "6f62f990-2ce0-44cc-bd34-785cdd760b04",
+      "slug": "hurghada-louxor-6f62f990",
+      "category": "transfert",
+      "name": {
+        "fr": "HURGHADA  - LOUXOR",
+        "bg": "Хургада — Луксор"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 0,
+      "priceChild": 0,
+      "priceBaby": 0,
+      "ageChild": "",
+      "ageBaby": "",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": []
+    },
+    {
+      "id": "4992817a-39ef-4f4f-a273-dd312e32657e",
+      "slug": "hurghada-aeroport-4-pax-4992817a",
+      "category": "transfert",
+      "name": {
+        "fr": "HURGHADA - AEROPORT 4 pax",
+        "bg": "Хургада — летище 4 души"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 0,
+      "priceChild": 0,
+      "priceBaby": 0,
+      "ageChild": "",
+      "ageBaby": "",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/hurghada-aeroport-4-pax-4992817a/01.png"
+      ]
+    },
+    {
+      "id": "ae35b718-e15d-4df3-9357-a553d53f324f",
+      "slug": "hurghada-aeroport-7-pax-ae35b718",
+      "category": "transfert",
+      "name": {
+        "fr": "HURGHADA - AEROPORT 7 pax",
+        "bg": "Хургада — летище 7 души"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 0,
+      "priceChild": 0,
+      "priceBaby": 0,
+      "ageChild": "",
+      "ageBaby": "",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/hurghada-aeroport-7-pax-ae35b718/01.png"
+      ]
+    },
+    {
+      "id": "8993c100-b564-45de-8905-32a19491df16",
+      "slug": "hurghada-le-caire-8993c100",
+      "category": "transfert",
+      "name": {
+        "fr": "HURGHADA - LE CAIRE",
+        "bg": "Хургада — Кайро"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 0,
+      "priceChild": 0,
+      "priceBaby": 0,
+      "ageChild": "",
+      "ageBaby": "",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/hurghada-le-caire-8993c100/01.png"
+      ]
+    },
+    {
+      "id": "0d062e09-1870-42b2-b257-71e58925496d",
+      "slug": "jeux-aquatique-0d062e09",
+      "category": "aquatique",
+      "name": {
+        "fr": "JEUX AQUATIQUE",
+        "bg": "Водни игри"
+      },
+      "description": {
+        "fr": "🌊 **JEUX AQUATIQUES – SENSATIONS FORTES** 🚤\n\nFaites le plein d’adrénaline avec une activité fun et rapide sur l’eau 💦\n\n⏱️ **Durée :** environ 15 minutes\n\n🎯 **Au programme :**\n• Bouée tractée ou banane (au choix)\n• Sensations fortes, vitesse et fous rires garantis\n\n✅ **Inclus :**\n• 1 activité au choix (banane ou bouée tractée)\n• Encadrement professionnel\n• Matériel de sécurité fourni\n\n💰 **Tarif :** 20€\n\n⚠️ Transfert non inclus (à prévoir)\n⚠️ Pas de guide francophone\n👶 Activité accessible dès 6 ans\n\n✨ Parfait pour ajouter une dose d’adrénaline à votre journée plage\n\n📞 Contact : +20 106 200 2850\n📍 Esplanada Mall, Avenue Al Mamsha",
+        "bg": "🌊 **ВОДНИ ИГРИ – СИЛНИ СЕНЗАЦИИ** 🚤\n\nВземете прилив на адреналин със забавна и бърза дейност във водата 💦\n\n⏱️ **Продължителност:** приблизително 15 минути\n\n🎯 **По програмата:**\n• Теглена или бананова шамандура (по ваш избор)\n• Гарантирани тръпка, бързина и смях\n\n✅ **Включено:**\n• 1 дейност по ваш избор (банан или теглена шамандура)\n• Професионален надзор\n• Осигурени предпазни средства\n\n💰 **Цена:** €20\n\n⚠️ Трансферът не е включен (очаква се)\n⚠️ Няма френскоговорящ водач\n👶 Достъпна дейност от 6 години\n\n✨ Перфектен за добавяне на доза адреналин към вашия плажен ден\n\n📞 Контакт: +20 106 200 2850\n📍 Esplanada Mall, Al Mamsha Avenue"
+      },
+      "notes": {
+        "fr": "Sans transfert / direct au \"Mamma Mia Restaurant & Lounge\"",
+        "bg": "Без трансфер / директно до \"Mamma Mia Restaurant & Lounge\""
+      },
+      "priceAdult": 20,
+      "priceChild": 20,
+      "priceBaby": 20,
+      "ageChild": "",
+      "ageBaby": "",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/jeux-aquatique-0d062e09/01.jpg",
+        "/images/activities/jeux-aquatique-0d062e09/02.jpg",
+        "/images/activities/jeux-aquatique-0d062e09/03.jpg",
+        "/images/activities/jeux-aquatique-0d062e09/04.jpg",
+        "/images/activities/jeux-aquatique-0d062e09/05.jpg",
+        "/images/activities/jeux-aquatique-0d062e09/06.jpeg"
+      ]
+    },
+    {
+      "id": "9c07738e-f440-4faf-b9f1-31c756d9a601",
+      "slug": "karting-9c07738e",
+      "category": "exploration_bien_etre",
+      "name": {
+        "fr": "KARTING",
+        "bg": "Картинг"
+      },
+      "description": {
+        "fr": "🏎️ KARTING EL GOUNA – À PARTIR DE 25€\n\n🔥 Sensations et fun sur circuit !\n\n• Départ au choix entre 11h et 20h  \n• Session karting : 10 ou 15 minutes  \n• 1h de temps libre à la Marina  \n\n🚐 Inclus :  \n• Transfert hôtel aller-retour  \n• Ticket karting  \n→ 10 min : 25€  \n→ 15 min : 30€  \n• Temps libre à la Marina d’El Gouna  \n\n✨ Combinez détente et adrénaline  \n\n⭐ Points forts :  \n• Circuit professionnel  \n• Activité fun et rapide  \n• Ambiance chic de la Marina  \n• Accessible en famille ou entre amis",
+        "bg": "🏎️ КАРТИНГ ЕЛ ГУНА – ОТ €25\n\n🔥 Усещания и забавление на пистата! \n\n• Отпътуване по избор от 11 до 20ч.\n• Картинг сесия: 10 или 15 минути\n• 1 час свободно време на Марина\n\n🚐 Включено:\n• Двупосочен трансфер до хотела\n• Билет за картинг\n→ 10 минути: €25\n→ 15 мин.: €30\n• Свободно време на яхтеното пристанище Ел Гуна\n\n✨ Комбинирайте релакс и адреналин\n\n⭐ Акценти:\n• Професионална верига\n• Забавна и бърза дейност\n• Шикозна атмосфера на Марина\n• Достъпен със семейството или приятели"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 30,
+      "priceChild": 30,
+      "priceBaby": 0,
+      "ageChild": "Interdit -16ans",
+      "ageBaby": "",
+      "babiesForbidden": true,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/karting-9c07738e/01.jpg",
+        "/images/activities/karting-9c07738e/02.jpeg"
+      ]
+    },
+    {
+      "id": "09ccebb2-fa68-4e8d-aefc-950281a92782",
+      "slug": "louxor-bus-09ccebb2",
+      "category": "luxor_caire",
+      "name": {
+        "fr": "LOUXOR BUS",
+        "bg": "Луксор с автобус"
+      },
+      "description": {
+        "fr": "🏛️ Louxor – Formule Éco\n\nDécouvrez les trésors de Louxor lors d'une excursion en bus au départ d'Hurghada. Visitez les temples de Karnak et d'Hatchepsout, la Vallée des Reines, les Colosses de Memnon et profitez d'un arrêt dans une boutique de souvenirs.\n\n✅ Inclus\nTransport en bus de voyage\nFrais d'entrée aux sites\nDéjeuner (hors boissons)\n\n\n🕒 Horaires\nDépart : vers 4h00 (approximatif)\nRetour : vers 22h00 (approximatif)\n\n\n📍 Programme\nVisite des temples de Karnak et d'Hatchepsout\nVisite de la Vallée des Reines\nDécouverte des Colosses de Memnon\nArrêt dans une boutique de souvenirs\n\n\nℹ️ Informations importantes\nLes tarifs peuvent varier selon la saison\nTaxes incluses",
+        "bg": "🏛️ Луксор – Еко формула\n\nОткрийте съкровищата на Луксор на автобусна обиколка от Хургада. Посетете храмовете Карнак и Хатшепсут, Долината на кралиците, Колосите на Мемнон и се насладете на спирка в магазин за сувенири. \n\n✅ Включени\nТранспорт с туристически автобус\nВходни такси за обекти\nОбяд (без напитки)\n\n\n🕒 Графици\nТръгване: около 4:00 ч. (приблизително)\nВръщане: около 22:00ч. (приблизително)\n\n\n📍 Програма\nПосещение на храмовете Карнак и Хатшепсут\nПосещение на Долината на кралиците\nОткриване на колосите на Мемнон\nСпрете в магазин за сувенири\n\n\nℹ️ Важна информация\nЦените могат да варират в зависимост от сезона\nВключени данъци"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 65,
+      "priceChild": 35,
+      "priceBaby": 20,
+      "ageChild": "6-12ans",
+      "ageBaby": "0-6ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/louxor-bus-09ccebb2/01.jpg",
+        "/images/activities/louxor-bus-09ccebb2/02.jpg",
+        "/images/activities/louxor-bus-09ccebb2/03.jpg",
+        "/images/activities/louxor-bus-09ccebb2/04.jpg",
+        "/images/activities/louxor-bus-09ccebb2/05.jpg",
+        "/images/activities/louxor-bus-09ccebb2/06.jpg",
+        "/images/activities/louxor-bus-09ccebb2/07.jpg",
+        "/images/activities/louxor-bus-09ccebb2/08.jpg",
+        "/images/activities/louxor-bus-09ccebb2/09.jpeg"
+      ]
+    },
+    {
+      "id": "9b5fa061-f4c8-4e0e-82d7-ae95c680c4eb",
+      "slug": "louxor-montgolfieres-9b5fa061",
+      "category": "desert",
+      "name": {
+        "fr": "Louxor montgolfières",
+        "bg": "Луксор с балон"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 160,
+      "priceChild": 160,
+      "priceBaby": 0,
+      "ageChild": "6-11ans",
+      "ageBaby": "",
+      "babiesForbidden": true,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/louxor-montgolfieres-9b5fa061/01.jpeg"
+      ]
+    },
+    {
+      "id": "eea14766-69fe-40c5-a157-be9be1df62a0",
+      "slug": "louxor-overnight-hotel-bb-hilton-eea14766",
+      "category": "luxor_caire",
+      "name": {
+        "fr": "LOUXOR OVERNIGHT HOTEL BB HILTON",
+        "bg": "Луксор с нощувка Hilton BB"
+      },
+      "description": {
+        "fr": "🌅 **Louxor – Formule Overnight (2 jours / 1 nuit)**\n\nPartez pour une immersion exceptionnelle au cœur de l’Égypte antique et découvrez Louxor comme vous ne l’avez jamais vu ✨\n\n🏛️ **À la découverte des pharaons**\nExplorez les plus grands trésors de l’Égypte :\n• Temple de Karnak\n• Temple d’Hatchepsout\n• Vallée des Rois\n• Colosses de Memnon\n\n⛵ **Croisière sur le Nil**\nProfitez d’une balade inoubliable sur le Nil à bord d’un bateau traditionnel pour admirer les paysages mythiques de Louxor.\n\n🎈 **Montgolfière au lever du soleil**\nVivez un moment magique en survolant Louxor à l’aube pour une vue panoramique spectaculaire.\n\n🏨 **Nuit à l’hôtel**\nDétendez-vous avec une nuit dans un hôtel confortable avec différentes formules au choix.\n\n⏰ **Programme**\n• Départ : vers 5h (approximatif)\n• Retour : le lendemain dans l’après-midi\n\n✅ **Inclus dans l’offre**\n• Transfert en minivan aller-retour\n• Guide égyptologue francophone\n• Visites des sites historiques\n• Croisière sur le Nil\n• Nuit à l’hôtel + repas selon formule\n• Vol en montgolfière\n\n\n🔹 **Formule BB**\n• Déjeuner dans un restaurant typique\n• Dîner local à l’extérieur\n• Petit-déjeuner à l’hôtel\n• Hôtel Hilton Louxor \n\n\n\n\n\n📞 Réservation & infos : +201062002850",
+        "bg": "🌅 **Луксор – Пакет за нощувки (2 дни / 1 нощувка)**\n\nОтидете на едно изключително потапяне в сърцето на древен Египет и открийте Луксор така, както никога не сте го виждали ✨\n\n🏛️ **Откриване на фараоните**\nРазгледайте най-големите съкровища на Египет:\n• Храмът Карнак\n• Храмът на Хатшепсут\n• Долината на царете\n• Колосите на Мемнон\n\n⛵ **Круиз по Нил**\nНасладете се на незабравима разходка по Нил на борда на традиционна лодка, за да се насладите на митичните пейзажи на Луксор. \n\n🎈 **Балон с горещ въздух при изгрев**\nИзживейте вълшебен момент, докато летите над Луксор призори за невероятна панорамна гледка. \n\n🏨 **Нощувка в хотела**\nОтпуснете се с нощувка в комфортен хотел с различни пакети, от които да избирате. \n\n⏰ **Програма**\n• Тръгване: около 5 ч. (приблизително)\n• Връщане: на следващия ден следобед\n\n✅ **Включено в офертата**\n• Двупосочен трансфер с миниван\n• Френскоговорящ гид египтолог\n• Посещения на исторически забележителности\n• Круиз по Нил\n• Нощувка в хотела + хранене по формула\n• Полет с балон\n\n\n🔹 **BB формула**\n• Обяд в типичен ресторант\n• Местна вечеря навън\n• Закуска в хотела\n• Хотел Хилтън Луксор\n\n\n\n\n\n📞 Резервации и информация: +201062002850"
+      },
+      "notes": {
+        "fr": "-4ans montgolfière interdite",
+        "bg": "-4 години забранени полети с балон с горещ въздух"
+      },
+      "priceAdult": 320,
+      "priceChild": 150,
+      "priceBaby": 25,
+      "ageChild": "6-12ans",
+      "ageBaby": "0-6ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/louxor-overnight-hotel-bb-hilton-eea14766/01.jpg",
+        "/images/activities/louxor-overnight-hotel-bb-hilton-eea14766/02.jpg",
+        "/images/activities/louxor-overnight-hotel-bb-hilton-eea14766/03.jpg",
+        "/images/activities/louxor-overnight-hotel-bb-hilton-eea14766/04.jpg",
+        "/images/activities/louxor-overnight-hotel-bb-hilton-eea14766/05.jpg",
+        "/images/activities/louxor-overnight-hotel-bb-hilton-eea14766/06.jpg",
+        "/images/activities/louxor-overnight-hotel-bb-hilton-eea14766/07.jpg",
+        "/images/activities/louxor-overnight-hotel-bb-hilton-eea14766/08.jpg",
+        "/images/activities/louxor-overnight-hotel-bb-hilton-eea14766/09.jpg",
+        "/images/activities/louxor-overnight-hotel-bb-hilton-eea14766/10.jpg",
+        "/images/activities/louxor-overnight-hotel-bb-hilton-eea14766/11.jpg",
+        "/images/activities/louxor-overnight-hotel-bb-hilton-eea14766/12.jpeg"
+      ]
+    },
+    {
+      "id": "90f3998b-aa75-4f22-b3db-5b1ab6ac5744",
+      "slug": "louxor-overnight-hotel-hb-hilton-90f3998b",
+      "category": "luxor_caire",
+      "name": {
+        "fr": "LOUXOR OVERNIGHT HOTEL HB HILTON",
+        "bg": "Луксор с нощувка Hilton HB"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "-4ans montgolfière interdite",
+        "bg": "-4 години забранени полети с балон с горещ въздух"
+      },
+      "priceAdult": 340,
+      "priceChild": 165,
+      "priceBaby": 25,
+      "ageChild": "6-12ans",
+      "ageBaby": "0-6ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/louxor-overnight-hotel-hb-hilton-90f3998b/01.jpg",
+        "/images/activities/louxor-overnight-hotel-hb-hilton-90f3998b/02.jpg",
+        "/images/activities/louxor-overnight-hotel-hb-hilton-90f3998b/03.jpg",
+        "/images/activities/louxor-overnight-hotel-hb-hilton-90f3998b/04.jpg",
+        "/images/activities/louxor-overnight-hotel-hb-hilton-90f3998b/05.jpg",
+        "/images/activities/louxor-overnight-hotel-hb-hilton-90f3998b/06.jpg",
+        "/images/activities/louxor-overnight-hotel-hb-hilton-90f3998b/07.jpg",
+        "/images/activities/louxor-overnight-hotel-hb-hilton-90f3998b/08.jpg",
+        "/images/activities/louxor-overnight-hotel-hb-hilton-90f3998b/09.jpg",
+        "/images/activities/louxor-overnight-hotel-hb-hilton-90f3998b/10.jpg",
+        "/images/activities/louxor-overnight-hotel-hb-hilton-90f3998b/11.jpg"
+      ]
+    },
+    {
+      "id": "f46686dc-1045-4e6e-a38d-2386522e3af6",
+      "slug": "louxor-overnight-hotel-jolie-ville-bb-f46686dc",
+      "category": "luxor_caire",
+      "name": {
+        "fr": "LOUXOR OVERNIGHT HOTEL JOLIE VILLE BB",
+        "bg": "Луксор с нощувка Jolie Ville BB"
+      },
+      "description": {
+        "fr": "🌅 **Louxor – Formule Overnight (2 jours / 1 nuit)**\n\nPartez pour une immersion exceptionnelle au cœur de l’Égypte antique et découvrez Louxor comme vous ne l’avez jamais vu ✨\n\n🏛️ **À la découverte des pharaons**\nExplorez les plus grands trésors de l’Égypte :\n• Temple de Karnak\n• Temple d’Hatchepsout\n• Vallée des Rois\n• Colosses de Memnon\n\n⛵ **Croisière sur le Nil**\nProfitez d’une balade inoubliable sur le Nil à bord d’un bateau traditionnel pour admirer les paysages mythiques de Louxor.\n\n🎈 **Montgolfière au lever du soleil**\nVivez un moment magique en survolant Louxor à l’aube pour une vue panoramique spectaculaire.\n\n🏨 **Nuit à l’hôtel**\nDétendez-vous avec une nuit dans un hôtel confortable avec différentes formules au choix.\n\n⏰ **Programme**\n• Départ : vers 5h (approximatif)\n• Retour : le lendemain dans l’après-midi\n\n✅ **Inclus dans l’offre**\n• Transfert en minivan aller-retour\n• Guide égyptologue francophone\n• Visites des sites historiques\n• Croisière sur le Nil\n• Nuit à l’hôtel + repas selon formule\n• Vol en montgolfière\n\n\n🔹 **Formule BB**\n• Déjeuner dans un restaurant typique\n• Dîner local à l’extérieur\n• Petit-déjeuner à l’hôtel\n• Hôtel Jolie Ville Louxor \n\n\n📞 Réservation & infos : +201062002850",
+        "bg": "🌅 **Луксор – Пакет за нощувки (2 дни / 1 нощувка)**\n\nОтидете на едно изключително потапяне в сърцето на древен Египет и открийте Луксор така, както никога не сте го виждали ✨\n\n🏛️ **Откриване на фараоните**\nРазгледайте най-големите съкровища на Египет:\n• Храмът Карнак\n• Храмът на Хатшепсут\n• Долината на царете\n• Колосите на Мемнон\n\n⛵ **Круиз по Нил**\nНасладете се на незабравима разходка по Нил на борда на традиционна лодка, за да се насладите на митичните пейзажи на Луксор. \n\n🎈 **Балон с горещ въздух при изгрев**\nИзживейте вълшебен момент, докато летите над Луксор призори за невероятна панорамна гледка. \n\n🏨 **Нощувка в хотела**\nОтпуснете се с нощувка в комфортен хотел с различни пакети, от които да избирате. \n\n⏰ **Програма**\n• Тръгване: около 5 ч. (приблизително)\n• Връщане: на следващия ден следобед\n\n✅ **Включено в офертата**\n• Двупосочен трансфер с миниван\n• Френскоговорящ гид египтолог\n• Посещения на исторически забележителности\n• Круиз по Нил\n• Нощувка в хотела + хранене по формула\n• Полет с балон\n\n\n🔹 **BB формула**\n• Обяд в типичен ресторант\n• Местна вечеря навън\n• Закуска в хотела\n• Хотел Jolie Ville Luxor\n\n\n📞 Резервации и информация: +201062002850"
+      },
+      "notes": {
+        "fr": "-4ans montgolfière interdite",
+        "bg": "-4 години забранени полети с балон с горещ въздух"
+      },
+      "priceAdult": 280,
+      "priceChild": 150,
+      "priceBaby": 25,
+      "ageChild": "6-12ans",
+      "ageBaby": "0-6ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/louxor-overnight-hotel-jolie-ville-bb-f46686dc/01.jpg",
+        "/images/activities/louxor-overnight-hotel-jolie-ville-bb-f46686dc/02.jpg",
+        "/images/activities/louxor-overnight-hotel-jolie-ville-bb-f46686dc/03.jpg",
+        "/images/activities/louxor-overnight-hotel-jolie-ville-bb-f46686dc/04.jpg",
+        "/images/activities/louxor-overnight-hotel-jolie-ville-bb-f46686dc/05.jpg",
+        "/images/activities/louxor-overnight-hotel-jolie-ville-bb-f46686dc/06.jpg",
+        "/images/activities/louxor-overnight-hotel-jolie-ville-bb-f46686dc/07.jpg",
+        "/images/activities/louxor-overnight-hotel-jolie-ville-bb-f46686dc/08.jpg",
+        "/images/activities/louxor-overnight-hotel-jolie-ville-bb-f46686dc/09.jpg",
+        "/images/activities/louxor-overnight-hotel-jolie-ville-bb-f46686dc/10.jpg",
+        "/images/activities/louxor-overnight-hotel-jolie-ville-bb-f46686dc/11.jpg",
+        "/images/activities/louxor-overnight-hotel-jolie-ville-bb-f46686dc/12.jpeg"
+      ]
+    },
+    {
+      "id": "a0c5ee54-0ae9-45b7-af14-6f19f3b9bc16",
+      "slug": "louxor-overnight-hotel-jolie-ville-hb-a0c5ee54",
+      "category": "luxor_caire",
+      "name": {
+        "fr": "LOUXOR OVERNIGHT HOTEL JOLIE VILLE HB",
+        "bg": "Луксор с нощувка Jolie Ville HB"
+      },
+      "description": {
+        "fr": "🌅 **Louxor – Formule Overnight (2 jours / 1 nuit)**\n\nPartez pour une immersion exceptionnelle au cœur de l’Égypte antique et découvrez Louxor comme vous ne l’avez jamais vu ✨\n\n🏛️ **À la découverte des pharaons**\nExplorez les plus grands trésors de l’Égypte :\n• Temple de Karnak\n• Temple d’Hatchepsout\n• Vallée des Rois\n• Colosses de Memnon\n\n⛵ **Croisière sur le Nil**\nProfitez d’une balade inoubliable sur le Nil à bord d’un bateau traditionnel pour admirer les paysages mythiques de Louxor.\n\n🎈 **Montgolfière au lever du soleil**\nVivez un moment magique en survolant Louxor à l’aube pour une vue panoramique spectaculaire.\n\n🏨 **Nuit à l’hôtel**\nDétendez-vous avec une nuit dans un hôtel confortable avec différentes formules au choix.\n\n⏰ **Programme**\n• Départ : vers 5h (approximatif)\n• Retour : le lendemain dans l’après-midi\n\n✅ **Inclus dans l’offre**\n• Transfert en minivan aller-retour\n• Guide égyptologue francophone\n• Visites des sites historiques\n• Croisière sur le Nil\n• Nuit à l’hôtel + repas selon formule\n• Vol en montgolfière\n\n🔹 **Formule HB**\n• Déjeuner dans un restaurant typique\n• Dîner buffet à l’hôtel\n• Petit-déjeuner à l’hôtel\n• Hôtel Jolie Ville Louxor \n\n\n\n\n\n\n\n\n\n\n\n📞 Réservation & infos : +201062002850",
+        "bg": "🌅 **Луксор – Пакет за нощувки (2 дни / 1 нощувка)**\n\nОтидете на едно изключително потапяне в сърцето на древен Египет и открийте Луксор така, както никога не сте го виждали ✨\n\n🏛️ **Откриване на фараоните**\nРазгледайте най-големите съкровища на Египет:\n• Храмът Карнак\n• Храмът на Хатшепсут\n• Долината на царете\n• Колосите на Мемнон\n\n⛵ **Круиз по Нил**\nНасладете се на незабравима разходка по Нил на борда на традиционна лодка, за да се насладите на митичните пейзажи на Луксор. \n\n🎈 **Балон с горещ въздух при изгрев**\nИзживейте вълшебен момент, докато летите над Луксор призори за невероятна панорамна гледка. \n\n🏨 **Нощувка в хотела**\nОтпуснете се с нощувка в комфортен хотел с различни пакети, от които да избирате. \n\n⏰ **Програма**\n• Тръгване: около 5 ч. (приблизително)\n• Връщане: на следващия ден следобед\n\n✅ **Включено в офертата**\n• Двупосочен трансфер с миниван\n• Френскоговорящ гид египтолог\n• Посещения на исторически забележителности\n• Круиз по Нил\n• Нощувка в хотела + хранене по формула\n• Полет с балон\n\n🔹 **HB формула**\n• Обяд в типичен ресторант\n• Вечеря на блок маса в хотела\n• Закуска в хотела\n• Хотел Jolie Ville Luxor\n\n\n\n\n\n\n\n\n\n\n\n📞 Резервации и информация: +201062002850"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 295,
+      "priceChild": 165,
+      "priceBaby": 25,
+      "ageChild": "4-9ans",
+      "ageBaby": "0-4ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/louxor-overnight-hotel-jolie-ville-hb-a0c5ee54/01.jpg",
+        "/images/activities/louxor-overnight-hotel-jolie-ville-hb-a0c5ee54/02.jpg",
+        "/images/activities/louxor-overnight-hotel-jolie-ville-hb-a0c5ee54/03.jpg",
+        "/images/activities/louxor-overnight-hotel-jolie-ville-hb-a0c5ee54/04.jpg",
+        "/images/activities/louxor-overnight-hotel-jolie-ville-hb-a0c5ee54/05.jpg",
+        "/images/activities/louxor-overnight-hotel-jolie-ville-hb-a0c5ee54/06.jpg",
+        "/images/activities/louxor-overnight-hotel-jolie-ville-hb-a0c5ee54/07.jpg",
+        "/images/activities/louxor-overnight-hotel-jolie-ville-hb-a0c5ee54/08.jpg",
+        "/images/activities/louxor-overnight-hotel-jolie-ville-hb-a0c5ee54/09.jpg",
+        "/images/activities/louxor-overnight-hotel-jolie-ville-hb-a0c5ee54/10.jpg",
+        "/images/activities/louxor-overnight-hotel-jolie-ville-hb-a0c5ee54/11.jpg",
+        "/images/activities/louxor-overnight-hotel-jolie-ville-hb-a0c5ee54/12.jpeg"
+      ]
+    },
+    {
+      "id": "fd334670-ac24-414f-9c22-17bdf541f588",
+      "slug": "louxor-privatif-fd334670",
+      "category": "luxor_caire",
+      "name": {
+        "fr": "LOUXOR PRIVATIF",
+        "bg": "Луксор частен тур"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 0,
+      "priceChild": 0,
+      "priceBaby": 0,
+      "ageChild": "",
+      "ageBaby": "",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/louxor-privatif-fd334670/01.jpg",
+        "/images/activities/louxor-privatif-fd334670/02.jpg",
+        "/images/activities/louxor-privatif-fd334670/03.jpg",
+        "/images/activities/louxor-privatif-fd334670/04.jpg",
+        "/images/activities/louxor-privatif-fd334670/05.jpg",
+        "/images/activities/louxor-privatif-fd334670/06.jpg",
+        "/images/activities/louxor-privatif-fd334670/07.jpg",
+        "/images/activities/louxor-privatif-fd334670/08.jpg"
+      ]
+    },
+    {
+      "id": "07a8b24e-b1e0-4e51-a6df-e8d9cf4afb90",
+      "slug": "louxor-van-07a8b24e",
+      "category": "luxor_caire",
+      "name": {
+        "fr": "LOUXOR VAN",
+        "bg": "Луксор с ван"
+      },
+      "description": {
+        "fr": "🚐 **Louxor – Formule VAN (1 journée premium)**\n\nOffrez-vous une excursion confortable et complète pour découvrir les merveilles de Louxor en petit groupe ✨\n\n🏛️ **À la découverte des pharaons**\nExplorez les sites emblématiques de l’Égypte antique :\n• Temple de Karnak\n• Temple d’Hatchepsout\n• Vallée des Rois\n• Colosses de Memnon\n\n⛵ **Balade sur le Nil**\nProfitez d’une magnifique croisière sur le Nil à bord d’un bateau traditionnel pour une expérience encore plus immersive.\n\n🛍️ **Temps libre & souvenirs**\nPrenez le temps de flâner dans les boutiques locales et ramener des souvenirs uniques.\n\n⏰ **Programme**\n• Départ : vers 5h (approximatif)\n• Retour : vers 21h (approximatif)\n\n✅ **Inclus dans l’offre**\n• Transport en minivan climatisé\n• Guide égyptologue francophone\n• Frais d’entrée aux sites\n• Collation matinale\n• Déjeuner dans un restaurant local\n• Balade sur le Nil\n\n⚠️ **Option**\n• Tombe de Toutankhamon (en supplément)\n\n💰 **Prix : 85€**\n\n📞 Réservation & infos : +201062002850",
+        "bg": "🚐 **Louxor – VAN пакет (1 премиум ден)**\n\nПодарете си удобна и изчерпателна екскурзия, за да откриете чудесата на Луксор в малка група ✨\n\n🏛️ **Откриване на фараоните**\nРазгледайте емблематичните места на древен Египет:\n• Храмът Карнак\n• Храмът на Хатшепсут\n• Долината на царете\n• Колосите на Мемнон\n\n⛵ **Разходка по Нил**\nНасладете се на великолепен круиз по Нил на борда на традиционна лодка за още по-завладяващо изживяване. \n\n🛍️ **Свободно време и спомени**\nОтделете време да се разходите из местните магазини и да донесете уникални сувенири. \n\n⏰ **Програма**\n• Тръгване: около 5 ч. (приблизително)\n• Връщане: около 21ч. (приблизително)\n\n✅ **Включено в офертата**\n• Транспорт с климатизиран миниван\n• Френскоговорящ гид египтолог\n• Входни такси на обектите\n• Сутрешна закуска\n• Обяд в местен ресторант\n• Разходка по Нил\n\n⚠️ **Опция**\n• Гробницата на Тутанкамон (срещу допълнително заплащане)\n\n💰 **Цена: €85**\n\n📞 Резервации и информация: +201062002850"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 85,
+      "priceChild": 50,
+      "priceBaby": 30,
+      "ageChild": "6-11ans",
+      "ageBaby": "0-6ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/louxor-van-07a8b24e/01.jpg",
+        "/images/activities/louxor-van-07a8b24e/02.jpg",
+        "/images/activities/louxor-van-07a8b24e/03.jpg",
+        "/images/activities/louxor-van-07a8b24e/04.jpg",
+        "/images/activities/louxor-van-07a8b24e/05.jpg",
+        "/images/activities/louxor-van-07a8b24e/06.jpg",
+        "/images/activities/louxor-van-07a8b24e/07.jpg",
+        "/images/activities/louxor-van-07a8b24e/08.jpg",
+        "/images/activities/louxor-van-07a8b24e/09.jpeg"
+      ]
+    },
+    {
+      "id": "164ab561-3c4e-442b-a2fc-eaa1ba708866",
+      "slug": "mahmya-164ab561",
+      "category": "aquatique",
+      "name": {
+        "fr": "MAHMYA",
+        "bg": "Махмия"
+      },
+      "description": {
+        "fr": "🏝️ Mahmya Island\n\nPassez une journée à Mahmya Island, une réserve naturelle réputée pour ses eaux turquoise et ses fonds marins préservés. Profitez de la plage, découvrez les récifs coralliens en snorkeling et savourez un buffet face à la mer.\n\n✅ Inclus\nTransfert aller-retour depuis votre hôtel\nJournée sur la plage\nFrais d'entrée sur l'île\nMatériel de snorkeling\nBuffet à volonté pendant 1 heure\nBoissons à volonté pendant 1 heure\n\n\n🕒 Horaires\nDépart : vers 8h30 (approximatif)\nRetour : vers 15h30 (approximatif)\n\n\nℹ️ Informations importantes\nTaxe maritime non incluse : 5 € par personne\nLes tarifs peuvent varier selon la saison",
+        "bg": "🏝️ Остров Махмиа\n\nПрекарайте един ден на остров Махмиа, природен резерват, известен със своите тюркоазени води и непокътнато морско дъно. Насладете се на плажа, открийте кораловите рифове чрез гмуркане с шнорхел и се насладете на шведска маса с изглед към морето.\n\n✅ Включени\nДвупосочен трансфер от вашия хотел\nДен на плажа\nВходни такси за о\nОборудване за гмуркане с шнорхел\nВсичко, което можете да ядете на шведска маса за 1 час\nНеограничени напитки за 1 час\n\n\n🕒 Графици\nТръгване: около 8:30 ч. (приблизително)\nВръщане: около 15:30ч. (приблизително)\n\n\nℹ️ Важна информация\nБез включена морска такса: 5 евро на човек\nЦените могат да варират в зависимост от сезона"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 85,
+      "priceChild": 45,
+      "priceBaby": 0,
+      "ageChild": "3-11ans",
+      "ageBaby": "0-3ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "popular": true,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/mahmya-164ab561/01.jpg",
+        "/images/activities/mahmya-164ab561/02.jpeg",
+        "/images/activities/mahmya-164ab561/03.jpeg",
+        "/images/activities/mahmya-164ab561/04.jpeg",
+        "/images/activities/mahmya-164ab561/05.jpeg",
+        "/images/activities/mahmya-164ab561/06.jpeg",
+        "/images/activities/mahmya-164ab561/07.jpg",
+        "/images/activities/mahmya-164ab561/08.jpg",
+        "/images/activities/mahmya-164ab561/09.jpg",
+        "/images/activities/mahmya-164ab561/10.jpeg"
+      ]
+    },
+    {
+      "id": "22f1ee26-e256-4eeb-a62b-a0d7a6bdca52",
+      "slug": "marsa-alam-corail-plongee-22f1ee26",
+      "category": "marsa_alam",
+      "name": {
+        "fr": "Marsa Alam CORAIL PLONGEE",
+        "bg": "Марса Алам — гмуркане при корали"
+      },
+      "description": {
+        "fr": "🐠 **Croisière Jardin de Corail – Marsa Alam**\n\nPartez pour une journée magique au cœur des plus beaux récifs coralliens de la mer Rouge 🌊✨\n\n🌊 **Une expérience inoubliable**\nDécouvrez les eaux cristallines de Marsa Alam et explorez un véritable jardin de corail riche en couleurs et en vie marine.\n\n🤿 **Snorkeling & découverte**\n• 2 sessions de snorkeling dans des spots exceptionnels\n• Observation de poissons tropicaux et récifs coralliens\n• Possibilité de voir des dauphins (selon conditions)\n\n⏰ **Programme**\n• Départ : vers 7h30 (approximatif)\n• Retour : vers 16h00 (approximatif)\n\n✅ **Inclus dans l’offre**\n• Transfert hôtel aller-retour\n• Matériel de snorkeling / plongée\n• Déjeuner à bord\n• Boissons soft\n\n⚠️ **Options**\n• Baptême de plongée sous-marine : +15€\n\n📍 **Infos**\n• Activité accessible à tous les niveaux\n• Départ possible depuis Marsa Alam\n\n💰 **Prix : 55€**\n\n📞 Réservation & infos : +201062002850",
+        "bg": "🐠 **Круиз с Коралова градина – Марса Алам**\n\nОтидете за един вълшебен ден в сърцето на най-красивите коралови рифове на Червено море 🌊✨\n\n🌊 **Незабравимо изживяване**\nОткрийте кристално чистите води на Марса Алам и изследвайте истинска коралова градина, богата на цвят и морски живот. \n\n🤿 **Гмуркане с шнорхел и открития**\n• 2 сесии за гмуркане с шнорхел на изключителни места\n• Наблюдение на тропически риби и коралови рифове\n• Възможност за гледане на делфини (според условията)\n\n⏰ **Програма**\n• Тръгване: около 7:30 ч. (приблизително)\n• Връщане: около 16:00ч. (приблизително)\n\n✅ **Включено в офертата**\n• Двупосочен трансфер до хотела\n• Оборудване за шнорхелинг/гмуркане\n• Обяд на борда\n• Безалкохолни напитки\n\n⚠️ **Опции**\n• Въведение в гмуркането: +15€\n\n📍 **Информация**\n• Дейност, достъпна за всички нива\n• Възможно тръгване от Марса Алам\n\n💰 **Цена: €55**\n\n📞 Резервации и информация: +201062002850"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 70,
+      "priceChild": 70,
+      "priceBaby": 70,
+      "ageChild": "interdit -10ans",
+      "ageBaby": "interdit -10ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/marsa-alam-corail-plongee-22f1ee26/01.jpg",
+        "/images/activities/marsa-alam-corail-plongee-22f1ee26/02.jpg",
+        "/images/activities/marsa-alam-corail-plongee-22f1ee26/03.jpg",
+        "/images/activities/marsa-alam-corail-plongee-22f1ee26/04.jpg",
+        "/images/activities/marsa-alam-corail-plongee-22f1ee26/05.jpg"
+      ]
+    },
+    {
+      "id": "6ca84b29-d676-4f6c-9437-99afbf37db3c",
+      "slug": "marsa-alam-croisiere-vip-6ca84b29",
+      "category": "marsa_alam",
+      "name": {
+        "fr": "Marsa Alam CROISIERE VIP",
+        "bg": "Марса Алам — VIP круиз"
+      },
+      "description": {
+        "fr": "🚤 **Croisière ELITE VIP – Luxe & Exclusivité en mer**\n\nOffrez-vous une expérience haut de gamme en mer Rouge avec notre croisière Elite VIP ✨\n\n🌊 **Une journée d’exception**\nEmbarquez à bord d’un bateau spacieux et élégant pour profiter d’un moment de détente, de découverte et de luxe.\n\n🤿 **Snorkeling & mer turquoise**\n• 2 arrêts snorkeling dans des spots magnifiques\n• Découverte des récifs coralliens et poissons tropicaux\n• Activité accessible à tous les niveaux\n\n🌅 **Ambiance unique**\n• Programme matin ou après-midi au choix\n• Coucher de soleil magique (formule après-midi)\n• Temps libre à Port Ghalib\n\n🍽️ **Expérience premium**\nSavourez un repas gourmand à bord (déjeuner ou dîner buffet) avec un service de qualité.\n\n⏰ **Horaires**\n• Matin : 9h00 – 14h00\n• Après-midi : 14h00 – 19h30\n\n✅ **Inclus dans l’offre**\n• Transfert hôtel aller-retour\n• Matériel de snorkeling\n• Déjeuner ou dîner buffet\n\n📍 **Infos**\n• Départ possible depuis Marsa Alam\n• Activité idéale en couple, entre amis ou en famille\n\n💰 **Prix : 95€**\n\n📞 Réservation & infos : +201062002850",
+        "bg": "🚤 **ЕЛИТЕН VIP круиз – Лукс и ексклузивност в морето**\n\nПодарете си първокласно изживяване в Червено море с нашия Elite VIP круиз ✨\n\n🌊 **Изключителен ден**\nКачете се на борда на просторна и елегантна лодка, за да се насладите на момент на релакс, откритие и лукс. \n\n🤿 **Гмуркане с шнорхел и тюркоазено море**\n• 2 спирки за гмуркане с шнорхел на прекрасни места\n• Откриване на коралови рифове и тропически риби\n• Дейност, достъпна за всички нива\n\n🌅 **Уникална атмосфера**\n• Сутрешна или следобедна програма по избор\n• Магически залез (следобеден пакет)\n• Свободно време в Порт Галиб\n\n🍽️ **Премиум изживяване**\nНасладете се на гурме храна на борда (обяд или вечеря на шведска маса) с качествено обслужване. \n\n⏰ **Графици**\n• Сутрин: 9:00 – 14:00ч.\n• Следобед: 14:00ч. – 19:30 ч.\n\n✅ **Включено в офертата**\n• Двупосочен трансфер до хотела\n• Оборудване за гмуркане с шнорхел\n• Обяд или вечеря на блок маса\n\n📍 **Информация**\n• Възможно тръгване от Марса Алам\n• Идеално занимание за двойки, приятели или семейство\n\n💰 **Цена: €95**\n\n📞 Резервации и информация: +201062002850"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 95,
+      "priceChild": 50,
+      "priceBaby": 0,
+      "ageChild": "5-12ans",
+      "ageBaby": "0-5ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/marsa-alam-croisiere-vip-6ca84b29/01.jpg",
+        "/images/activities/marsa-alam-croisiere-vip-6ca84b29/02.jpg",
+        "/images/activities/marsa-alam-croisiere-vip-6ca84b29/03.jpg",
+        "/images/activities/marsa-alam-croisiere-vip-6ca84b29/04.jpg",
+        "/images/activities/marsa-alam-croisiere-vip-6ca84b29/05.jpg"
+      ]
+    },
+    {
+      "id": "c09d1f3d-7e97-4adf-97ec-ed4374cce01d",
+      "slug": "marsa-alam-hamata-safari-c09d1f3d",
+      "category": "marsa_alam",
+      "name": {
+        "fr": "Marsa Alam HAMATA SAFARI",
+        "bg": "Марса Алам — сафари Хамата"
+      },
+      "description": {
+        "fr": "🏝️ **Hamata Island – Îles Tropicales & Snorkeling**\n\nPartez à la découverte des magnifiques îles d’Hamata, un véritable paradis aux eaux turquoise et aux plages de sable blanc 🌊✨\n\n🐠 **Snorkeling & fonds marins**\nExplorez des récifs coralliens préservés et admirez une faune marine exceptionnelle dans des eaux cristallines.\n\n🏝️ **Pause sur une île paradisiaque**\nProfitez d’un moment unique sur une île sauvage avec sable blanc et eau peu profonde, idéale pour se détendre et prendre des photos.\n\n🚤 **Une journée complète en mer**\nNaviguez à bord d’un bateau confortable et découvrez plusieurs spots incroyables.\n\n⏰ **Programme**\n• Départ hôtel : vers 7h00\n• Trajet jusqu’au port : environ 2h\n• 2 arrêts snorkeling\n• Temps libre sur l’île (~40 min)\n• Retour : vers 15h00\n\n✅ **Inclus dans l’offre**\n• Transfert hôtel aller-retour\n• Matériel de snorkeling\n• Déjeuner à bord\n• Boissons incluses\n\n⚠️ **À prévoir**\n• Taxe parc national : 5€ / personne\n\n➕ **Option**\n• Plongée sous-marine : +50€\n\n📍 **Infos**\n• Départ possible depuis Marsa Alam\n• Activité accessible à tous\n\n💰 **Prix : 60€**\n\n📞 Réservation & infos : +201062002850",
+        "bg": "🏝️ **Остров Хамата – Тропически острови и гмуркане с шнорхел**\n\nОткрийте великолепните острови Хамата, истински рай с тюркоазени води и бели пясъчни плажове 🌊✨\n\n🐠 **Гмуркане с шнорхел и морско дъно**\nИзследвайте непокътнатите коралови рифове и се възхищавайте на изключителна морска дива природа в кристално чисти води. \n\n🏝️ **Почивка на райски остров**\nНасладете се на уникален момент на див остров с бял пясък и плитка вода, идеален за почивка и правене на снимки. \n\n🚤 **Цял ден на море**\nПлавайте на борда на удобна лодка и открийте няколко невероятни места.\n\n⏰ **Програма**\n• Напускане на хотела: около 07:00ч. \n• Пътуване до пристанището: приблизително 2 часа\n• 2 спирки за гмуркане с шнорхел\n• Свободно време на острова (~40 мин.)\n• Връщане: около 15:00ч.\n\n✅ **Включено в офертата**\n• Двупосочен трансфер до хотела\n• Оборудване за гмуркане с шнорхел\n• Обяд на борда\n• Включени напитки\n\n⚠️ **Очаквано**\n• Национален парк такса: €5 / човек\n\n➕ **Опция**\n• Гмуркане: +50€\n\n📍 **Информация**\n• Възможно тръгване от Марса Алам\n• Дейност, достъпна за всички\n\n💰 **Цена: €60**\n\n📞 Резервации и информация: +201062002850"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 60,
+      "priceChild": 25,
+      "priceBaby": 0,
+      "ageChild": "5-11ans",
+      "ageBaby": "0-5ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/marsa-alam-hamata-safari-c09d1f3d/01.jpg",
+        "/images/activities/marsa-alam-hamata-safari-c09d1f3d/02.jpg",
+        "/images/activities/marsa-alam-hamata-safari-c09d1f3d/03.jpg",
+        "/images/activities/marsa-alam-hamata-safari-c09d1f3d/04.jpg",
+        "/images/activities/marsa-alam-hamata-safari-c09d1f3d/05.jpg"
+      ]
+    },
+    {
+      "id": "c2cb56cb-1b25-43b2-ae11-3bade2d8ef18",
+      "slug": "marsa-alam-neferti-vip-c2cb56cb",
+      "category": "marsa_alam",
+      "name": {
+        "fr": "Marsa Alam NEFERTI VIP",
+        "bg": "Марса Алам — Neferti VIP"
+      },
+      "description": {
+        "fr": "👑 **VIP Nefertari – Croisière Royale en mer Rouge**\n\nVivez une expérience unique à bord d’un bateau inspiré de l’Égypte antique, alliant luxe, découverte et immersion ✨\n\n🚢 **Une croisière d’exception**\nEmbarquez sur un bateau au style pharaonique et profitez d’un cadre élégant et original pour une journée inoubliable.\n\n🐠 **Découverte sous-marine & snorkeling**\n• 1h de Seascoop (sous-marin) pour explorer les fonds marins\n• 2 sessions de snorkeling dans des récifs exceptionnels\n• Observation de poissons tropicaux et coraux\n\n🌅 **Ambiance magique**\n• Temps libre à Port Ghalib\n• Coucher de soleil spectaculaire en mer\n\n🍽️ **Expérience gourmande**\nProfitez d’un repas savoureux à bord dans un cadre unique.\n\n⏰ **Programme**\n• Départ : vers 13h30\n• Seascoop (1h)\n• Snorkeling\n• Temps libre\n• Retour après le coucher de soleil\n\n✅ **Inclus dans l’offre**\n• Transfert hôtel aller-retour\n• Déjeuner inclus\n• Matériel de snorkeling / plongée\n\n📍 **Infos**\n• Départ possible depuis Marsa Alam\n• Activité accessible à tous\n\n💰 **Prix : 95€**\n\n📞 Réservation & infos : +201062002850",
+        "bg": "👑 **VIP Нефертари – Кралски круиз в Червено море**\n\nИзживейте уникално изживяване на борда на лодка, вдъхновена от древен Египет, съчетаваща лукс, открития и потапяне ✨\n\n🚢 **Изключителен круиз**\nКачете се на лодка във фараонски стил и се насладете на елегантна и оригинална обстановка за един незабравим ден. \n\n🐠 **Подводно откриване и гмуркане с шнорхел**\n• 1 час Seascoop (подводница) за изследване на морското дъно\n• 2 сесии за гмуркане с шнорхел в изключителни рифове\n• Наблюдение на тропически риби и корали\n\n🌅 **Вълшебна атмосфера**\n• Свободно време в Порт Галиб\n• Невероятен залез в морето\n\n🍽️ **Гурме изживяване**\nНасладете се на вкусна храна на борда в уникална обстановка. \n\n⏰ **Програма**\n• Тръгване: около 13:30ч.\n• Seascoop (1ч)\n• Гмуркане с шнорхел\n• Свободно време\n• Връщане след залез слънце\n\n✅ **Включено в офертата**\n• Двупосочен трансфер до хотела\n• Включен обяд\n• Оборудване за шнорхелинг/гмуркане\n\n📍 **Информация**\n• Възможно тръгване от Марса Алам\n• Дейност, достъпна за всички\n\n💰 **Цена: €95**\n\n📞 Резервации и информация: +201062002850"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 95,
+      "priceChild": 50,
+      "priceBaby": 0,
+      "ageChild": "5-12ans",
+      "ageBaby": "0-5ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/marsa-alam-neferti-vip-c2cb56cb/01.jpg",
+        "/images/activities/marsa-alam-neferti-vip-c2cb56cb/02.jpg",
+        "/images/activities/marsa-alam-neferti-vip-c2cb56cb/03.jpg",
+        "/images/activities/marsa-alam-neferti-vip-c2cb56cb/04.jpg",
+        "/images/activities/marsa-alam-neferti-vip-c2cb56cb/05.jpg"
+      ]
+    },
+    {
+      "id": "bcae03a8-971b-4a44-b7ff-78d1008ef445",
+      "slug": "marsa-alam-quad-2h-bcae03a8",
+      "category": "marsa_alam",
+      "name": {
+        "fr": "Marsa Alam QUAD 2H",
+        "bg": "Марса Алам — АТВ 2ч"
+      },
+      "description": {
+        "fr": "🏜️ **Quad 2h – Aventure dans le désert (Marsa Alam)**\n\nVivez une expérience pleine d’adrénaline au cœur du désert égyptien et partez à la découverte de paysages spectaculaires 🌅\n\n🔥 **Sensations fortes garanties**\nPrenez le guidon de votre quad et traversez les étendues de sable, entre dunes et montagnes, pour une aventure inoubliable.\n\n🏁 **Une activité fun & accessible**\n• Parcours dans le désert\n• Encadrement par des guides expérimentés\n• Activité adaptée aux débutants comme aux confirmés\n\n⏰ **Programme**\n• Départ : matin ou après-midi\n• Durée : environ 1h30 de conduite\n\n✅ **Inclus dans l’offre**\n• Transfert hôtel aller-retour\n• Location du quad\n• Encadrement\n\n📍 **Infos**\n• Conduite autorisée à partir de 16 ans\n• Passager possible dès 6 ans\n\n⚠️ **Suppléments**\n• Foulard & masque disponibles sur place\n\n💰 **Prix : 25€**\n\n📞 Réservation & infos : +201062002850",
+        "bg": "🏜️ **Quad 2h – Пустинно приключение (Марса Алам)**\n\nИзживейте изпълнено с адреналин изживяване в сърцето на египетската пустиня и открийте невероятни пейзажи 🌅\n\n🔥 **Тръпката е гарантирана**\nВземете кормилото на своя четириколка и пресечете пясъчните простори, между дюни и планини, за едно незабравимо приключение. \n\n🏁 **Забавна и достъпна дейност**\n• Курс в пустинята\n• Наблюдение от опитни водачи\n• Дейност, подходяща както за начинаещи, така и за опитни\n\n⏰ **Програма**\n• Отпътуване: сутрин или следобед\n• Продължителност: приблизително 1h30 шофиране\n\n✅ **Включено в офертата**\n• Двупосочен трансфер до хотела\n• Четворка под наем\n• Надзор\n\n📍 **Информация**\n• Разрешено шофиране от 16 години\n• Възможен пътник от 6 години\n\n⚠️ **Добавки**\n• Шал и маска налични на място\n\n💰 **Цена: €25**\n\n📞 Резервации и информация: +201062002850"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 25,
+      "priceChild": 15,
+      "priceBaby": 0,
+      "ageChild": "5-12ans",
+      "ageBaby": "interdit -5ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/marsa-alam-quad-2h-bcae03a8/01.jpg",
+        "/images/activities/marsa-alam-quad-2h-bcae03a8/02.jpg",
+        "/images/activities/marsa-alam-quad-2h-bcae03a8/03.jpg",
+        "/images/activities/marsa-alam-quad-2h-bcae03a8/04.jpg",
+        "/images/activities/marsa-alam-quad-2h-bcae03a8/05.jpg"
+      ]
+    },
+    {
+      "id": "cfe2cee6-2f32-4ec9-8c5f-b4421d903607",
+      "slug": "marsa-alam-safari-mix-cfe2cee6",
+      "category": "marsa_alam",
+      "name": {
+        "fr": "Marsa Alam SAFARI MIX",
+        "bg": "Марса Алам — микс сафари"
+      },
+      "description": {
+        "fr": "🏜️ **Safari Mix – Aventure complète désert & mer (Marsa Alam)**\n\nVivez une expérience unique mêlant adrénaline, découverte et culture au cœur du désert égyptien 🌅✨\n\n🔥 **Aventure & sensations**\nPartez en quad à travers les paysages désertiques et profitez d’un moment intense entre dunes et montagnes.\n\n🐪 **Immersion locale**\n• Photos avec les chameaux\n• Visite d’une parfumerie locale\n• Découverte de la culture bédouine\n\n🌅 **Moment magique**\nAdmirez un magnifique coucher de soleil dans le désert pour une ambiance inoubliable.\n\n🍽️ **Soirée orientale**\nTerminez la journée avec un dîner traditionnel accompagné d’un spectacle typique.\n\n⏰ **Programme**\n• Départ : vers 15h00 (approximatif)\n• Retour : vers 20h00 (approximatif)\n• Quad désert & bord de mer\n• Activités & découvertes\n• Coucher de soleil\n• Dîner & spectacle\n\n✅ **Inclus dans l’offre**\n• Transfert hôtel aller-retour\n• Location du quad\n• Dîner\n\n📍 **Infos**\n• Conduite à partir de 16 ans\n• Passager possible dès 6 ans\n\n⚠️ **Suppléments**\n• Foulard & masque disponibles sur place\n\n💰 **Prix : 45€**\n\n📞 Réservation & infos : +201062002850",
+        "bg": "🏜️ **Safari Mix – Пълно пустинно и морско приключение (Марса Алам)**\n\nИзживейте уникално изживяване, съчетаващо адреналин, открития и култура в сърцето на египетската пустиня 🌅✨\n\n🔥 **Приключения и усещания**\nКачете се на четириколка през пустинни пейзажи и се насладете на интензивен момент между дюни и планини. \n\n🐪 **Местно потапяне**\n• Снимки с камили\n• Посещение на местна парфюмерия\n• Откриване на бедуинската култура\n\n🌅 **Вълшебен момент**\nПолюбувайте се на великолепен залез в пустинята за една незабравима атмосфера. \n\n🍽️ **Ориенталска вечер**\nЗавършете деня с традиционна вечеря, придружена от типично шоу. \n\n⏰ **Програма**\n• Тръгване: около 15:00ч. (приблизително)\n• Връщане: около 20:00ч. (приблизително)\n• Quad пустиня и крайбрежие\n• Дейности и открития\n• Залез\n• Вечеря и шоу\n\n✅ **Включено в офертата**\n• Двупосочен трансфер до хотела\n• Четворка под наем\n• Вечеря\n\n📍 **Информация**\n• Шофиране от 16г\n• Възможен пътник от 6 години\n\n⚠️ **Добавки**\n• Шал и маска налични на място\n\n💰 **Цена: €45**\n\n📞 Резервации и информация: +201062002850"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 45,
+      "priceChild": 20,
+      "priceBaby": 0,
+      "ageChild": "5-12ans",
+      "ageBaby": "interdit -5ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/marsa-alam-safari-mix-cfe2cee6/01.jpg",
+        "/images/activities/marsa-alam-safari-mix-cfe2cee6/02.jpg",
+        "/images/activities/marsa-alam-safari-mix-cfe2cee6/03.jpg",
+        "/images/activities/marsa-alam-safari-mix-cfe2cee6/04.jpg",
+        "/images/activities/marsa-alam-safari-mix-cfe2cee6/05.jpg",
+        "/images/activities/marsa-alam-safari-mix-cfe2cee6/06.jpg",
+        "/images/activities/marsa-alam-safari-mix-cfe2cee6/07.jpg",
+        "/images/activities/marsa-alam-safari-mix-cfe2cee6/08.jpg",
+        "/images/activities/marsa-alam-safari-mix-cfe2cee6/09.jpg",
+        "/images/activities/marsa-alam-safari-mix-cfe2cee6/10.jpg",
+        "/images/activities/marsa-alam-safari-mix-cfe2cee6/11.jpg"
+      ]
+    },
+    {
+      "id": "0d48159d-4386-4384-ab1e-692f175773ab",
+      "slug": "marsa-alam-sataya-dauphin-0d48159d",
+      "category": "marsa_alam",
+      "name": {
+        "fr": "Marsa Alam SATAYA DAUPHIN",
+        "bg": "Марса Алам — Сатая делфини"
+      },
+      "description": {
+        "fr": "🐬 **Sataya – Récif des Dauphins (Dolphin House)**\n\nVivez une expérience magique en mer Rouge et partez à la rencontre des dauphins dans leur environnement naturel 🌊✨\n\n🐬 **Nage avec les dauphins**\nExplorez l’un des meilleurs spots au monde pour observer les dauphins et, avec un peu de chance, nager à leurs côtés dans une eau cristalline.\n\n🤿 **Snorkeling exceptionnel**\n• 2 sessions de snorkeling\n• Récifs coralliens colorés\n• Faune marine riche et variée\n\n🚤 **Une journée inoubliable en mer**\nNaviguez pendant environ 2h pour atteindre le célèbre récif de Sataya, réputé pour sa grande population de dauphins.\n\n⏰ **Programme**\n• Départ : vers 5h30 (approximatif)\n• Retour : vers 16h30 (approximatif)\n\n✅ **Inclus dans l’offre**\n• Transfert hôtel aller-retour\n• Matériel de snorkeling / plongée\n• Déjeuner à bord\n• Boissons soft\n\n📍 **Infos**\n• Activité accessible à tous niveaux\n• Départ possible depuis Marsa Alam\n\n⚠️ **À prévoir**\n• Taxe maritime : 5€ / personne\n\n💰 **Prix : 60€**\n\n📞 Réservation & infos : +201062002850",
+        "bg": "🐬 **Сатая – Делфинов риф (Къща на делфините)**\n\nИзживейте магическо изживяване в Червено море и се срещнете с делфини в естествената им среда 🌊✨\n\n🐬 **Плуване с делфини**\nРазгледайте едно от най-добрите места в света за гледане на делфини и с малко късмет плувайте редом с тях в кристално чиста вода. \n\n🤿 **Изключително гмуркане с шнорхел**\n• 2 сесии за гмуркане с шнорхел\n• Цветни коралови рифове\n• Богата и разнообразна морска фауна\n\n🚤 **Един незабравим ден на море**\nПлавайте за около 2 часа, за да стигнете до известния риф Сатая, известен с голямата си популация от делфини. \n\n⏰ **Програма**\n• Тръгване: около 5:30 ч. (приблизително)\n• Връщане: около 16:30ч. (приблизително)\n\n✅ **Включено в офертата**\n• Двупосочен трансфер до хотела\n• Оборудване за шнорхелинг/гмуркане\n• Обяд на борда\n• Безалкохолни напитки\n\n📍 **Информация**\n• Дейност, достъпна за всички нива\n• Възможно тръгване от Марса Алам\n\n⚠️ **Очаквано**\n• Морска такса: €5/човек\n\n💰 **Цена: €60**\n\n📞 Резервации и информация: +201062002850"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 65,
+      "priceChild": 35,
+      "priceBaby": 0,
+      "ageChild": "5-11ans",
+      "ageBaby": "0-5ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/marsa-alam-sataya-dauphin-0d48159d/01.jpg",
+        "/images/activities/marsa-alam-sataya-dauphin-0d48159d/02.jpg",
+        "/images/activities/marsa-alam-sataya-dauphin-0d48159d/03.jpg",
+        "/images/activities/marsa-alam-sataya-dauphin-0d48159d/04.jpeg"
+      ]
+    },
+    {
+      "id": "ea115182-1fa7-40ee-bc34-c712326942a5",
+      "slug": "marsa-alam-sataya-overnight-ea115182",
+      "category": "marsa_alam",
+      "name": {
+        "fr": "Marsa Alam SATAYA OVERNIGHT",
+        "bg": "Марса Алам — Сатая с нощувка"
+      },
+      "description": {
+        "fr": "🐬 **Sataya Overnight – Nage avec les dauphins (2 jours / 1 nuit)**\n\nVivez une expérience exceptionnelle en mer Rouge avec une nuit à bord au cœur du célèbre récif de Sataya 🌊✨\n\n🌙 **Une aventure unique en mer**\nPassez une nuit magique sur un bateau confortable, loin de tout, entre ciel étoilé et eaux cristallines.\n\n🐬 **Rencontre avec les dauphins**\n• Nage avec les dauphins dans leur habitat naturel\n• Plusieurs sessions de snorkeling\n• Observation d’une faune marine exceptionnelle\n\n🤿 **Snorkeling & récifs coralliens**\nExplorez des récifs préservés aux couleurs incroyables, parmi les plus beaux de la mer Rouge.\n\n⏰ **Programme**\n**Jour 1 :**\n• Navigation vers Sataya\n• Snorkeling & nage avec les dauphins\n• Coucher de soleil en mer\n• Dîner à bord & nuit sous les étoiles\n\n**Jour 2 :**\n• Snorkeling matinal\n• Exploration des récifs d’Abu Ghalawa\n• Retour en début d’après-midi\n\n✅ **Inclus dans l’offre**\n• Transfert hôtel aller-retour\n• Pension complète (repas, boissons, collations)\n• Guide snorkeling\n• Matériel de snorkeling\n• Frais de parc national\n\n📍 **Infos**\n• Départ possible depuis Marsa Alam\n• Activité accessible à tous niveaux\n\n💰 **Prix : 175€**\n\n📞 Réservation & infos : +201062002850",
+        "bg": "🐬 **Сатая Нощувка – Плуване с делфини (2 дни / 1 нощувка)**\n\nИзживейте едно изключително изживяване в Червено море с една нощ на борда в сърцето на известния риф Сатая 🌊✨\n\n🌙 **Уникално приключение в морето**\nПрекарайте вълшебна нощ на удобна лодка, далеч от всичко, сред звездно небе и кристално чисти води. \n\n🐬 **Среща с делфините**\n• Плувайте с делфини в естествената им среда\n• Няколко сесии за гмуркане с шнорхел\n• Наблюдение на изключителна морска фауна\n\n🤿 **Гмуркане с шнорхел и коралови рифове**\nИзследвайте непокътнати рифове с невероятни цветове, едни от най-красивите в Червено море. \n\n⏰ **Програма**\n**Ден 1:**\n• Навигация до Sataya\n• Гмуркане с шнорхел и плуване с делфини\n• Залез в морето\n• Вечеря на борда и нощувка под звездите\n\n**Ден 2:**\n• Сутрешно гмуркане с шнорхел\n• Изследване на рифовете на Абу Галава\n• Връщане рано следобед\n\n✅ **Включено в офертата**\n• Двупосочен трансфер до хотела\n• Пълен пансион (храна, напитки, закуски)\n• Водач за гмуркане с шнорхел\n• Оборудване за гмуркане с шнорхел\n• Такси за национален парк\n\n📍 **Информация**\n• Възможно тръгване от Марса Алам\n• Дейност, достъпна за всички нива\n\n💰 **Цена: €175**\n\n📞 Резервации и информация: +201062002850"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 175,
+      "priceChild": 90,
+      "priceBaby": 0,
+      "ageChild": "5-12ans",
+      "ageBaby": "0-5ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/marsa-alam-sataya-overnight-ea115182/01.jpg",
+        "/images/activities/marsa-alam-sataya-overnight-ea115182/02.jpg",
+        "/images/activities/marsa-alam-sataya-overnight-ea115182/03.jpg",
+        "/images/activities/marsa-alam-sataya-overnight-ea115182/04.jpg",
+        "/images/activities/marsa-alam-sataya-overnight-ea115182/05.jpeg"
+      ]
+    },
+    {
+      "id": "7f9ae6b2-3c65-4487-ac88-407d3e552037",
+      "slug": "marsa-alam-sataya-overnight-plongee-7f9ae6b2",
+      "category": "marsa_alam",
+      "name": {
+        "fr": "Marsa Alam SATAYA OVERNIGHT PLONGEE",
+        "bg": "Марса Алам — Сатая гмуркане с нощувка"
+      },
+      "description": {
+        "fr": "🤿 **Sataya Overnight – Plongée Sous-Marine (2 jours / 1 nuit)**\n\nPartez pour une aventure exceptionnelle en mer Rouge et vivez une immersion totale dans l’un des plus beaux sites de plongée au monde 🌊✨\n\n🐬 **Plongée & dauphins**\nExplorez les fonds marins de Sataya et nagez aux côtés des dauphins dans leur habitat naturel, accompagné de guides professionnels.\n\n🤿 **Expérience plongée unique**\n• Plusieurs plongées sous-marines sur récifs préservés\n• Découverte de coraux multicolores et poissons exotiques\n• Encadrement par des instructeurs expérimentés\n\n🌙 **Nuit magique en mer**\nProfitez d’une nuit à bord d’un bateau confortable, avec dîner sous les étoiles et ambiance unique en pleine mer.\n\n⏰ **Programme**\n**Jour 1 :**\n• Navigation vers Sataya\n• Plongée & snorkeling\n• Rencontre avec les dauphins\n• Coucher de soleil & dîner à bord\n• Nuit en mer\n\n**Jour 2 :**\n• Plongée matinale\n• Exploration des récifs d’Abu Ghalawa\n• Retour en début d’après-midi\n\n✅ **Inclus dans l’offre**\n• Transfert hôtel aller-retour\n• Pension complète (repas, boissons, collations)\n• Guide de plongée\n• Matériel de plongée\n• Frais de parc national\n\n📍 **Infos**\n• Accessible aux débutants (baptême possible) et confirmés\n• Départ possible depuis Marsa Alam\n\n💰 **Prix : 195€**\n\n📞 Réservation & infos : +201062002850",
+        "bg": "🤿 **Сатая Нощувка – Гмуркане (2 дни / 1 нощувка)**\n\nОтидете на изключително приключение в Червено море и изживейте пълно потапяне в едно от най-красивите места за гмуркане в света 🌊✨\n\n🐬 **Гмуркане и делфини**\nРазгледайте морското дъно на Sataya и плувайте заедно с делфини в естествената им среда, придружени от професионални водачи. \n\n🤿 **Уникално изживяване при гмуркане**\n• Няколко гмуркания на запазени рифове\n• Откриване на многоцветни корали и екзотични риби\n• Супервизия от опитни инструктори\n\n🌙 **Вълшебна нощ на море**\nНасладете се на една нощ на борда на комфортна лодка, с вечеря под звездите и уникална атмосфера в открито море.\n\n⏰ **Програма**\n**Ден 1:**\n• Навигация до Sataya\n• Гмуркане и гмуркане с шнорхел\n• Среща с делфини\n• Залез и вечеря на борда\n• Нощувка на море\n\n**Ден 2:**\n• Сутрешно гмуркане\n• Изследване на рифовете на Абу Галава\n• Връщане рано следобед\n\n✅ **Включено в офертата**\n• Двупосочен трансфер до хотела\n• Пълен пансион (храна, напитки, закуски)\n• Ръководство за гмуркане\n• Водолазно оборудване\n• Такси за национален парк\n\n📍 **Информация**\n• Достъпно за начинаещи (възможно кръщение) и потвърдено\n• Възможно тръгване от Марса Алам\n\n💰 **Цена: €195**\n\n📞 Резервации и информация: +201062002850"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 195,
+      "priceChild": 0,
+      "priceBaby": 0,
+      "ageChild": "interdit -10ans",
+      "ageBaby": "interdit -10ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/marsa-alam-sataya-overnight-plongee-7f9ae6b2/01.jpg",
+        "/images/activities/marsa-alam-sataya-overnight-plongee-7f9ae6b2/02.jpg",
+        "/images/activities/marsa-alam-sataya-overnight-plongee-7f9ae6b2/03.jpg",
+        "/images/activities/marsa-alam-sataya-overnight-plongee-7f9ae6b2/04.jpg",
+        "/images/activities/marsa-alam-sataya-overnight-plongee-7f9ae6b2/05.jpg"
+      ]
+    },
+    {
+      "id": "bd7e7492-f1b5-4c33-b429-28651b66d4e3",
+      "slug": "marsa-alam-seascope-bd7e7492",
+      "category": "marsa_alam",
+      "name": {
+        "fr": "Marsa Alam SEASCOPE",
+        "bg": "Марса Алам — Seascope"
+      },
+      "description": {
+        "fr": "🚤 **Seascoop – Découverte des fonds marins (Marsa Alam)**\n\nDécouvrez les merveilles de la mer Rouge sans plonger grâce à une expérience unique à bord du Seascoop 🌊🐠\n\n🔍 **Observation sous-marine**\nInstallez-vous confortablement dans la cabine immergée avec grandes baies vitrées et admirez les récifs coralliens et poissons tropicaux comme si vous étiez sous l’eau.\n\n🤿 **Snorkeling inclus**\n• 1 session de snorkeling dans un spot exceptionnel\n• Idéal pour découvrir la vie marine de plus près\n• Accessible à tous les niveaux\n\n🚤 **Une activité originale & accessible**\nParfait pour les familles et les personnes ne souhaitant pas plonger, tout en profitant pleinement des fonds marins.\n\n⏰ **Programme**\n• Durée : environ 1h30\n• Départ : matin ou après-midi\n\n✅ **Inclus dans l’offre**\n• Transfert hôtel aller-retour\n• Ticket Seascoop\n• Matériel de snorkeling\n\n📍 **Infos**\n• Activité adaptée à tous\n• Départ possible depuis Marsa Alam\n\n💰 **Prix : 40€**\n\n📞 Réservation & infos : +201062002850",
+        "bg": "🚤 **Seascoop – Откриване на морското дъно (Марса Алам)**\n\nОткрийте чудесата на Червено море без гмуркане благодарение на уникалното изживяване на борда на Seascoop 🌊🐠\n\n🔍 **Подводно наблюдение**\nНастанете се удобно в потопената кабина с големи еркерни прозорци и се любувайте на кораловите рифове и тропическите риби, сякаш сте под водата. \n\n🤿 **Включено гмуркане с шнорхел**\n• 1 гмуркане с шнорхел на изключително място\n• Идеален за откриване на морски живот отблизо\n• Достъпен за всички нива\n\n🚤 **Оригинална и достъпна дейност**\nПерфектен за семейства и хора, които не искат да се гмуркат, като същевременно се наслаждават максимално на морското дъно. \n\n⏰ **Програма**\n• Продължителност: приблизително 1ч.30ч\n• Отпътуване: сутрин или следобед\n\n✅ **Включено в офертата**\n• Двупосочен трансфер до хотела\n• Билет Seascoop\n• Оборудване за гмуркане с шнорхел\n\n📍 **Информация**\n• Занимание, подходящо за всеки\n• Възможно тръгване от Марса Алам\n\n💰 **Цена: €40**\n\n📞 Резервации и информация: +201062002850"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 40,
+      "priceChild": 20,
+      "priceBaby": 0,
+      "ageChild": "5-12ans",
+      "ageBaby": "0-5ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/marsa-alam-seascope-bd7e7492/01.jpg",
+        "/images/activities/marsa-alam-seascope-bd7e7492/02.jpg",
+        "/images/activities/marsa-alam-seascope-bd7e7492/03.jpg",
+        "/images/activities/marsa-alam-seascope-bd7e7492/04.jpg",
+        "/images/activities/marsa-alam-seascope-bd7e7492/05.jpg",
+        "/images/activities/marsa-alam-seascope-bd7e7492/06.jpg"
+      ]
+    },
+    {
+      "id": "832569a9-c2ed-4298-b51a-dd983ac504db",
+      "slug": "marsa-alam-super-safari-832569a9",
+      "category": "marsa_alam",
+      "name": {
+        "fr": "Marsa Alam SUPER SAFARI",
+        "bg": "Марса Алам — супер сафари"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 40,
+      "priceChild": 20,
+      "priceBaby": 0,
+      "ageChild": "5-12ans",
+      "ageBaby": "interdit -5ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/marsa-alam-super-safari-832569a9/01.jpg",
+        "/images/activities/marsa-alam-super-safari-832569a9/02.jpg",
+        "/images/activities/marsa-alam-super-safari-832569a9/03.jpg",
+        "/images/activities/marsa-alam-super-safari-832569a9/04.jpg",
+        "/images/activities/marsa-alam-super-safari-832569a9/05.jpg",
+        "/images/activities/marsa-alam-super-safari-832569a9/06.jpg",
+        "/images/activities/marsa-alam-super-safari-832569a9/07.jpg",
+        "/images/activities/marsa-alam-super-safari-832569a9/08.jpg",
+        "/images/activities/marsa-alam-super-safari-832569a9/09.jpg"
+      ]
+    },
+    {
+      "id": "93d2c290-6c53-42ca-be77-787efa518cd2",
+      "slug": "marsa-mubarak-plongee-93d2c290",
+      "category": "marsa_alam",
+      "name": {
+        "fr": "MARSA MUBARAK PLONGEE",
+        "bg": "Марса Мубарак — гмуркане"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 70,
+      "priceChild": 0,
+      "priceBaby": 0,
+      "ageChild": "Interdit -10ans",
+      "ageBaby": "Interdit -10ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": []
+    },
+    {
+      "id": "ddf6bdb3-7b44-4c00-ae0d-4eb2f49dbdd1",
+      "slug": "marsa-mubarak-snorkeling-ddf6bdb3",
+      "category": "marsa_alam",
+      "name": {
+        "fr": "MARSA MUBARAK SNORKELING",
+        "bg": "Марса Мубарак — шнорхелинг"
+      },
+      "description": {
+        "fr": "🐢 **Marsa Mubarak – Tortues & Dugongs (Marsa Alam)**\n\nPartez à la découverte d’un véritable paradis marin et vivez une expérience unique au cœur des eaux cristallines de la mer Rouge 🌊✨\n\n🐢 **Rencontre avec la faune marine**\nNagez aux côtés des tortues et, avec un peu de chance, observez les célèbres dugongs dans leur habitat naturel.\n\n🤿 **Snorkeling exceptionnel**\n• 2 sessions de snorkeling dans des spots magnifiques\n• Récifs coralliens riches en couleurs\n• Grande diversité de poissons tropicaux\n\n🚤 **Une journée inoubliable**\nProfitez d’une excursion en mer entre détente, exploration et moments magiques.\n\n⏰ **Programme**\n• Départ : vers 8h00\n• Retour : vers 16h00\n• 2 arrêts snorkeling\n• Observation de la faune marine\n\n✅ **Inclus dans l’offre**\n• Transfert hôtel aller-retour\n• Matériel de snorkeling / plongée\n• Déjeuner à bord\n• Boissons soft\n\n📍 **Infos**\n• Activité accessible à tous niveaux\n• Départ possible depuis Marsa Alam\n\n⚠️ **Options**\n• Baptême de plongée : +15€\n\n💰 **Prix : 55€**\n\n📞 Réservation & infos : +201062002850",
+        "bg": "🐢 **Марса Мубарак – Костенурки и дюгони (Марса Алам)**\n\nОткрийте истински морски рай и изживейте уникално изживяване в сърцето на кристално чистите води на Червено море 🌊✨\n\n🐢 **Среща с морската фауна**\nПлувайте заедно с костенурки и с малко късмет забележете известните дюгони в естествената им среда. \n\n🤿 **Изключително гмуркане с шнорхел**\n• 2 сесии за гмуркане с шнорхел на прекрасни места\n• Цветни коралови рифове\n• Голямо разнообразие от тропически риби\n\n🚤 **Един незабравим ден**\nНасладете се на морска екскурзия между релаксация, изследване и магически моменти. \n\n⏰ **Програма**\n• Тръгване: около 08:00ч.\n• Връщане: около 16:00ч.\n• 2 спирки за гмуркане с шнорхел\n• Наблюдение на морската фауна\n\n✅ **Включено в офертата**\n• Двупосочен трансфер до хотела\n• Оборудване за шнорхелинг/гмуркане\n• Обяд на борда\n• Безалкохолни напитки\n\n📍 **Информация**\n• Дейност, достъпна за всички нива\n• Възможно тръгване от Марса Алам\n\n⚠️ **Опции**\n• Първо гмуркане: +15€\n\n💰 **Цена: €55**\n\n📞 Резервации и информация: +201062002850"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 55,
+      "priceChild": 20,
+      "priceBaby": 0,
+      "ageChild": "5-12ans",
+      "ageBaby": "0-5ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/marsa-mubarak-snorkeling-ddf6bdb3/01.jpg",
+        "/images/activities/marsa-mubarak-snorkeling-ddf6bdb3/02.jpg",
+        "/images/activities/marsa-mubarak-snorkeling-ddf6bdb3/03.jpg",
+        "/images/activities/marsa-mubarak-snorkeling-ddf6bdb3/04.jpg",
+        "/images/activities/marsa-mubarak-snorkeling-ddf6bdb3/05.jpg"
+      ]
+    },
+    {
+      "id": "43715f2b-ca05-473a-8f13-b3fc406bf69e",
+      "slug": "massage-1h-43715f2b",
+      "category": "exploration_bien_etre",
+      "name": {
+        "fr": "MASSAGE 1H",
+        "bg": "Масаж 1 час"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 30,
+      "priceChild": 30,
+      "priceBaby": 0,
+      "ageChild": "9-12ans",
+      "ageBaby": "",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/massage-1h-43715f2b/01.jpg"
+      ]
+    },
+    {
+      "id": "372f5caa-201b-431e-8a11-4a30d9282cc6",
+      "slug": "mini-safari-372f5caa",
+      "category": "desert",
+      "name": {
+        "fr": "MINI SAFARI",
+        "bg": "Мини сафари"
+      },
+      "description": {
+        "fr": "🏍️ Mini Safari Quad\n\nPartez à la découverte du désert d'Hurghada lors d'une randonnée en quad d'environ 1h30. Choisissez un quad individuel ou partagé et profitez d'un parcours à travers les plaines sablonneuses, les dunes et les paysages désertiques.\n\n✅ Inclus\nLocation d'un quad individuel ou partagé\nTransfert aller-retour depuis votre hôtel\n\n\n🕒 Horaires\nDépart : vers 8h00 ou 12h00\nDurée : environ 1h30\n\n\nℹ️ Informations importantes\nConduite autorisée à partir de 16 ans\nAccompagnateur à partir de 6 ans\nActivité interdite aux femmes enceintes\nFoulard et masque en supplément\nLes tarifs peuvent varier selon la saison\nTaxes incluses",
+        "bg": "🏍️ Mini Safari Quad\n\nТръгнете да разгледате пустинята Хургада с каране на четириколки с продължителност около 1:30. Изберете индивидуален или споделен квадроцикл и се насладете на пътуване през пясъчни равнини, дюни и пустинни пейзажи. \n\n✅ Включени\nНаем на индивидуален или общ квадроциклет\nДвупосочен трансфер от вашия хотел\n\n\n🕒 Графици\nТръгване: около 8:00 ч. или 12:00 ч.\nПродължителност: около 1ч.30ч\n\n\nℹ️ Важна информация\nПраво за шофиране от 16 години\nКорепетитор от 6г\nЗабранена дейност за бременни жени\nШал и маска допълнително\nЦените могат да варират в зависимост от сезона\nВключени данъци"
+      },
+      "notes": {
+        "fr": "conduite a partir de 16ans",
+        "bg": "шофиране от 16г"
+      },
+      "priceAdult": 25,
+      "priceChild": 15,
+      "priceBaby": 0,
+      "ageChild": "6-10ans",
+      "ageBaby": "",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/mini-safari-372f5caa/01.jpg",
+        "/images/activities/mini-safari-372f5caa/02.jpg",
+        "/images/activities/mini-safari-372f5caa/03.jpg",
+        "/images/activities/mini-safari-372f5caa/04.jpg",
+        "/images/activities/mini-safari-372f5caa/05.jpeg"
+      ]
+    },
+    {
+      "id": "a16550ae-8a85-4e45-955e-670c03141ffe",
+      "slug": "motocross-a16550ae",
+      "category": "desert",
+      "name": {
+        "fr": "MOTOCROSS",
+        "bg": "Мотокрос"
+      },
+      "description": {
+        "fr": "🏍️ Motocross Désert Makadi\n\nParcourez les dunes et les falaises du désert de Makadi lors d'une sortie en motocross d'environ 1h30. Accompagné d'un guide francophone, profitez d'un parcours au cœur des paysages désertiques avec une vue panoramique.\n\n✅ Inclus\nLocation de la moto-cross\nÉquipement complet\nTransfert aller-retour depuis votre hôtel\nGuide spécialisé francophone\n\n\n🕒 Horaires\nDépart : vers 15h00 (approximatif)\nDurée : environ 1h30\n\n\n🏍️ Motos disponibles\nYamaha 250cc\nKTM 640cc\nKTM 530cc\n\n\nℹ️ Informations importantes\nConduite autorisée à partir de 16 ans\nActivité réservée aux conducteurs expérimentés\nLes tarifs peuvent varier selon la saison\nTaxes incluses",
+        "bg": "🏍️ Мотокрос в пустинята Макади\n\nПътуване през дюните и скалите на пустинята Макади на мотокрос с продължителност около 1,5 часа. Придружени от френскоговорящ гид, насладете се на пътуване през сърцето на пустинни пейзажи с панорамна гледка. \n\n✅ Включени\nМотокрос под наем\nПълно оборудване\nДвупосочен трансфер от вашия хотел\nСпециализиран френскоговорящ гид\n\n\n🕒 Графици\nТръгване: около 15:00ч. (приблизително)\nПродължителност: около 1ч.30ч\n\n\n🏍️ Налични мотоциклети\nЯмаха 250сс\nКТМ 640cc\nКТМ 530cc\n\n\nℹ️ Важна информация\nПраво за шофиране от 16 години\nДейност, запазена за опитни шофьори\nЦените могат да варират в зависимост от сезона\nВключени данъци"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 0,
+      "priceChild": 0,
+      "priceBaby": 0,
+      "ageChild": "INTERDIT -16ans",
+      "ageBaby": "",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/motocross-a16550ae/01.jpg",
+        "/images/activities/motocross-a16550ae/02.jpg",
+        "/images/activities/motocross-a16550ae/03.jpeg"
+      ]
+    },
+    {
+      "id": "2f6ab510-5e29-44e0-8078-eb75180da51c",
+      "slug": "nouvelle-activite-2f6ab510",
+      "category": "desert",
+      "name": {
+        "fr": "Nouvelle activité",
+        "bg": ""
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 0,
+      "priceChild": 0,
+      "priceBaby": 0,
+      "ageChild": "",
+      "ageBaby": "",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": []
+    },
+    {
+      "id": "d78b32e7-c21b-43f2-a984-6a2750691813",
+      "slug": "open-water-d78b32e7",
+      "category": "desert",
+      "name": {
+        "fr": "open water",
+        "bg": "Open Water"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 420,
+      "priceChild": 0,
+      "priceBaby": 0,
+      "ageChild": "-18ans",
+      "ageBaby": "",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": []
+    },
+    {
+      "id": "6751a190-f931-466f-a7f2-4db1f9fd6fa8",
+      "slug": "orange-bay-white-island-6751a190",
+      "category": "aquatique",
+      "name": {
+        "fr": "ORANGE BAY / WHITE ISLAND",
+        "bg": "Orange Bay / White Island"
+      },
+      "description": {
+        "fr": "🏝️ Orange Bay – Elite Boat\n\nProfitez d'une journée en mer avec une escale de 2 heures à Orange Bay et White Island. Découvrez les eaux cristallines de la mer Rouge, faites du snorkeling et savourez un déjeuner à bord avec boissons à volonté.\n\n✅ Inclus\nTransfert aller-retour depuis votre hôtel\nFrais d'entrée sur l'île\nMatériel de snorkeling\nDéjeuner à bord\nBoissons à volonté\n\n\n🕒 Horaires\nDépart : vers 8h30 (approximatif)\nRetour : vers 16h30 (approximatif)\n\n\nℹ️ Informations importantes\nEscale d'environ 2 heures à Orange Bay\nTaxe maritime non incluse : 5 € par personne\nLes tarifs peuvent varier selon la saison",
+        "bg": "🏝️ Orange Bay – елитна лодка\n\nНасладете се на ден в морето с 2-часово спиране в Ориндж Бей и Уайт Айлънд. Открийте кристално чистите води на Червено море, гмуркайте се с шнорхел и се насладете на обяд на борда с неограничени напитки. \n\n✅ Включени\nДвупосочен трансфер от вашия хотел\nВходни такси за о\nОборудване за гмуркане с шнорхел\nОбяд на борда\nНеограничени напитки\n\n\n🕒 Графици\nТръгване: около 8:30 ч. (приблизително)\nВръщане: около 16:30ч. (приблизително)\n\n\nℹ️ Важна информация\nСпирка от около 2 часа в Orange Bay\nБез включена морска такса: 5 евро на човек\nЦените могат да варират в зависимост от сезона"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 35,
+      "priceChild": 20,
+      "priceBaby": 0,
+      "ageChild": "6-12ans",
+      "ageBaby": "0-6ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "popular": true,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/orange-bay-white-island-6751a190/01.jpg",
+        "/images/activities/orange-bay-white-island-6751a190/02.jpg",
+        "/images/activities/orange-bay-white-island-6751a190/03.jpg",
+        "/images/activities/orange-bay-white-island-6751a190/04.jpg",
+        "/images/activities/orange-bay-white-island-6751a190/05.jpg",
+        "/images/activities/orange-bay-white-island-6751a190/06.jpg",
+        "/images/activities/orange-bay-white-island-6751a190/07.jpeg"
+      ]
+    },
+    {
+      "id": "266248a1-f0a6-4bb5-afbd-b180b94e96ca",
+      "slug": "ozirea-266248a1",
+      "category": "aquatique",
+      "name": {
+        "fr": "OZIREA",
+        "bg": "Ozirea"
+      },
+      "description": {
+        "fr": "🏝️ **OZIREA ISLAND – EXCLUSIVITÉ & CALME ABSOLU** 🌊\n\nDécouvrez une île préservée loin du tourisme de masse, idéale pour une journée de détente totale ✨\n\n🕐 **Horaires :**\n• Départ vers 8h30\n• Retour vers 16h30\n\n🌴 **Au programme :**\n• Journée sur une île calme et paradisiaque\n• Snorkeling dans des eaux cristallines\n• Baignade et relaxation dans un cadre naturel exceptionnel\n• Déjeuner les pieds dans le sable\n\n✅ **Inclus :**\n• Transfert aller / retour\n• Frais d’entrée sur l’île\n• Équipement de snorkeling\n• Buffet servi sur l’île\n• Boissons pendant le repas\n\n💰 **Tarif :** 60€\n\n⚠️ Taxe maritime non incluse : 5€ / personne\n\n✨ Une escapade parfaite pour se détendre loin de la foule\n\n📞 Contact : +20 106 200 2850\n📍 Esplanada Mall, Avenue Al Mamsha",
+        "bg": "🏝️ **ОСТРОВ OZIREA – ЕКСКЛУЗИВНОСТ И АБСОЛЮТНА ТИШИНА** 🌊\n\nОткрийте запазен остров, далеч от масовия туризъм, идеален за ден на пълен релакс ✨\n\n🕐 **Время:**\n• Отпътуване около 08:30ч.\n• Връщане около 16:30ч.\n\n🌴 **По програмата:**\n• Ден на спокоен и райски остров\n• Гмуркане с шнорхел в кристално чисти води\n• Плуване и релакс сред изключителна природна среда\n• Обядвайте с крака в пясъка\n\n✅ **Включено:**\n• Двупосочен трансфер\n• Входни такси на о\n• Оборудване за гмуркане с шнорхел\n• Бюфет сервиран на острова\n• Напитки по време на хранене\n\n💰 **Цена:** €60\n\n⚠️ Без включена морска такса: €5/човек\n\n✨ Идеално място за почивка далеч от тълпите\n\n📞 Контакт: +20 106 200 2850\n📍 Esplanada Mall, Al Mamsha Avenue"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 65,
+      "priceChild": 30,
+      "priceBaby": 0,
+      "ageChild": "3-9ans",
+      "ageBaby": "0-3ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true
+      ],
+      "popular": true,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/ozirea-266248a1/01.jpeg",
+        "/images/activities/ozirea-266248a1/02.jpeg",
+        "/images/activities/ozirea-266248a1/03.jpg",
+        "/images/activities/ozirea-266248a1/04.jpg",
+        "/images/activities/ozirea-266248a1/05.jpeg"
+      ]
+    },
+    {
+      "id": "01d5ba8a-b675-4911-a1e7-12946e564c81",
+      "slug": "panorama-wolf-01d5ba8a",
+      "category": "aquatique",
+      "name": {
+        "fr": "PANORAMA WOLF",
+        "bg": "Panorama / Wolf"
+      },
+      "description": {
+        "fr": "🚤 **SEASCOPE – EXPLORATION SOUS-MARINE** 🌊\n\nDécouvrez les fonds marins de la mer Rouge sans plonger grâce à un bateau à fond vitré ✨\n\n🕐 **Horaires :**\n• Départ vers 10h00 ou 14h00\n⏱️ Durée : environ 2h\n\n🌊 **Au programme :**\n• Observation des récifs coralliens depuis une cabine sous-marine vitrée\n• Découverte de la faune marine\n• Pause snorkeling pour nager avec les poissons\n\n✅ **Inclus :**\n• Ticket bateau à fond vitré (Seascope)\n• Matériel de snorkeling\n• Transfert aller / retour hôtel\n\n💰 **Tarif :** 15€\n\n⚠️ Taxe maritime non incluse : 5€ / personne\n⚠️ Pas de guide francophone\n\n✨ Une activité idéale pour toute la famille, accessible à tous\n\n📞 Contact : +20 106 200 2850\n📍 Esplanada Mall, Avenue Al Mamsha",
+        "bg": "🚤 **SEASCOPE – ПОДВОДНО ИЗСЛЕДВАНЕ** 🌊\n\nОткрийте морското дъно на Червено море без гмуркане благодарение на лодка със стъклено дъно ✨\n\n🕐 **Время:**\n• Отпътуване около 10:00 или 14:00ч.\n⏱️ Продължителност: приблизително 2 часа\n\n🌊 **По програмата:**\n• Наблюдение на коралови рифове от стъклена подводна кабина\n• Откриване на морска фауна\n• Пауза за гмуркане с шнорхел, за да плувате с рибите\n\n✅ **Включено:**\n• Билет за лодка със стъклено дъно (Seascope)\n• Оборудване за гмуркане с шнорхел\n• Трансфер от/до хотела\n\n💰 **Цена:** €15\n\n⚠️ Без включена морска такса: €5/човек\n⚠️ Няма френскоговорящ водач\n\n✨ Идеално занимание за цялото семейство, достъпно за всеки\n\n📞 Контакт: +20 106 200 2850\n📍 Esplanada Mall, Al Mamsha Avenue"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 20,
+      "priceChild": 10,
+      "priceBaby": 0,
+      "ageChild": "5 -10 ans",
+      "ageBaby": "Gratuit -5ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/panorama-wolf-01d5ba8a/01.jpg",
+        "/images/activities/panorama-wolf-01d5ba8a/02.jpg",
+        "/images/activities/panorama-wolf-01d5ba8a/03.jpg",
+        "/images/activities/panorama-wolf-01d5ba8a/04.jpg",
+        "/images/activities/panorama-wolf-01d5ba8a/05.jpg",
+        "/images/activities/panorama-wolf-01d5ba8a/06.jpeg"
+      ]
+    },
+    {
+      "id": "1f5a00b4-b66d-4b5e-b3b1-36cc6f069a8c",
+      "slug": "parachute-1f5a00b4",
+      "category": "aquatique",
+      "name": {
+        "fr": "PARACHUTE",
+        "bg": "Парашут"
+      },
+      "description": {
+        "fr": "🪂 PARACHUTE ASCENSIONNEL – 15€\n\n🌊 Prenez de la hauteur au-dessus de la mer Rouge !\n\n• Rendez-vous : vers 12h00  \n• Durée : environ 5 minutes  \n\n🚐 Inclus dans l’offre :  \n• Vol en parachute (solo ou duo)  \n• Encadrement professionnel  \n• Équipement de sécurité  \n\n✨ Description :  \nVivez une expérience unique en survolant la mer Rouge en parachute ascensionnel. Profitez d’une vue panoramique incroyable et d’un moment riche en sensations fortes.  \n\n⭐ Points forts :  \n• Vue exceptionnelle sur la côte  \n• Activité courte mais intense  \n• Accessible à tous  \n\nℹ️ Infos :  \n• Transfert non inclus  \n• Poids max : 180 kg / parachute  \n• Pas de guide francophone  \n• Taxes incluses",
+        "bg": "🪂 ИЗКАЧВАНЕ С ПАРАШУТ – 15€\n\n🌊 Издигнете се в небето над Червено море!\n\n• Среща: около 12:00ч.\n• Продължителност: приблизително 5 минути\n\n🚐 Включени в офертата:\n• Полет с парашут (самостоятелно или дуо)\n• Професионален надзор\n• Предпазни средства\n\n✨ Описание:\nИзживейте уникално изживяване, като плавате с парашут над Червено море. Насладете се на невероятна панорамна гледка и миг изпълнен с тръпка.\n\n⭐ Акценти:\n• Изключителна гледка към брега\n• Кратка, но интензивна дейност\n• Достъпен за всички\n\ni️ Информация:\n• Не е включен трансфер\n• Максимално тегло: 180 кг / парашут\n• Без френскоговорящ гид\n• Включени данъци"
+      },
+      "notes": {
+        "fr": "Sans transfert / direct au \"Mamma Mia Restaurant & Lounge\"",
+        "bg": "Без трансфер / директно до \"Mamma Mia Restaurant & Lounge\""
+      },
+      "priceAdult": 15,
+      "priceChild": 15,
+      "priceBaby": 0,
+      "ageChild": "interdit -6ans",
+      "ageBaby": "interdit -6ans",
+      "babiesForbidden": true,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/parachute-1f5a00b4/01.jpg",
+        "/images/activities/parachute-1f5a00b4/02.jpg",
+        "/images/activities/parachute-1f5a00b4/03.jpg",
+        "/images/activities/parachute-1f5a00b4/04.jpeg"
+      ]
+    },
+    {
+      "id": "e91920b5-7893-4009-bdf2-7526b429746d",
+      "slug": "plongee-e91920b5",
+      "category": "aquatique",
+      "name": {
+        "fr": "PLONGEE",
+        "bg": "Гмуркане"
+      },
+      "description": {
+        "fr": "🤿 Plongée Sous-Marine\n\nDécouvrez les fonds marins de la mer Rouge lors d'une journée de plongée adaptée aux débutants comme aux plongeurs confirmés. Profitez de deux sessions de plongée, d'un déjeuner à bord et d'un encadrement par un instructeur francophone.\n\n✅ Inclus\n2 sessions de plongée (entre 3 et 9 mètres)\nMatériel de plongée et de snorkeling\nDéjeuner à bord\nBoissons\nInstructeur francophone\nTransfert aller-retour depuis votre hôtel\n\n\n🕒 Horaires\nDépart : vers 8h30 (approximatif)\nRetour : vers 16h00 (approximatif)\n\n\nℹ️ Informations importantes\nActivité interdite aux femmes enceintes\nActivité interdite aux enfants de moins de 10 ans\nTaxe maritime non incluse : 5 € par personne\nLes tarifs peuvent varier selon la saison",
+        "bg": "🤿 Гмуркане\n\nОткрийте морското дъно на Червено море по време на ден на гмуркане, подходящ за начинаещи и опитни водолази. Насладете се на две сесии за гмуркане, обяд на борда и наблюдение от френскоговорящ инструктор. \n\n✅ Включени\n2 гмуркания (между 3 и 9 метра)\nОборудване за гмуркане и гмуркане с шнорхел\nОбяд на борда\nНапитки\nФренскоговорящ инструктор\nДвупосочен трансфер от вашия хотел\n\n\n🕒 Графици\nТръгване: около 8:30 ч. (приблизително)\nВръщане: около 16:00ч. (приблизително)\n\n\nℹ️ Важна информация\nЗабранена дейност за бременни жени\nДейността е забранена за деца под 10 години\nБез включена морска такса: 5 евро на човек\nЦените могат да варират в зависимост от сезона"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 35,
+      "priceChild": 35,
+      "priceBaby": 0,
+      "ageChild": "6-10ans",
+      "ageBaby": "0-6ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": true,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/plongee-e91920b5/01.jpg",
+        "/images/activities/plongee-e91920b5/02.jpg",
+        "/images/activities/plongee-e91920b5/03.jpg",
+        "/images/activities/plongee-e91920b5/04.jpeg"
+      ]
+    },
+    {
+      "id": "1ac1fe0e-2bb7-49e6-8007-996b1c2f155e",
+      "slug": "plongee-niveau-1-1ac1fe0e",
+      "category": "aquatique",
+      "name": {
+        "fr": "PLONGÉE NIVEAU 1",
+        "bg": "Гмуркане ниво 1"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 55,
+      "priceChild": 0,
+      "priceBaby": 0,
+      "ageChild": "0",
+      "ageBaby": "0",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/plongee-niveau-1-1ac1fe0e/01.jpg",
+        "/images/activities/plongee-niveau-1-1ac1fe0e/02.jpg",
+        "/images/activities/plongee-niveau-1-1ac1fe0e/03.jpg"
+      ]
+    },
+    {
+      "id": "b2ecacb2-78c3-4686-8856-c2dea2d5d172",
+      "slug": "quad-sunset-b2ecacb2",
+      "category": "desert",
+      "name": {
+        "fr": "QUAD SUNSET",
+        "bg": "АТВ при залез"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 35,
+      "priceChild": 25,
+      "priceBaby": 0,
+      "ageChild": "6-10ans",
+      "ageBaby": "",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/quad-sunset-b2ecacb2/01.jpg",
+        "/images/activities/quad-sunset-b2ecacb2/02.jpg",
+        "/images/activities/quad-sunset-b2ecacb2/03.jpg",
+        "/images/activities/quad-sunset-b2ecacb2/04.jpg"
+      ]
+    },
+    {
+      "id": "101aaf54-4651-4b25-b9d2-c6dc72fca14b",
+      "slug": "soma-bay-aeroport-4-pax-101aaf54",
+      "category": "transfert",
+      "name": {
+        "fr": "SOMA BAY - AEROPORT 4 pax",
+        "bg": "Soma Bay — летище 4 души"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 0,
+      "priceChild": 0,
+      "priceBaby": 0,
+      "ageChild": "",
+      "ageBaby": "",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/soma-bay-aeroport-4-pax-101aaf54/01.png"
+      ]
+    },
+    {
+      "id": "b97e4411-f1dc-4b72-9020-be38f184430d",
+      "slug": "soma-bay-aeroport-7-pax-b97e4411",
+      "category": "transfert",
+      "name": {
+        "fr": "SOMA BAY - AEROPORT 7 pax",
+        "bg": "Soma Bay — летище 7 души"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 0,
+      "priceChild": 0,
+      "priceBaby": 0,
+      "ageChild": "",
+      "ageBaby": "",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/soma-bay-aeroport-7-pax-b97e4411/01.png"
+      ]
+    },
+    {
+      "id": "3b8bcd36-9861-4468-9e0a-1b120809675f",
+      "slug": "spa-luxury-1-3b8bcd36",
+      "category": "exploration_bien_etre",
+      "name": {
+        "fr": "SPA LUXURY 1",
+        "bg": "СПА Luxury 1"
+      },
+      "description": {
+        "fr": "🧖‍♀️ SPA & MASSAGE – 40€\n\n🌸 Bien-être & relaxation absolue !\n\n• Départ vers 9h30 ou 15h00  \n• Durée : environ 2h30  \n\n🚐 Inclus :  \n• Transfert hôtel aller-retour  \n• Accès complet au spa  \n• Fruits frais au jacuzzi  \n\n✨ Programme complet :  \n• Sauna & bain vapeur / grotte salée  \n• Gommage visage & corps  \n• Bain moussant relaxant  \n• Massage savonneux  \n• Jacuzzi  \n• Masque visage & massage corps  \n\n⭐ Points forts :  \n• 2h30 de détente totale  \n• Idéal en couple ou entre amis  \n• Soin complet visage & corps",
+        "bg": "🧖‍♀️ СПА и МАСАЖ – 40€\n\n🌸 Абсолютно благополучие и релакс! \n\n• Тръгване около 9:30 или 15:00ч.\n• Продължителност: приблизително 2ч.30ч\n\n🚐 Включено:\n• Двупосочен трансфер до хотела\n• Пълен достъп до спа центъра\n• Свежи плодове в джакузито\n\n✨ Пълна програма:\n• Сауна и парна баня / солна пещера\n• Скраб за лице и тяло\n• Релаксираща вана с мехурчета\n• Сапунен масаж\n• Джакузи\n• Маска за лице и масаж на тяло\n\n⭐ Акценти:\n• 2h30 пълен релакс\n• Идеален за двойка или с приятели\n• Цялостно лечение на лице и тяло"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 40,
+      "priceChild": 40,
+      "priceBaby": 0,
+      "ageChild": "Interdit -9ans",
+      "ageBaby": "Interdit -9ans",
+      "babiesForbidden": true,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/spa-luxury-1-3b8bcd36/01.jpg",
+        "/images/activities/spa-luxury-1-3b8bcd36/02.jpg",
+        "/images/activities/spa-luxury-1-3b8bcd36/03.jpg",
+        "/images/activities/spa-luxury-1-3b8bcd36/04.jpg",
+        "/images/activities/spa-luxury-1-3b8bcd36/05.jpeg"
+      ]
+    },
+    {
+      "id": "23b6a747-ff46-4b39-ae93-accf816e1035",
+      "slug": "spa-luxury-2-23b6a747",
+      "category": "exploration_bien_etre",
+      "name": {
+        "fr": "SPA LUXURY 2",
+        "bg": "СПА Luxury 2"
+      },
+      "description": {
+        "fr": "🧖‍♀️ SPA & MASSAGE – 45€\n\n🌸 Détente premium & soins complets !\n\n• Départ vers 9h30 ou 15h00  \n• Durée : environ 2h30  \n\n🚐 Inclus :  \n• Transfert hôtel aller-retour  \n• Accès complet au spa  \n• Fruits frais au jacuzzi  \n\n✨ Programme complet :  \n• Sauna, bain vapeur & jacuzzi  \n• Grotte salée & bain moussant relaxant  \n• Gommage corps (coco ou café)  \n• Massage savonneux  \n• Gommage mains & pieds (sel de la mer morte)  \n• Masque visage au chocolat 🍫  \n• Massage complet  \n\n⭐ Points forts :  \n• 2h30 de détente sans interruption  \n• Soin visage & corps complet  \n• Expérience bien-être haut de gamme",
+        "bg": "🧖‍♀️ СПА и МАСАЖ – 45€\n\n🌸 Премиум релакс и пълна грижа! \n\n• Тръгване около 9:30 или 15:00ч.\n• Продължителност: приблизително 2ч.30ч\n\n🚐 Включено:\n• Двупосочен трансфер до хотела\n• Пълен достъп до спа центъра\n• Свежи плодове в джакузито\n\n✨ Пълна програма:\n• Сауна, парна баня и джакузи\n• Солна пещера и релаксираща вана с мехурчета\n• Скраб за тяло (кокос или кафе)\n• Сапунен масаж\n• Скраб за ръце и крака (сол от Мъртво море)\n• Шоколадова маска за лице 🍫\n• Цялостен масаж\n\n⭐ Акценти:\n• 2 часа и 30 минути релакс без прекъсване\n• Цялостна терапия за лице и тяло\n• Уелнес изживяване от висок клас"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 45,
+      "priceChild": 45,
+      "priceBaby": 0,
+      "ageChild": "Interdit -9ans",
+      "ageBaby": "Interdit -9ans",
+      "babiesForbidden": true,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": true,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/spa-luxury-2-23b6a747/01.jpg",
+        "/images/activities/spa-luxury-2-23b6a747/02.jpg",
+        "/images/activities/spa-luxury-2-23b6a747/03.jpg",
+        "/images/activities/spa-luxury-2-23b6a747/04.jpg",
+        "/images/activities/spa-luxury-2-23b6a747/05.jpeg"
+      ]
+    },
+    {
+      "id": "5d4152c1-34cc-4d4f-8000-7261227bf4d0",
+      "slug": "spa-privatif-1-5d4152c1",
+      "category": "exploration_bien_etre",
+      "name": {
+        "fr": "SPA PRIVATIF 1",
+        "bg": "Частен СПА 1"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 80,
+      "priceChild": 0,
+      "priceBaby": 0,
+      "ageChild": "9-11ans",
+      "ageBaby": "Interdit -6ans",
+      "babiesForbidden": true,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/spa-privatif-1-5d4152c1/01.jpg",
+        "/images/activities/spa-privatif-1-5d4152c1/02.jpg",
+        "/images/activities/spa-privatif-1-5d4152c1/03.jpg"
+      ]
+    },
+    {
+      "id": "433183e6-ac99-4a7c-8ce0-cda6fe72f6fc",
+      "slug": "spa-privatif-2-433183e6",
+      "category": "exploration_bien_etre",
+      "name": {
+        "fr": "SPA PRIVATIF 2",
+        "bg": "Частен СПА 2"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 90,
+      "priceChild": 90,
+      "priceBaby": 0,
+      "ageChild": "Interdit -9ans",
+      "ageBaby": "Interdit -9ans",
+      "babiesForbidden": true,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/spa-privatif-2-433183e6/01.jpg",
+        "/images/activities/spa-privatif-2-433183e6/02.jpg",
+        "/images/activities/spa-privatif-2-433183e6/03.jpg"
+      ]
+    },
+    {
+      "id": "88ffad11-19af-4db2-ace6-894803e14fbc",
+      "slug": "spa-royal-88ffad11",
+      "category": "exploration_bien_etre",
+      "name": {
+        "fr": "SPA ROYAL",
+        "bg": "СПА Royal"
+      },
+      "description": {
+        "fr": "💆‍♀️ **Royal Spa – Bien-être & Relaxation**\n\nOffrez-vous un moment de détente absolue dans un spa élégant et chaleureux, pensé pour le repos du corps et de l’esprit ✨\n\n🧖‍♀️ **Un programme complet de relaxation**\nProfitez de plusieurs soins dans une ambiance apaisante pour une expérience 100% bien-être.\n\n🌿 **Programme inclus**\n• Sauna & bain vapeur\n• Gommage visage et corps complet\n• Bain moussant relaxant\n• Massage savonneux & jacuzzi\n• Massage corps complet\n\n⏰ **Horaires**\n• Départ : vers 9h30 ou 15h00\n• Durée : environ 2h30\n\n✅ **Inclus dans l’offre**\n• Accès au SPA complet\n• Transfert hôtel aller-retour\n\n✨ **Points forts**\n• 2h30 de soins sans interruption\n• Idéal en couple ou entre amis\n• Relaxation complète du corps et de l’esprit\n\n📍 **Infos**\n• SPA mixte\n• Taxes incluses\n\n💰 **Prix : 35€**\n\n📞 Réservation & infos : +201062002850",
+        "bg": "💆‍♀️ **Royal Spa – Благополучие и релаксация**\n\nПодарете си момент на абсолютна релаксация в елегантен и топъл СПА център, създаден да отпочине на тялото и ума ви ✨\n\n🧖‍♀️ **Пълна програма за релакс**\nНасладете се на няколко процедури в успокояваща атмосфера за 100% благополучие. \n\n🌿 **Включена програма**\n• Сауна и парна баня\n• Скраб за цяло лице и тяло\n• Релаксираща вана с мехурчета\n• Сапунен масаж и джакузи\n• Масаж на цяло тяло\n\n⏰ **Графици**\n• Отпътуване: около 9:30 или 15:00ч.\n• Продължителност: приблизително 2ч.30ч\n\n✅ **Включено в офертата**\n• Достъп до целия СПА център\n• Двупосочен трансфер до хотела\n\n✨ **Акценти**\n• 2,5 часа непрекъснато лечение\n• Идеален за двойка или с приятели\n• Пълен релакс на тялото и ума\n\n📍 **Информация**\n• Смесен СПА\n• Включени данъци\n\n💰 **Цена: €35**\n\n📞 Резервации и информация: +201062002850"
+      },
+      "notes": {
+        "fr": "Interdit à la vente au hotel hors Hurghada",
+        "bg": "Забранено за продажба в хотели извън Хургада"
+      },
+      "priceAdult": 35,
+      "priceChild": 35,
+      "priceBaby": 0,
+      "ageChild": "Interdit -9ans",
+      "ageBaby": "Interdit -9ans",
+      "babiesForbidden": true,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/spa-royal-88ffad11/01.jpg",
+        "/images/activities/spa-royal-88ffad11/02.png"
+      ]
+    },
+    {
+      "id": "e2312bf5-03d2-494a-8ebf-87e6c60e547e",
+      "slug": "speedboat-e2312bf5",
+      "category": "aquatique",
+      "name": {
+        "fr": "SPEEDBOAT",
+        "bg": "Спийдбоут"
+      },
+      "description": {
+        "fr": "🚤 Speed Boat Privatif\n\nProfitez d'une sortie privée en speed boat pour explorer les plus beaux spots de la mer Rouge. Faites du snorkeling, découvrez les bancs de sable immergés et personnalisez votre excursion avec une escale vers Orange Bay, Ozeria, Dolphin House, Hula Hula ou Eden (en supplément).\n\n✅ Inclus\nTransfert aller-retour depuis votre hôtel\nLocation d'un speed boat privatif\nMatériel de snorkeling\n\n\n🕒 Horaires\nDéparts disponibles : 8h30 ou 12h00\nDurée au choix : 4h ou 8h\n\n\nℹ️ Informations importantes\nPossibilité d'ajouter une escale sur une île (en supplément)\nTaxe maritime non incluse : 5 € par personne\nGuide francophone non inclus\nLes tarifs peuvent varier selon la saison",
+        "bg": "🚤 Частна скоростна лодка\n\nНасладете се на частно пътуване с моторна лодка, за да разгледате най-красивите места на Червено море. Отидете на гмуркане с шнорхел, открийте потопените пясъчни ивици и персонализирайте екскурзията си с междинна спирка в Orange Bay, Ozeria, Dolphin House, Hula Hula или Eden (срещу допълнително заплащане). \n\n✅ Включени\nДвупосочен трансфер от вашия хотел\nНаем на частна скоростна лодка\nОборудване за гмуркане с шнорхел\n\n\n🕒 Графици\nВъзможни заминавания: 8:30 ч. или 12:00 ч.\nПродължителност по избор: 4 часа или 8 часа\n\n\nℹ️ Важна информация\nВъзможност за добавяне на спирка на остров (срещу допълнително заплащане)\nБез включена морска такса: 5 евро на човек\nНе е включен френскоговорящ гид\nЦените могат да варират в зависимост от сезона"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 0,
+      "priceChild": 0,
+      "priceBaby": 0,
+      "ageChild": "6-9ans",
+      "ageBaby": "0-6ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": true,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/speedboat-e2312bf5/01.jpg",
+        "/images/activities/speedboat-e2312bf5/02.jpg",
+        "/images/activities/speedboat-e2312bf5/03.jpg",
+        "/images/activities/speedboat-e2312bf5/04.jpeg"
+      ]
+    },
+    {
+      "id": "68ded155-b815-4c09-9257-2f67bc420d36",
+      "slug": "speedboat-sunset-68ded155",
+      "category": "aquatique",
+      "name": {
+        "fr": "SPEEDBOAT SUNSET",
+        "bg": "Спийдбоут при залез"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 0,
+      "priceChild": 0,
+      "priceBaby": 0,
+      "ageChild": "",
+      "ageBaby": "",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/speedboat-sunset-68ded155/01.jpg",
+        "/images/activities/speedboat-sunset-68ded155/02.jpg",
+        "/images/activities/speedboat-sunset-68ded155/03.jpg",
+        "/images/activities/speedboat-sunset-68ded155/04.jpeg"
+      ]
+    },
+    {
+      "id": "d6f570d3-eeca-45af-bbea-df0761093f1b",
+      "slug": "sunrise-cheval-d6f570d3",
+      "category": "desert",
+      "name": {
+        "fr": "SUNRISE CHEVAL",
+        "bg": "Конна езда при изгрев"
+      },
+      "description": {
+        "fr": "🌅 SUNRISE EXPERIENCE – 45€\n\n✨ Vivez un moment magique au lever du soleil !\n\n• Départ : vers 5h00  \n• Retour : vers 9h00  \n• Durée : environ 4h  \n\n🚐 Inclus dans l’offre :  \n• Transfert hôtel aller-retour  \n• Activité au choix : quad ou cheval (2h)  \n\n🐎 Cheval : balade paisible jusqu’à la mer  \n\n✨ Description :  \nCommencez votre journée de la plus belle des façons avec une expérience unique au lever du soleil. Entre calme, paysages exceptionnels et lumière dorée, profitez d’un moment hors du temps dans le désert d’Hurghada.  \n\n⭐ Points forts :  \n• Lever de soleil exceptionnel  \n• Activité calme\n• Parfait pour bien commencer la journée  \n\nℹ️ Infos :  \n• Taxes incluses",
+        "bg": "🌅 ИЗЖИВЯВАНЕ НА ИЗГРЕВ – 45€\n\n✨ Изживейте вълшебен момент по изгрев! \n\n• Тръгване: около 05:00ч.\n• Връщане: около 09:00ч.\n• Продължителност: приблизително 4 часа\n\n🚐 Включени в офертата:\n• Двупосочен трансфер до хотела\n• Занимание по избор: квадроцикли или кон (2 часа)\n\n🐎 Кон: спокойна езда до морето\n\n✨ Описание:\nЗапочнете деня си по най-красивия начин с уникално изживяване при изгрев. Между спокойни, изключителни пейзажи и златна светлина, насладете се на безкраен момент в пустинята Хургада. \n\n⭐ Акценти:\n• Изключителен изгрев\n• Спокойна дейност\n• Перфектен за правилното начало на деня\n\ni️ Информация:\n• Включени данъци"
+      },
+      "notes": {
+        "fr": "Poid max 90kg",
+        "bg": "Максимално тегло 90 кг"
+      },
+      "priceAdult": 45,
+      "priceChild": 45,
+      "priceBaby": 0,
+      "ageChild": "Interdit -12ans",
+      "ageBaby": "Interdit -12ans",
+      "babiesForbidden": true,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        true,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/sunrise-cheval-d6f570d3/01.jpg",
+        "/images/activities/sunrise-cheval-d6f570d3/02.jpg",
+        "/images/activities/sunrise-cheval-d6f570d3/03.jpg",
+        "/images/activities/sunrise-cheval-d6f570d3/04.jpg",
+        "/images/activities/sunrise-cheval-d6f570d3/05.jpg",
+        "/images/activities/sunrise-cheval-d6f570d3/06.jpg",
+        "/images/activities/sunrise-cheval-d6f570d3/07.jpeg"
+      ]
+    },
+    {
+      "id": "6b8fc8e7-eb9e-45a4-bc02-0517ce6f4bd4",
+      "slug": "sunrise-quad-6b8fc8e7",
+      "category": "desert",
+      "name": {
+        "fr": "SUNRISE QUAD",
+        "bg": "АТВ при изгрев"
+      },
+      "description": {
+        "fr": "🌅 SUNRISE EXPERIENCE – 45€\n\n✨ Vivez un moment magique au lever du soleil !\n\n• Départ : vers 5h00  \n• Retour : vers 9h00  \n• Durée : environ 4h  \n\n🚐 Inclus dans l’offre :  \n• Transfert hôtel aller-retour  \n\n🏍️ Quad : sensations fortes dans le désert  \n\n✨ Description :  \nCommencez votre journée de la plus belle des façons avec une expérience unique au lever du soleil. Entre calme, paysages exceptionnels et lumière dorée, profitez d’un moment hors du temps dans le désert d’Hurghada.  \n\n⭐ Points forts :  \n• Lever de soleil exceptionnel  \n• Parfait pour bien commencer la journée  \n\nℹ️ Infos :  \n• Accessible à tous  \n• Taxes incluses",
+        "bg": "🌅 ИЗЖИВЯВАНЕ НА ИЗГРЕВ – 45€\n\n✨ Изживейте вълшебен момент по изгрев! \n\n• Тръгване: около 05:00ч.\n• Връщане: около 09:00ч.\n• Продължителност: приблизително 4 часа\n\n🚐 Включени в офертата:\n• Двупосочен трансфер до хотела\n\n🏍️ Quad: тръпка в пустинята\n\n✨ Описание:\nЗапочнете деня си по най-красивия начин с уникално изживяване при изгрев. Между спокойни, изключителни пейзажи и златна светлина, насладете се на безкраен момент в пустинята Хургада. \n\n⭐ Акценти:\n• Изключителен изгрев\n• Перфектен за правилното начало на деня\n\ni️ Информация:\n• Достъпен за всички\n• Включени данъци"
+      },
+      "notes": {
+        "fr": "conduite des 16ans",
+        "bg": "шофиране за 16г"
+      },
+      "priceAdult": 45,
+      "priceChild": 25,
+      "priceBaby": 0,
+      "ageChild": "6-16ans",
+      "ageBaby": "Interdit -6ans",
+      "babiesForbidden": true,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        true,
+        false
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/sunrise-quad-6b8fc8e7/01.jpg",
+        "/images/activities/sunrise-quad-6b8fc8e7/02.jpg",
+        "/images/activities/sunrise-quad-6b8fc8e7/03.jpg",
+        "/images/activities/sunrise-quad-6b8fc8e7/04.jpg",
+        "/images/activities/sunrise-quad-6b8fc8e7/05.jpeg"
+      ]
+    },
+    {
+      "id": "60d49e31-4924-47b9-9c75-017e8d169e28",
+      "slug": "super-safari-60d49e31",
+      "category": "desert",
+      "name": {
+        "fr": "SUPER SAFARI",
+        "bg": "Супер сафари"
+      },
+      "description": {
+        "fr": "🏜️ Super Safari Désert\n\nPartez pour une excursion complète au cœur du désert avec une balade en quad, un tour en buggy, une sortie en jeep et la découverte d'un village bédouin. La journée se termine par un dîner oriental accompagné d'un spectacle traditionnel.\n\n✅ Inclus\n20 minutes de quad\n15 minutes de buggy\nBalade en jeep (25 km)\nVisite d'un village bédouin\nDîner oriental\nSpectacle traditionnel\nTransfert aller-retour depuis votre hôtel\n\n\n🕒 Horaires\nDépart : vers 11h30 (approximatif)\nRetour : vers 19h00 (approximatif)\n\n\nℹ️ Informations importantes\nConduite autorisée à partir de 16 ans\nAccompagnateur à partir de 6 ans\nActivité interdite aux femmes enceintes\nFoulard et masque en supplément\nLes tarifs peuvent varier selon la saison\nTaxes incluses",
+        "bg": "🏜️ Супер пустинно сафари\n\nОтидете на пълна екскурзия до сърцето на пустинята с каране на четириколка, каране на бъги, каране на джип и откриване на бедуинско село. Денят завършва с ориенталска вечеря, придружена от традиционно шоу. \n\n✅ Включени\n20 минути квадроцикл\n15 минути с бъги\nРазходка с джип (25 км)\nПосещение на бедуинско село\nОриенталска вечеря\nТрадиционно шоу\nДвупосочен трансфер от вашия хотел\n\n\n🕒 Графици\nТръгване: около 11:30 ч. (приблизително)\nВръщане: около 19:00ч. (приблизително)\n\n\nℹ️ Важна информация\nПраво за шофиране от 16 години\nКорепетитор от 6г\nЗабранена дейност за бременни жени\nШал и маска допълнително\nЦените могат да варират в зависимост от сезона\nВключени данъци"
+      },
+      "notes": {
+        "fr": "conduite des 16ans",
+        "bg": "шофиране за 16г"
+      },
+      "priceAdult": 30,
+      "priceChild": 15,
+      "priceBaby": 0,
+      "ageChild": "6-10ans",
+      "ageBaby": "",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": true,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/super-safari-60d49e31/01.jpg",
+        "/images/activities/super-safari-60d49e31/02.jpg",
+        "/images/activities/super-safari-60d49e31/03.jpg",
+        "/images/activities/super-safari-60d49e31/04.jpg",
+        "/images/activities/super-safari-60d49e31/05.jpeg"
+      ]
+    },
+    {
+      "id": "bcef4c1d-e578-4a92-a6d3-521497c95ece",
+      "slug": "tortue-abu-dabbab-bcef4c1d",
+      "category": "aquatique",
+      "name": {
+        "fr": "TORTUE ABU DABBAB",
+        "bg": "Костенурки Абу Дабаб"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 70,
+      "priceChild": 35,
+      "priceBaby": 0,
+      "ageChild": "3-11ans",
+      "ageBaby": "0-3ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/tortue-abu-dabbab-bcef4c1d/01.jpg",
+        "/images/activities/tortue-abu-dabbab-bcef4c1d/02.jpg",
+        "/images/activities/tortue-abu-dabbab-bcef4c1d/03.jpg",
+        "/images/activities/tortue-abu-dabbab-bcef4c1d/04.jpg"
+      ]
+    },
+    {
+      "id": "3b1f0823-bfb3-4854-8501-b0fe42b2905b",
+      "slug": "waterworld-3b1f0823",
+      "category": "exploration_bien_etre",
+      "name": {
+        "fr": "WATERWORLD",
+        "bg": "Waterworld"
+      },
+      "description": {
+        "fr": "💦 **AQUAPARK WATERWORLD – FUN & GLISSADES** 🌊\n\nProfitez d’une journée 100% fun dans l’un des plus grands parcs aquatiques d’Hurghada ✨\n\n🕐 **Horaires :**\n• Départ vers 10h00\n• Retour vers 16h30\n\n🎢 **Au programme :**\n• Accès illimité aux toboggans\n• Piscines à vagues et rivières\n• Espaces pour enfants et adultes\n• Détente et amusement toute la journée\n\n✅ **Inclus :**\n• Accès complet au parc\n• Déjeuner snack\n• Boissons soft\n• Transfert aller / retour hôtel\n\n💰 **Tarif :** 50€ (taxes incluses)\n\n⚠️ Pas de guide francophone\n\n✨ Une activité parfaite pour petits et grands\n\n📞 Contact : +20 106 200 2850\n📍 Esplanada Mall, Avenue Al Mamsha",
+        "bg": "💦 **АКВАПАРК ВОДЕН СВЯТ – ЗАБАВЛЕНИЯ И ПЪРЗАЛКИ** 🌊\n\nНасладете се на 100% забавен ден в един от най-големите водни паркове в Хургада ✨\n\n🕐 **Время:**\n• Отпътуване около 10:00ч.\n• Връщане около 16:30ч.\n\n🎢 **По програмата:**\n• Неограничен достъп до слайдове\n• Басейни с вълни и реки\n• Пространства за деца и възрастни\n• Релаксация и забавление през целия ден\n\n✅ **Включено:**\n• Пълен достъп до парка\n• Снек обяд\n• Безалкохолни напитки\n• Трансфер от/до хотела\n\n💰 **Цена:** €50 (с включени данъци)\n\n⚠️ Няма френскоговорящ водач\n\n✨ Идеално занимание за малки и големи\n\n📞 Контакт: +20 106 200 2850\n📍 Esplanada Mall, Al Mamsha Avenue"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 50,
+      "priceChild": 30,
+      "priceBaby": 0,
+      "ageChild": "6-11ans",
+      "ageBaby": "0-6ans",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/waterworld-3b1f0823/01.jpg",
+        "/images/activities/waterworld-3b1f0823/02.jpg",
+        "/images/activities/waterworld-3b1f0823/03.jpg",
+        "/images/activities/waterworld-3b1f0823/04.jpeg"
+      ]
+    },
+    {
+      "id": "5c3ccf82-11c7-4153-a001-03a5f01d26d4",
+      "slug": "zero-tracas-5c3ccf82",
+      "category": "transfert",
+      "name": {
+        "fr": "ZERO TRACAS",
+        "bg": "Zero Tracas"
+      },
+      "description": {
+        "fr": "",
+        "bg": ""
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 0,
+      "priceChild": 0,
+      "priceBaby": 0,
+      "ageChild": "",
+      "ageBaby": "",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": []
+    },
+    {
+      "id": "5e037e60-382b-429d-819a-28e1c51731f3",
+      "slug": "zero-tracas-hors-zone-5e037e60",
+      "category": "transfert",
+      "name": {
+        "fr": "ZERO TRACAS HORS ZONE",
+        "bg": "Zero Tracas извън зона"
+      },
+      "description": {
+        "fr": "ack Zéro Tracas – Voyagez l’esprit tranquille ✈️🌴\n\nSimplifiez votre arrivée à Hurghada avec notre pack complet pensé pour votre confort. Dès votre arrivée, tout est pris en charge pour vous éviter le stress et les démarches compliquées.\n\n✅ Le pack inclut :\n\nVotre visa touristique\nUne carte SIM locale avec appels + 12 Go d’internet\nUn transfert privé depuis l’aéroport jusqu’à votre hôtel (aller simple)\n\n💰 Tarifs :\n\n45€ pour les hôtels situés à Hurghada\n55€ pour les hôtels hors Hurghada (El Gouna, Makadi, Safaga, Sahl Hasheesh)\n\n🔒 Réservation simple et rapide\nLe paiement s’effectue en ligne avant votre arrivée pour garantir une prise en charge fluide dès votre atterrissage.\n\n👤 100% guide francophone\nProfitez d’un accompagnement professionnel et rassurant tout au long de votre arrivée.\n\n📞 Contact : +20 106 200 2850\n📍 Adresse : Esplanada Mall, Avenue Al Mamsha",
+        "bg": "ack Zero Hassle – Пътувайте спокойно ✈️🌴\n\nОпростете пристигането си в Хургада с нашия пълен пакет, предназначен за вашия комфорт. Още с пристигането ви всичко е направено, за да избегнете стреса и сложните процедури. \n\n✅ Пакетът включва:\n\nВашата туристическа виза\nМестна SIM карта с разговори + 12 GB интернет\nЧастен трансфер от летището до вашия хотел (еднопосочен)\n\n💰 Цени:\n\n45 € за хотели, разположени в Хургада\n55 € за хотели извън Хургада (Ел Гуна, Макади, Сафага, Сахл Хашиш)\n\n🔒 Бърза и лесна резервация\nПлащането се извършва онлайн преди вашето пристигане, за да се гарантира безпроблемно обслужване веднага щом кацнете. \n\n👤 100% френскоговорящ водач\nВъзползвайте се от професионална и успокояваща поддръжка по време на вашето пристигане. \n\n📞 Контакт: +20 106 200 2850\n📍 Адрес: Esplanada Mall, Al Mamsha Avenue"
+      },
+      "notes": {
+        "fr": "",
+        "bg": ""
+      },
+      "priceAdult": 0,
+      "priceChild": 0,
+      "priceBaby": 0,
+      "ageChild": "",
+      "ageBaby": "",
+      "babiesForbidden": false,
+      "currency": "EUR",
+      "availableDays": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "popular": false,
+      "catalogPaused": false,
+      "images": [
+        "/images/activities/zero-tracas-hors-zone-5e037e60/01.jpeg"
+      ]
+    }
+  ]
+}

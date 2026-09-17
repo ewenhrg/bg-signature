@@ -1,0 +1,21 @@
+﻿# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime / env
+node_modules
+dist
+dist-ssr
+*.local
+.env
+.env.*.local
+
+# One-shot migration artifacts (optional keep locally)
+scripts/_live_export.json
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
